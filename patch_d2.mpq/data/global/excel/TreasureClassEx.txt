@@ -1,0 +1,1929 @@
+Treasure Class	group	level	Picks	Unique	Set	Rare	Magic	NoDrop	Item1	Prob1	Item2	Prob2	Item3	Prob3	Item4	Prob4	Item5	Prob5	Item6	Prob6	Item7	Prob7	Item8	Prob8	Item9	Prob9	Item10	Prob10	SumItems	TotalProb	DropChance	Term
+Gold			1						gld	1																						0
+Scrolls 1			1						01b	6	02b	6	34b	6	ddd	6																0
+Scrolls 2			1						03b	6	04b	6	35b	6	ddd	6	Scrolls 1	9														0
+Scrolls 3			1						05b	6	06b	6	36b	6	ddd	6	Scrolls 2	18														0
+Scrolls 4			1						07b	6	08b	6	37b	6	ddd	6	Scrolls 3	27														0
+Scrolls 5			1						09b	6	10b	6	38b	6	ddd	6	Scrolls 4	36														0
+Scrolls 6			1						11b	6	12b	6	39b	6	ddd	6	Scrolls 5	45														0
+Scrolls 7			1						13b	6	14b	6	40b	6	ddd	6	Scrolls 6	54														0
+Scrolls 8			1						15b	6	16b	6	41b	6	ddd	6	Scrolls 7	63														0
+Scrolls 9			1						17b	6	18b	6	42b	6	ddd	6	Scrolls 8	72														0
+Scrolls 10			1						19b	6	20b	6	43b	6	ddd	6	Scrolls 9	81														0
+Scrolls 11			1						21b	6	22b	6	44b	6	ddd	6	Scrolls 10	90														0
+Scrolls 12			1						23b	6	24b	6	45b	6	ddd	6	Scrolls 11	99														0
+Scrolls 13			1						25b	6	26b	6	46b	6	ddd	6	Scrolls 12	108														0
+Scrolls 14			1						27b	6	28b	6	47b	6	ddd	6	Scrolls 13	117														0
+Scrolls 15			1						29b	6	30b	6	48b	6	ddd	6	Scrolls 14	126														0
+Scrolls 16			1						31b	6	32b	6	49b	6	ddd	6	Scrolls 15	135														0
+Scrolls 17			1						33b	6	51b	6	50b	6	ddd	6	Scrolls 16	144														0
+stones1			-4						ppp	4																						0
+Class Rings			1						srn	1	brg	1	nrn	1	prn	1	drn	1	zrn	1	arn	1										0
+Rings			1						rin	1	rn2	1	Class Rings	1																		0
+Class Amulets			1						sam	1	bam	1	nam	1	pam	1	dam	1	zam	1	aam	1										0
+Amulets			1						amu	1	am2	1	Class Amulets	1																		0
+Jewelry A			1						Rings	12	Amulets	6	jew	4	ppp	2	cm1	4	cm2	4	cm3	4										0
+Jewelry B			1						Rings	12	Amulets	6	jew	4	ppp	2	cm1	4	cm2	4	cm3	4										0
+Jewelry C			1						Rings	12	Amulets	6	jew	4	ppp	2	cm1	4	cm2	4	cm3	4										0
+Jewelry E			1	1024					cel	1	jel	1	lot	1	dev	1	jew	1														0
+Jewelry D			1						Jewelry C	96	Jewelry E	1																				0
+Chipped Gem			1						gcv	1	gcy	1	gcb	1	gcg	1	gcr	1	gcw	1	skc	1	gck	1								0
+Flawed Gem			1						gfv	1	gfy	1	gfb	1	gfg	1	gfr	1	gfw	1	skf	1	gfk	1								0
+Normal Gem			1						gsv	1	gsy	1	gsb	1	gsg	1	gsr	1	gsw	1	sku	1	gsk	1								0
+Flawless Gem			1						gzv	1	gly	1	glb	1	glg	1	glr	1	glw	1	skl	1	gzk	1								0
+Blemished Gem			1						gpv	1	gpy	1	gpb	1	gpg	1	gpr	1	gpw	1	skz	1	gpk	1								0
+Perfect Gem			1						gvb	3	gyb	3	gbb	3	ggb	3	grb	3	gwb	3	skb	3	gpk	3								0
+Ammo			1						aq2	1	cq2	1																				0
+Misc 0			1						key	3	tsc	3	isc	3	opl	2	gpl	2														0
+Misc 1			1						key	3	tsc	3	isc	3	opm	2	gpm	2														0
+Misc 2			1						key	3	tsc	3	isc	3	ops	2	gps	2														0
+Hpotion 1			1						hp1	8	hp2	3	mp1	3	mp2	2	rvs	1														0
+Hpotion 2			1						hp1	1	hp2	4	hp3	3	mp2	2	mp3	2	rvs	1												0
+Hpotion 3			1						hp2	1	hp3	4	hp4	3	mp3	2	mp4	2	rvs	1												0
+Hpotion 4			1						hp3	1	hp4	4	hp5	3	mp4	2	mp5	2	rvs	1												0
+Hpotion 5			1						hp3	1	hp4	4	hp5	4	mp5	4	rvs	1														0
+Hpotion 6			1						hp4	4	hp5	6	mp4	2	mp5	4	rvs	1														0
+Potion 1			1						hp1	12	hp2	4	mp1	5	mp2	4	rvs	1	vps	4												0
+Potion 2			1						hp1	4	hp2	8	hp3	5	mp2	2	mp3	5	rvs	1	vps	2	yps	3	wms	1						0
+Potion 3			1						hp2	6	hp3	6	hp4	4	mp3	3	mp4	3	rvs	1	vps	2	yps	2	wms	1						0
+Potion 4			1						hp3	6	hp4	6	hp5	4	mp4	3	mp5	3	rvs	1	vps	2	yps	2	wms	1						0
+Potion 5			1						hp3	4	hp4	6	hp5	6	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Potion 6			1						hp4	6	hp5	8	mp4	1	mp5	5	rvs	1	vps	2	yps	2	wms	1								0
+Runes 1			1						r01	35	r02	30	r03	25																		0
+Runes 2			1						r04	35	r05	30	r06	25	Runes 1	150																0
+Runes 3			1						r07	35	r08	30	r09	25	Runes 2	225																0
+Runes 4			1						r10	35	r11	30	r12	25	Runes 3	325																0
+Runes 5			1						r13	35	r14	30	r15	25	Runes 4	450																0
+Runes 6			1						r16	35	r17	30	r18	25	Runes 5	600																0
+Runes 7			1						r19	35	r20	30	r21	25	Runes 6	775																0
+Runes 8			1						r22	35	r23	30	r24	25	Runes 7	975																0
+Runes 9			1						r25	35	r26	30	r27	25	Runes 8	1200																0
+Runes 10			1						r28	35	r29	30	r30	25	Runes 9	1450																0
+Runes 11			1						r31	35	r32	30	r33	25	Runes 10	1725																0
+Runes 12			1						r34	35	r35	30	r36	25	Runes 11	2025																0
+Runes 13			1						r37	35	r38	30	r39	25	Runes 12	2350																0
+Runes 14			1						r40	35	r41	30	r42	25	Runes 13	2700																0
+Runes 15			1						r43	35	r44	30	r45	25	Runes 14	3075																0
+Runes 16			1						r46	25	Runes 15	3475																				0
+Sauto			-4		1024				ssd	1	qui	1	vbl	1	vgl	1																0
+Sachilles			-3		1024				tgl	1	hbl	1	mbt	1																		0
+Sdiablo			-4		1024				fhl	1	amu	1	full	1	tow	1																0
+Splanet			-6		1024				xlm	1	xit	1	xlg	1	rn2	1	zlb	1	tbt	1												0
+Swaves			-4		1024				au2	1	rn2	1	zmb	1	rin	1																0
+Stass			-3		1024				1ss	1	bmb	1	ymb	1																		0
+Sarctic			-3		1024				hbw	1	vgl	1	vbl	1																		0
+Sgabrielle			-3		1024				am3	1	hla	1	vbt	1																		0
+Slixo			-4		1024				xap	1	8lw	1	xla	1	rin	1																0
+Saanna			-4		1024				9p9	1	xlt	1	xtg	1	xtb	1																0
+Salaziel			-4		1024				ama	1	xlv	1	yml	1	ymg	1																0
+Snoir			-4		1024				yht	1	9pb	1	xig	1	xhb	1																0
+Smilea			-3		1024				ci2	1	amd	1	yng	1																		0
+Sdeath			-3		1024				ktr	1	lgl	1	lbl	1																		0
+Svega			-4		1024				eht	1	clw	1	btl	1	lbl	1																0
+Smotoko			-3		1024				nin	1	clk	1	amu	1																		0
+Salora			-4		1024				xhl	1	9cs	1	xcl	1	xmb	1																0
+Ssascha			-4		1024				7wb	1	yhn	1	9qr	1	ylb	1																0
+Sihsan			-4		1024				xdw	1	xar	1	xhg	1	xms	1																0
+Sborik			-3		1024				0nn	1	yhh	1	yvg	1																		0
+Sinfernal			-3		1024				cap	1	wnd	1	mbl	1																		0
+Srathol			-3		1024				msk	1	nsy	1	rng	1																		0
+Swrath			-5		1024				bhm	1	amu	1	syn	1	xea	1	xlg	1														0
+Slich			-5		1024				xsk	1	9yw	1	xrs	1	xmg	1	hbt	1														0
+Snupraptor			-3		1024				xh9	1	9rd	1	nea	1																		0
+Slimdul			-4		1024				9gw	1	neb	1	alb	1	xbt	1																0
+Sbrotherhood			-3		1024				yh9	1	yla	1	0sy	1																		0
+Sberserker			-3		1024				hlm	1	hax	1	lea	1																		0
+Smess			-3		1024				btx	1	mgl	1	tbl	1																		0
+Skain			-5		1024				gsd	1	aar	1	gts	1	hgl	1	rin	1														0
+Skrakerage			-3		1024				9fc	1	xpl	1	9gs	1																		0
+Sdarkshade			-5		1024				ba9	1	9mt	1	xhh	1	9fl	1	xms	1														0
+Ssareveok			-3		1024				bae	1	1gd	1	yld	1																		0
+Shurja			-3		1024				baf	1	ypl	1	brg	1																		0
+Smilabrega			-3		1024				cix	1	scp	1	pa1	1																		0
+Styrael			-3		1024				fhl	1	crs	1	kit	1																		0
+Sanduin			-3		1024				crn	1	whm	1	pa4	1																		0
+Smalek			-5		1024				xrn	1	pbe	1	elv	1	xpk	1	irg	1														0
+Slancelot			-3		1024				9be	1	xul	1	paa	1																		0
+Sgriffith			-4		1024				yhl	1	pam	1	0sb	1	xth	1																0
+Sdarien			-3		1024				yhl	1	ycl	1	ahb	1																		0
+Sarcanna			-3		1024				au2	1	sst	1	clk	1																		0
+Stara			-4		1024				ci0	1	ob3	1	rob	1	lrg	1																0
+Snaj			-3		1024				wst	1	ltp	1	xlb	1																		0
+Sdivada			-4		1024				xht	1	mnb	1	xrb	1	xuc	1																0
+Sraistlin			-4		1024				ysk	1	au2	1	1cs	1	xtp	1																0
+Sjade			-4		1024				sam	1	ylk	1	srn	1	xvb	1																0
+Sarion			-3		1024				obc	1	yrb	1	ylg	1																		0
+Shsaru			-3		1024				shc	1	buc	1	lbt	1																		0
+Sblackwing			-4		1024				dr2	1	gis	1	mgl	1	mbl	1																0
+Sdanarak			-3		1024				dr4	1	mau	1	xlk	1																		0
+Smerlin			-4		1024				dr8	1	9cr	1	xtu	1	dbt	1																0
+Snature			-4		1024				drb	1	9gm	1	yui	1	yvb	1																0
+Sjaheira			-4		1024				0sh	1	xow	1	ytg	1	zhb	1																0
+Snatrule			-3		1024				0sp	1	yea	1	yhg	1																		0
+Srogue			-3		1024				sbw	1	lea	1	skp	1																		0
+Sdesert			-3		1024				spt	1	stu	1	cap	1																		0
+Swolf			-4		1024				bsd	1	rob	1	hlm	1	kit	1																0
+Sbarb			-3		1024				bsw	1	gth	1	ghm	1																		0
+Sets01			-1		1024				Sauto	1	Sachilles	1	Sarctic	1	Sgabrielle	1	Sdeath	1	Svega	1	Sinfernal	1	Srathol	1	Srogue	1	Sdesert	1				0
+Sets02			-1		1024				Sberserker	1	Smess	1	Smilabrega	1	Styrael	1	Sarcanna	1	Stara	1	Shsaru	1	Sblackwing	1	Swolf	1	Sbarb	1				0
+Sets03			-1		1024				Sdiablo	1	Splanet	1	Slixo	1	Saanna	1	Smotoko	1	Salora	1	Swrath	1	Slich	1								0
+Sets04			-1		1024				Skain	1	Skrakerage	1	Sanduin	1	Smalek	1	Snaj	1	Sdivada	1	Sdanarak	1	Smerlin	1								0
+Sets05			-1		1024				Swaves	1	Stass	1	Salaziel	1	Smilea	1	Ssascha	1	Sborik	1	Snupraptor	1	Sbrotherhood	1								0
+Sets06			-1		1024				Sdarkshade	1	Ssareveok	1	Slancelot	1	Sdarien	1	Sraistlin	1	Sarion	1	Snature	1	Snatrule	1								0
+Sets07			-1		1024				Snoir	1	Sihsan	1	Slimdul	1	Shurja	1	Sgriffith	1	Sjade	1	Sjaheira	1										0
+Sets (Norm)			-1		1024				Sets01	1	Sets02	1																				0
+Sets (NM)			-1		1024				Sets03	1	Sets04	1																				0
+Sets (H)			-1		1024				Sets05	1	Sets06	1	Sets07	1																		0
+Sets (All)			-1		1024				Sets (Norm)	1	Sets (NM)	1	Sets (H)	1																		0
+Sets (Gen)			-1		1024				Sauto	1	Sachilles	1	Sdiablo	1																		0
+Sets (Ama)			-1		1024				Sarctic	1	Sgabrielle	1	Slixo	1																		0
+Sets (Ass)			-1		1024				Sdeath	1	Svega	1	Smotoko	1																		0
+Sets (Nec)			-1		1024				Sinfernal	1	Srathol	1	Swrath	1																		0
+Sets (Barb)			-1		1024				Sberserker	1	Smess	1	Skain	1																		0
+Sets (Pal)			-1		1024				Smilabrega	1	Styrael	1	Sanduin	1																		0
+Sets (Sorc)			-1		1024				Sarcanna	1	Stara	1	Snaj	1																		0
+Sets (Dru)			-1		1024				Shsaru	1	Sblackwing	1	Sdanarak	1																		0
+Sets (Gen) nm			-1		1024				Splanet	1	Swaves	1																				0
+Sets (Ama) nm			-1		1024				Saanna	1	Salaziel	1																				0
+Sets (Ass) nm			-1		1024				Salora	1	Ssascha	1																				0
+Sets (Nec) nm			-1		1024				Slich	1	Snupraptor	1																				0
+Sets (Barb) nm			-1		1024				Skrakerage	1	Sdarkshade	1																				0
+Sets (Pal) nm			-1		1024				Smalek	1	Slancelot	1																				0
+Sets (Sorc) nm			-1		1024				Sdivada	1	Sraistlin	1																				0
+Sets (Dru) nm			-1		1024				Smerlin	1	Snature	1																				0
+Sets (Gen) h			-1		1024				Swaves	1	Stass	1																				0
+Sets (Ama) h			-1		1024				Snoir	1	Smilea	1																				0
+Sets (Ass) h			-1		1024				Sihsan	1	Sborik	1																				0
+Sets (Nec) h			-1		1024				Slimdul	1	Sbrotherhood	1																				0
+Sets (Barb) h			-1		1024				Ssarevok	1	Shurja	1																				0
+Sets (Pal) h			-1		1024				Sgriffith	1	Sdarien	1																				0
+Sets (Sorc) h			-1		1024				Sjade	1	Sarion	1																				0
+Sets (Dru) h			-1		1024				Sjaheira	1	Snatrule	1																				0
+Sets (Act 1 Super Gen)			-1		1024				Sauto	1																						0
+Sets (Act 1 Super Ama)			-1		1024				Sarctic	1																						0
+Sets (Act 1 Super Ass)			-1		1024				Sdeath	1																						0
+Sets (Act 1 Super Nec)			-1		1024				Sinfernal	1																						0
+Sets (Act 1 Super Barb)			-1		1024				Sberserker	1																						0
+Sets (Act 1 Super Pal)			-1		1024				Smilabrega	1																						0
+Sets (Act 1 Super Sorc)			-1		1024				Sarcanna	1																						0
+Sets (Act 1 Super Dru)			-1		1024				Shsaru	1																						0
+Sets (Act 1 Super)			1		1024				Sets (Act 1 Super Gen)	1	Sets (Act 1 Super Ama)	1	Sets (Act 1 Super Ass)	1	Sets (Act 1 Super Nec)	1	Sets (Act 1 Super Barb)	1	Sets (Act 1 Super Pal)	1	Sets (Act 1 Super Sorc)	1	Sets (Act 1 Super Dru)	1								0
+Sets (Act 2 Super Gen)			-1		1024				Sachilles	1																						0
+Sets (Act 2 Super Ama)			-1		1024				Sgabrielle	1																						0
+Sets (Act 2 Super Ass)			-1		1024				Svega	1																						0
+Sets (Act 2 Super Nec)			-1		1024				Srathol	1																						0
+Sets (Act 2 Super Barb)			-1		1024				Smess	1																						0
+Sets (Act 2 Super Pal)			-1		1024				Styrael	1																						0
+Sets (Act 2 Super Sorc)			-1		1024				Stara	1																						0
+Sets (Act 2 Super Dru)			-1		1024				Sblackwing	1																						0
+Sets (Act 2 Super)			1		1024				Sets (Act 2 Super Gen)	1	Sets (Act 2 Super Ama)	1	Sets (Act 2 Super Ass)	1	Sets (Act 2 Super Nec)	1	Sets (Act 2 Super Barb)	1	Sets (Act 2 Super Pal)	1	Sets (Act 2 Super Sorc)	1	Sets (Act 2 Super Dru)	1								0
+Sets (Act 3 Super Gen)			-1		1024				Sdiablo	1																						0
+Sets (Act 3 Super Ama)			-1		1024				Slixo	1																						0
+Sets (Act 3 Super Ass)			-1		1024				Smotoko	1																						0
+Sets (Act 3 Super Nec)			-1		1024				Swrath	1																						0
+Sets (Act 3 Super Barb)			-1		1024				Skain	1																						0
+Sets (Act 3 Super Pal)			-1		1024				Sanduin	1																						0
+Sets (Act 3 Super Sorc)			-1		1024				Snaj	1																						0
+Sets (Act 3 Super Dru)			-1		1024				Sdanarak	1																						0
+Sets (Act 3 Super)			1		1024				Sets (Act 3 Super Gen)	1	Sets (Act 3 Super Ama)	1	Sets (Act 3 Super Ass)	1	Sets (Act 3 Super Nec)	1	Sets (Act 3 Super Barb)	1	Sets (Act 3 Super Pal)	1	Sets (Act 3 Super Sorc)	1	Sets (Act 3 Super Dru)	1								0
+Sets (Act 4 Super Gen)			-1		1024				Splanet	1																						0
+Sets (Act 4 Super Ama)			-1		1024				Saanna	1																						0
+Sets (Act 4 Super Ass)			-1		1024				Salora	1																						0
+Sets (Act 4 Super Nec)			-1		1024				Slich	1																						0
+Sets (Act 4 Super Barb)			-1		1024				Skrakerage	1																						0
+Sets (Act 4 Super Pal)			-1		1024				Smalek	1																						0
+Sets (Act 4 Super Sorc)			-1		1024				Sdivada	1																						0
+Sets (Act 4 Super Dru)			-1		1024				Smerlin	1																						0
+Sets (Act 4 Super)			-1		1024				Sets (Act 4 Super Gen)	1	Sets (Act 4 Super Ama)	1	Sets (Act 4 Super Ass)	1	Sets (Act 4 Super Nec)	1	Sets (Act 4 Super Barb)	1	Sets (Act 4 Super Pal)	1	Sets (Act 4 Super Sorc)	1	Sets (Act 4 Super Dru)	1								0
+Nihlathak Sets			-1		1024				Sets01	25	Sets02	25	Sets (N1)	3	Sets (N2)	3																0
+Nihlathak (N) Sets			-1		1024				Sets (N1)	25	Sets (N2)	25	Sets (H)	3	Sets (All)	3																0
+Nihlathak (H) Sets			-1		1024				Sets (H)	25	Sets (All)	25																				0
+Act 1 Junk			1						Potion 1	8	Misc 0	4	Ammo	4																		0
+Act 2 Junk			1						Act 1 Junk	2	Potion 2	8	Misc 0	4	Ammo	4																0
+Act 3 Junk			1						Act 2 Junk	2	Potion 3	8	Misc 1	4	Ammo	4																0
+Act 4 Junk			1						Act 3 Junk	2	Potion 4	8	Misc 1	4	Ammo	4																0
+Act 5 Junk			1						Act 4 Junk	2	Potion 5	8	Misc 2	4	Ammo	4																0
+Act 1 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 2 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 3 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 4 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 5 (N) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 1 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 2 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 3 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 4 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 5 (H) Junk			1						Act 5 Junk	2	Potion 6	8	Misc 2	4	Ammo	4																0
+Act 1 Equip A			1						weap3	7	armo3	7																				0
+Act 1 Equip B			1						weap3	3	armo3	3	weap6	7	armo6	7																0
+Act 1 Equip C			1						weap3	2	armo3	1	weap6	6	armo6	3	weap9	14	armo9	7	weap12	2	armo12	1								0
+Act 2 Equip A			1						weap6	2	armo6	1	weap9	6	armo9	3	weap12	14	armo12	7	weap15	2	armo15	1	Act 1 Equip C	30			36	66	0.4545	0
+Act 2 Equip B			1						weap9	2	armo9	1	weap12	6	armo12	3	weap15	14	armo15	7	weap18	2	armo18	1	Act 2 Equip A	60			36	96	0.625	0
+Act 2 Equip C			1						weap12	2	armo12	1	weap15	6	armo15	3	weap18	14	armo18	7	weap21	2	armo21	1	Act 2 Equip B	80			36	116	0.6897	0
+Act 3 Equip A			1						weap15	2	armo15	1	weap18	6	armo18	3	weap21	14	armo21	7	weap24	2	armo24	1	Act 2 Equip C	100			36	136	0.7353	0
+Act 3 Equip B			1						weap18	2	armo18	1	weap21	6	armo21	3	weap24	14	armo24	7	weap27	2	armo27	1	Act 3 Equip A	200			36	236	0.8475	0
+Act 3 Equip C			1						weap21	2	armo21	1	weap24	6	armo24	3	weap27	14	armo27	7	weap30	2	armo30	1	Act 3 Equip B	340			36	376	0.9043	0
+Act 4 Equip A			1						weap24	2	armo24	1	weap27	6	armo27	3	weap30	14	armo30	4	weap33	2	armo33	1	Act 3 Equip C	430			33	463	0.9287	0
+Act 4 Equip B			1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	2	armo36	1	Act 4 Equip A	500			32	532	0.9398	0
+Act 5 Equip A			1						weap27	2	armo27	1	weap30	6	armo30	3	weap33	14	armo33	3	weap36	7	armo36	5	Act 4 Equip B	629			41	670	0.9388	0
+Act 5 Equip B			1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip A	731			35	766	0.9543	0
+Act 5 Equip C			1						weap30	2	armo30	1	weap33	6	armo33	2	weap36	14	armo36	7	weap39	2	armo39	1	Act 5 Equip B	833			35	868	0.9597	0
+Act 1 (N) Equip A			1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Equip C	935			36	971	0.9629	0
+Act 1 (N) Equip B			1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	6	armo42	3	Act 1 (N) Equip A	1105			42	1147	0.9634	0
+Act 1 (N) Equip C			1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Equip A	1020			36	1056	0.9659	0
+Act 2 (N) Equip A			1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Equip B	1233			42	1275	0.9671	0
+Act 2 (N) Equip B			1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Equip A	1105			36	1141	0.9684	0
+Act 2 (N) Equip C			1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	6	armo48	3	Act 2 (N) Equip A	1318			42	1360	0.9691	0
+Act 3 (N) Equip A			1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Equip B	1190			36	1226	0.9706	0
+Act 3 (N) Equip B			1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	6	armo51	3	Act 3 (N) Equip A	1445			42	1487	0.9718	0
+Act 3 (N) Equip C			1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Equip A	1275			36	1311	0.9725	0
+Act 4 (N) Equip A			1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Equip B	1530			42	1572	0.9733	0
+Act 4 (N) Equip B			1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Equip A	1360			36	1396	0.9742	0
+Act 4 (N) Equip C			1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	6	armo57	3	Act 4 (N) Equip A	1658			42	1700	0.9753	0
+Act 5 (N) Equip A			1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Equip B	1445			36	1481	0.9757	0
+Act 5 (N) Equip B			1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Equip A	1743			42	1785	0.9765	0
+Act 5 (N) Equip C			1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Equip B	1530			36	1566	0.977	0
+Act 1 (H) Equip A			1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Equip C	1785			42	1827	0.977	0
+Act 1 (H) Equip B			1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Equip A	1530			36	1566	0.977	0
+Act 1 (H) Equip C			1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	6	armo66	3	Act 1 (H) Equip A	1785			42	1827	0.977	0
+Act 2 (H) Equip A			1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Equip B	1530			36	1566	0.977	0
+Act 2 (H) Equip B			1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	6	armo69	3	Act 2 (H) Equip A	1785			42	1827	0.977	0
+Act 2 (H) Equip C			1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Equip A	1530			36	1566	0.977	0
+Act 3 (H) Equip A			1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Equip B	1785			42	1827	0.977	0
+Act 3 (H) Equip B			1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Equip A	1530			36	1566	0.977	0
+Act 3 (H) Equip C			1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	6	armo75	3	Act 3 (H) Equip A	1785			42	1827	0.977	0
+Act 4 (H) Equip A			1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Equip B	1530			36	1566	0.977	0
+Act 4 (H) Equip B			1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	6	armo78	3	Act 4 (H) Equip A	1785			42	1827	0.977	0
+Act 4 (H) Equip C			1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Equip A	1530			36	1566	0.977	0
+Act 5 (H) Equip A			1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Equip B	1530			36	1566	0.977	0
+Act 5 (H) Equip B			1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Equip A	1530			36	1566	0.977	0
+Act 5 (H) Equip C			1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Equip B	1530			35	1565	0.9776	0
+Act 1 Melee A			1						mele3	7	armo3	7																				0
+Act 1 Melee B			1						mele3	3	armo3	3	mele6	7	armo6	7																0
+Act 1 Melee C			1						mele3	2	armo3	1	mele6	6	armo6	3	mele9	14	armo9	7	mele12	2	armo12	1								0
+Act 2 Melee A			1						mele6	2	armo6	1	mele9	6	armo9	3	mele12	14	armo12	7	mele15	2	armo15	1	Act 1 Melee C	30			36	66	0.4545	0
+Act 2 Melee B			1						mele9	2	armo9	1	mele12	6	armo12	3	mele15	14	armo15	7	mele18	2	armo18	1	Act 2 Melee A	60			36	96	0.625	0
+Act 2 Melee C			1						mele12	2	armo12	1	mele15	6	armo15	3	mele18	14	armo18	7	mele21	2	armo21	1	Act 2 Melee B	90			36	126	0.7143	0
+Act 3 Melee A			1						mele15	2	armo15	1	mele18	6	armo18	3	mele21	14	armo21	7	mele24	2	armo24	1	Act 2 Melee C	120			36	156	0.7692	0
+Act 3 Melee B			1						mele18	2	armo18	1	mele21	6	armo21	3	mele24	14	armo24	7	mele27	2	armo27	1	Act 3 Melee A	150			36	186	0.8065	0
+Act 3 Melee C			1						mele21	2	armo21	1	mele24	6	armo24	3	mele27	14	armo27	7	mele30	2	armo30	1	Act 3 Melee B	180			36	216	0.8333	0
+Act 4 Melee A			1						mele24	2	armo24	1	mele27	6	armo27	3	mele30	14	armo30	4	mele33	2	armo33	1	Act 3 Melee C	210			33	243	0.8642	0
+Act 4 Melee B			1						mele27	2	armo27	1	mele30	6	armo30	3	mele33	14	armo33	3	mele36	2	armo36	1	Act 4 Melee A	260			32	292	0.8904	0
+Act 5 Melee A			1						mele27	2	armo27	1	mele30	6	armo30	3	mele33	14	armo33	3	mele36	7	armo36	5	Act 4 Melee B	400			41	441	0.907	0
+Act 5 Melee B			1						mele30	2	armo30	1	mele33	6	armo33	2	mele36	14	armo36	7	mele39	2	armo39	1	Act 5 Melee A	489			35	524	0.9332	0
+Act 5 Melee C			1						mele30	2	armo30	1	mele33	6	armo33	2	mele36	14	armo36	7	mele39	2	armo39	1	Act 5 Melee B	629			35	664	0.9473	0
+Act 1 (N) Melee A			1						weap33	2	armo33	1	weap36	6	armo36	3	weap39	14	armo39	7	weap42	2	armo42	1	Act 5 Melee C	769			36	805	0.9553	0
+Act 1 (N) Melee B			1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	2	armo45	1	Act 1 (N) Melee A	935			36	971	0.9629	0
+Act 2 (N) Melee A			1						weap36	2	armo36	1	weap39	6	armo39	3	weap42	14	armo42	7	weap45	6	armo45	3	Act 1 (N) Melee B	1148			42	1190	0.9647	0
+Act 2 (N) Melee B			1						weap39	2	armo39	1	weap42	6	armo42	3	weap45	14	armo45	7	weap48	2	armo48	1	Act 2 (N) Melee A	1020			36	1056	0.9659	0
+Act 3 (N) Melee A			1						weap42	2	armo42	1	weap45	6	armo45	3	weap48	14	armo48	7	weap51	2	armo51	1	Act 2 (N) Melee B	1063			36	1099	0.9672	0
+Act 3 (N) Melee B			1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	2	armo54	1	Act 3 (N) Melee A	1105			36	1141	0.9684	0
+Act 4 (N) Melee A			1						weap45	2	armo45	1	weap48	6	armo48	3	weap51	14	armo51	7	weap54	6	armo54	3	Act 3 (N) Melee B	1339			42	1381	0.9696	0
+Act 4 (N) Melee B			1						weap48	2	armo48	1	weap51	6	armo51	3	weap54	14	armo54	7	weap57	2	armo57	1	Act 4 (N) Melee A	1190			36	1226	0.9706	0
+Act 5 (N) Melee A			1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	2	armo60	1	Act 4 (N) Melee B	1275			36	1311	0.9725	0
+Act 5 (N) Melee B			1						weap51	2	armo51	1	weap54	6	armo54	3	weap57	14	armo57	7	weap60	6	armo60	3	Act 5 (N) Melee A	1743			42	1785	0.9765	0
+Act 5 (N) Melee C			1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	2	armo63	1	Act 5 (N) Melee B	1530			36	1566	0.977	0
+Act 1 (H) Melee A			1						weap54	2	armo54	1	weap57	6	armo57	3	weap60	14	armo60	7	weap63	6	armo63	3	Act 5 (N) Melee C	1781			42	1823	0.977	0
+Act 1 (H) Melee B			1						weap57	2	armo57	1	weap60	6	armo60	3	weap63	14	armo63	7	weap66	2	armo66	1	Act 1 (H) Melee A	1530			36	1566	0.977	0
+Act 2 (H) Melee A			1						weap60	2	armo60	1	weap63	6	armo63	3	weap66	14	armo66	7	weap69	2	armo69	1	Act 1 (H) Melee B	1530			36	1566	0.977	0
+Act 2 (H) Melee B			1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	2	armo72	1	Act 2 (H) Melee A	1530			36	1566	0.977	0
+Act 3 (H) Melee A			1						weap63	2	armo63	1	weap66	6	armo66	3	weap69	14	armo69	7	weap72	6	armo72	3	Act 2 (H) Melee B	1781			42	1823	0.977	0
+Act 3 (H) Melee B			1						weap66	2	armo66	1	weap69	6	armo69	3	weap72	14	armo72	7	weap75	2	armo75	1	Act 3 (H) Melee A	1530			36	1566	0.977	0
+Act 4 (H) Melee A			1						weap69	2	armo69	1	weap72	6	armo72	3	weap75	14	armo75	7	weap78	2	armo78	1	Act 3 (H) Melee B	1530			36	1566	0.977	0
+Act 4 (H) Melee B			1						weap72	2	armo72	1	weap75	6	armo75	3	weap78	14	armo78	7	weap81	2	armo81	1	Act 4 (H) Melee A	1530			36	1566	0.977	0
+Act 5 (H) Melee A			1						weap75	2	armo75	1	weap78	6	armo78	3	weap81	14	armo81	7	weap84	2	armo84	1	Act 4 (H) Melee B	1530			36	1566	0.977	0
+Act 5 (H) Melee B			1						weap78	2	armo78	1	weap81	6	armo81	3	weap84	14	armo84	7	weap87	2	armo87	1	Act 5 (H) Melee A	1530			36	1566	0.977	0
+Act 5 (H) Melee C			1						weap81	2	armo81	1	weap84	6	armo84	3	weap87	14	armo87	7	weap87	1	armo87	1	Act 5 (H) Melee B	1530			35	1565	0.9776	0
+Act 1 Bow A			1						bow3	36																						0
+Act 1 Bow B			1						bow3	20	bow6	16																				0
+Act 1 Bow C			1						bow3	10	bow6	16	bow9	10																		0
+Act 2 Bow A			1						bow3	3	bow6	15	bow9	15	bow12	3																0
+Act 2 Bow B			1						bow3	1	bow6	7	bow9	20	bow12	7	bow15	1														0
+Act 2 Bow C			1						bow3	1	bow6	3	bow9	14	bow12	14	bow15	3	bow18	1												0
+Act 3 Bow A			1						bow3	1	bow6	3	bow9	6	bow12	12	bow15	6	bow18	3	bow21	1										0
+Act 3 Bow B			1						bow3	1	bow6	3	bow9	6	bow12	8	bow15	8	bow18	6	bow21	3	bow24	1								0
+Act 3 Bow C			1						bow3	1	bow6	2	bow9	5	bow12	7	bow15	8	bow18	7	bow21	4	bow24	2								0
+Act 4 Bow A			1						bow6	1	bow9	3	bow12	6	bow15	8	bow18	8	bow21	6	bow24	3	bow27	1	Act 3 Bow C	110			36	146	0.7534	0
+Act 4 Bow B			1						bow6	1	bow9	2	bow12	5	bow15	7	bow18	8	bow21	7	bow24	4	bow27	2	Act 4 Bow A	180			36	216	0.8333	0
+Act 5 Bow A			1						bow9	1	bow12	3	bow15	6	bow18	8	bow21	8	bow24	6	bow27	3	bow30	1	Act 4 Bow B	270			36	306	0.8824	0
+Act 5 Bow B			1						bow9	1	bow12	2	bow15	5	bow18	7	bow21	8	bow24	7	bow27	4	bow30	2	Act 5 Bow A	380			36	416	0.9135	0
+Act 5 Bow C			1						bow9	1	bow12	2	bow15	5	bow18	7	bow21	8	bow24	7	bow27	4	bow30	2	Act 5 Bow B	500			36	536	0.9328	0
+Act 1 (N) Bow A			1						bow12	1	bow15	2	bow18	5	bow21	7	bow24	8	bow27	7	bow30	4	bow33	2	Act 5 Bow C	630			36	666	0.9459	0
+Act 1 (N) Bow B			1						bow15	1	bow18	2	bow21	5	bow24	7	bow27	8	bow30	7	bow33	4	bow36	2	Act 1 (N) Bow A	770			36	806	0.9553	0
+Act 2 (N) Bow A			1						bow18	1	bow21	2	bow24	5	bow27	7	bow30	8	bow33	7	bow36	4	bow39	2	Act 1 (N) Bow B	920			36	956	0.9623	0
+Act 2 (N) Bow B			1						bow21	1	bow24	2	bow27	5	bow30	7	bow33	8	bow36	7	bow39	4	bow42	2	Act 2 (N) Bow A	1070			36	1106	0.9675	0
+Act 3 (N) Bow A			1						bow24	1	bow27	2	bow30	5	bow33	7	bow36	8	bow39	7	bow42	4	bow45	2	Act 2 (N) Bow B	1220			36	1256	0.9713	0
+Act 3 (N) Bow B			1						bow27	1	bow30	2	bow33	5	bow36	7	bow39	8	bow42	7	bow45	4	bow48	2	Act 3 (N) Bow A	1370			36	1406	0.9744	0
+Act 4 (N) Bow A			1						bow30	1	bow33	2	bow36	5	bow39	7	bow42	8	bow45	7	bow48	4	bow51	2	Act 3 (N) Bow B	1520			36	1556	0.9769	0
+Act 4 (N) Bow B			1						bow33	1	bow36	2	bow39	5	bow42	7	bow45	8	bow48	7	bow51	4	bow54	2	Act 4 (N) Bow A	1670			36	1706	0.9789	0
+Act 5 (N) Bow A			1						bow36	1	bow39	2	bow42	5	bow45	7	bow48	8	bow51	7	bow54	4	bow57	2	Act 4 (N) Bow B	1820			36	1856	0.9806	0
+Act 5 (N) Bow B			1						bow39	1	bow42	2	bow45	5	bow48	7	bow51	8	bow54	7	bow57	4	bow60	2	Act 5 (N) Bow A	1970			36	2006	0.9821	0
+Act 5 (N) Bow C			1						bow42	1	bow45	2	bow48	5	bow51	7	bow54	8	bow57	7	bow60	4	bow63	2	Act 5 (N) Bow B	2120			36	2156	0.9833	0
+Act 1 (H) Bow A			1						bow45	1	bow48	2	bow51	5	bow54	7	bow57	8	bow60	7	bow63	4	bow66	2	Act 5 (N) Bow C	2270			36	2306	0.9844	0
+Act 1 (H) Bow B			1						bow48	1	bow51	2	bow54	5	bow57	7	bow60	8	bow63	7	bow66	4	bow69	2	Act 1 (H) Bow A	2270			36	2306	0.9844	0
+Act 2 (H) Bow A			1						bow51	1	bow54	2	bow57	5	bow60	7	bow63	8	bow66	7	bow69	4	bow72	2	Act 1 (H) Bow B	2270			36	2306	0.9844	0
+Act 2 (H) Bow B			1						bow54	1	bow57	2	bow60	5	bow63	7	bow66	8	bow69	7	bow72	4	bow75	2	Act 2 (H) Bow A	2270			36	2306	0.9844	0
+Act 3 (H) Bow A			1						bow57	1	bow60	2	bow63	5	bow66	7	bow69	8	bow72	7	bow75	4	bow78	2	Act 2 (H) Bow B	2270			36	2306	0.9844	0
+Act 3 (H) Bow B			1						bow60	1	bow63	2	bow66	5	bow69	7	bow72	8	bow75	7	bow78	4	bow81	2	Act 3 (H) Bow A	2270			36	2306	0.9844	0
+Act 4 (H) Bow A			1						bow63	1	bow66	2	bow69	5	bow72	7	bow75	8	bow78	7	bow81	4	bow84	2	Act 3 (H) Bow B	2270			36	2306	0.9844	0
+Act 4 (H) Bow B			1						bow66	1	bow69	2	bow72	5	bow75	7	bow78	8	bow81	7	bow84	2	bow84	1	Act 4 (H) Bow A	2080			33	2113	0.9844	0
+Act 5 (H) Bow A			1						bow69	1	bow72	2	bow75	5	bow78	7	bow81	8	bow84	7	bow87	2	bow87	1	Act 4 (H) Bow B	2080			33	2113	0.9844	0
+Act 5 (H) Bow B			1						bow72	1	bow75	2	bow78	5	bow81	7	bow84	8	bow87	7	bow87	2	bow87	1	Act 5 (H) Bow A	2080			33	2113	0.9844	0
+Act 5 (H) Bow C			1						bow75	1	bow78	2	bow81	5	bow84	7	bow87	8	bow87	1	bow87	1	bow87	1	Act 5 (H) Bow B	1655			26	1681	0.9845	0
+Act 1 Magic A			1						tsc	2	isc	4	mp1	6																		0
+Act 1 Magic B			1						tsc	2	isc	4	mp1	4	mp2	2																0
+Act 1 Magic C			1						tsc	2	isc	4	mp1	2	mp2	4																0
+Act 2 Magic A			1						tsc	2	isc	4	mp1	1	mp2	4	mp3	1														0
+Act 2 Magic B			1						tsc	2	isc	4	mp1	1	mp2	3	mp3	2														0
+Act 2 Magic C			1						tsc	2	isc	4	mp2	2	mp3	3	mp4	1														0
+Act 3 Magic A			1						tsc	2	isc	4	mp3	4	mp4	2																0
+Act 3 Magic B			1						tsc	2	isc	4	mp3	3	mp4	3																0
+Act 3 Magic C			1						tsc	2	isc	4	mp3	2	mp4	3	mp5	1														0
+Act 4 Magic A			1						tsc	2	isc	4	mp3	1	mp4	4	mp5	1														0
+Act 4 Magic B			1						tsc	2	isc	4	mp4	4	mp5	2																0
+Act 5 Magic A			1						tsc	2	isc	4	mp4	3	mp5	3																0
+Act 5 Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 Magic C			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 (N) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 (N) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 2 (N) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 2 (N) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 3 (N) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 3 (N) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 4 (N) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 4 (N) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (N) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (N) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (N) Magic C			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 (H) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 (H) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 2 (H) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 2 (H) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 3 (H) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 3 (H) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 4 (H) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 4 (H) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (H) Magic A			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (H) Magic B			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 5 (H) Magic C			1						tsc	2	isc	4	mp4	2	mp5	4																0
+Act 1 Good			1						Jewelry A	5	Chipped Gem	5	Scrolls 1	1	Scrolls 2	1																0
+Act 2 Good			1						Jewelry B	20	Chipped Gem	12	Flawed Gem	4	Runes 1	3	Runes 2	3	Scrolls 3	1	Scrolls 4	1										0
+Act 3 Good			1						Jewelry C	20	Chipped Gem	8	Flawed Gem	8	Runes 3	3	Runes 4	3	Scrolls 5	1												0
+Act 4 Good			1						Jewelry C	50	Chipped Gem	14	Flawed Gem	28	Normal Gem	42	Runes 5	14	Runes 6	7	Scrolls 6	2										0
+Act 5 Good			1						Jewelry C	50	Chipped Gem	6	Flawed Gem	8	Normal Gem	24	Flawless Gem	4	Runes 7	10	Scrolls 7	2										0
+Act 1 (N) Good			1						Jewelry C	60	Chipped Gem	6	Flawed Gem	8	Normal Gem	28	Flawless Gem	14	Runes 8	14	Scrolls 8	2										0
+Act 2 (N) Good			1						Jewelry C	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 9	14	Scrolls 9	2										0
+Act 3 (N) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 10	14	Scrolls 10	2										0
+Act 4 (N) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 11	14	Scrolls 11	2										0
+Act 5 (N) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 12	14	Scrolls 12	2										0
+Act 1 (H) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 13	14	Scrolls 13	2										0
+Act 2 (H) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 14	14	Scrolls 14	2										0
+Act 3 (H) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 15	14	Scrolls 15	2										0
+Act 4 (H) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14	Scrolls 16	2	Perfect Gem	1								0
+Act 5 (H) Good			1						Jewelry D	60	Chipped Gem	4	Flawed Gem	10	Normal Gem	14	Flawless Gem	28	Runes 16	14	Scrolls 17	2	Perfect Gem	1								0
+Act 1 Chest A			4					66	gld	15	Act 1 Junk	15	Act 1 Equip A	10	Act 1 Good	2																0
+Act 1 Chest B			4					66	gld	15	Act 1 Junk	15	Act 1 Equip B	10	Act 1 Good	2																0
+Act 1 Chest C			4					66	gld	15	Act 1 Junk	12	Act 2 Junk	3	Act 1 Equip C	15	Act 1 Good	2														0
+Act 2 Chest A			4					66	gld	15	Act 2 Junk	15	Act 2 Equip A	10	Act 2 Good	2																0
+Act 2 Chest B			4					66	gld	15	Act 2 Junk	15	Act 2 Equip B	10	Act 2 Good	2																0
+Act 2 Chest C			4					66	gld	15	Act 2 Junk	12	Act 3 Junk	3	Act 2 Equip C	15	Act 2 Good	2														0
+Act 3 Chest A			4					66	gld	15	Act 3 Junk	15	Act 3 Equip A	10	Act 3 Good	2																0
+Act 3 Chest B			4					66	gld	15	Act 3 Junk	15	Act 3 Equip B	10	Act 3 Good	2																0
+Act 3 Chest C			4					66	gld	15	Act 3 Junk	15	Act 3 Equip C	10	Act 3 Good	2																0
+Act 4 Chest A			4					66	gld	15	Act 4 Junk	15	Act 4 Equip A	10	Act 4 Good	2																0
+Act 4 Chest B			4					66	gld	15	Act 4 Junk	15	Act 4 Equip B	10	Act 4 Good	2																0
+Act 4 Chest C			4					66	gld	15	Act 4 Junk	15	Act 4 Equip B	10	Act 4 Good	2																0
+Act 5 Chest A			4					66	gld	15	Act 5 Junk	15	Act 5 Equip A	10	Act 5 Good	2																0
+Act 5 Chest B			4					66	gld	15	Act 5 Junk	15	Act 5 Equip B	10	Act 5 Good	2																0
+Act 5 Chest C			4					66	gld	15	Act 5 Junk	15	Act 5 Equip B	10	Act 5 Good	2																0
+Act 1 (N) Chest A			4					66	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip A	10	Act 1 (N) Good	2																0
+Act 1 (N) Chest B			4					66	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	2																0
+Act 1 (N) Chest C			4					66	gld	15	Act 1 (N) Junk	15	Act 1 (N) Equip B	10	Act 1 (N) Good	2																0
+Act 2 (N) Chest A			4					66	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip A	10	Act 2 (N) Good	2																0
+Act 2 (N) Chest B			4					66	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	2																0
+Act 2 (N) Chest C			4					66	gld	15	Act 2 (N) Junk	15	Act 2 (N) Equip B	10	Act 2 (N) Good	2																0
+Act 3 (N) Chest A			4					66	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip A	10	Act 3 (N) Good	2																0
+Act 3 (N) Chest B			4					66	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	2																0
+Act 3 (N) Chest C			4					66	gld	15	Act 3 (N) Junk	15	Act 3 (N) Equip B	10	Act 3 (N) Good	2																0
+Act 4 (N) Chest A			4					66	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip A	10	Act 4 (N) Good	2																0
+Act 4 (N) Chest B			4					66	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip B	10	Act 4 (N) Good	2																0
+Act 4 (N) Chest C			4					66	gld	15	Act 4 (N) Junk	15	Act 4 (N) Equip C	10	Act 4 (N) Good	2																0
+Act 5 (N) Chest A			4					66	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip A	10	Act 5 (N) Good	2																0
+Act 5 (N) Chest B			4					66	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	2																0
+Act 5 (N) Chest C			4					66	gld	15	Act 5 (N) Junk	15	Act 5 (N) Equip B	10	Act 5 (N) Good	2																0
+Act 1 (H) Chest A			4					66	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip A	10	Act 1 (H) Good	2																0
+Act 1 (H) Chest B			4					66	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	2																0
+Act 1 (H) Chest C			4					66	gld	15	Act 1 (H) Junk	15	Act 1 (H) Equip B	10	Act 1 (H) Good	2																0
+Act 2 (H) Chest A			4					66	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip A	10	Act 2 (H) Good	2																0
+Act 2 (H) Chest B			4					66	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	2																0
+Act 2 (H) Chest C			4					66	gld	15	Act 2 (H) Junk	15	Act 2 (H) Equip B	10	Act 2 (H) Good	2																0
+Act 3 (H) Chest A			4					66	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip A	10	Act 3 (H) Good	2																0
+Act 3 (H) Chest B			4					66	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	2																0
+Act 3 (H) Chest C			4					66	gld	15	Act 3 (H) Junk	15	Act 3 (H) Equip B	10	Act 3 (H) Good	2																0
+Act 4 (H) Chest A			4					66	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip A	10	Act 4 (H) Good	2																0
+Act 4 (H) Chest B			4					66	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	2																0
+Act 4 (H) Chest C			4					66	gld	15	Act 4 (H) Junk	15	Act 4 (H) Equip B	10	Act 4 (H) Good	2																0
+Act 5 (H) Chest A			4					66	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip A	10	Act 5 (H) Good	2																0
+Act 5 (H) Chest B			4					66	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	2																0
+Act 5 (H) Chest C			4					66	gld	15	Act 5 (H) Junk	15	Act 5 (H) Equip B	10	Act 5 (H) Good	2																0
+Act 1 H2H A			1					66	gld	21	Act 1 Equip A	16	Act 1 Junk	21	Act 1 Good	2																0
+Act 1 H2H B			1					66	gld	21	Act 1 Equip B	16	Act 1 Junk	21	Act 1 Good	2																0
+Act 1 H2H C			1					66	gld	21	Act 1 Equip C	16	Act 1 Junk	21	Act 1 Good	2																0
+Act 2 H2H A			1					66	gld	21	Act 2 Equip A	16	Act 2 Junk	21	Act 2 Good	2																0
+Act 2 H2H B			1					66	gld	21	Act 2 Equip B	16	Act 2 Junk	21	Act 2 Good	2																0
+Act 2 H2H C			1					66	gld	21	Act 2 Equip C	16	Act 2 Junk	21	Act 3 Good	2																0
+Act 3 H2H A			1					66	gld	21	Act 3 Equip A	16	Act 3 Junk	21	Act 3 Good	2																0
+Act 3 H2H B			1					66	gld	21	Act 3 Equip B	16	Act 3 Junk	21	Act 3 Good	2																0
+Act 3 H2H C			1					66	gld	21	Act 3 Equip C	16	Act 3 Junk	21	Act 3 Good	2																0
+Act 4 H2H A			1					66	gld	21	Act 4 Equip A	16	Act 4 Junk	21	Act 4 Good	2																0
+Act 4 H2H B			1					66	gld	21	Act 4 Equip B	16	Act 4 Junk	21	Act 4 Good	2																0
+Act 5 H2H A			1					66	gld	21	Act 5 Equip A	16	Act 5 Junk	21	Act 5 Good	2																0
+Act 5 H2H B			1					66	gld	21	Act 5 Equip B	16	Act 5 Junk	21	Act 5 Good	2																0
+Act 5 H2H C			1					66	gld	21	Act 5 Equip C	16	Act 5 Junk	21	Act 5 Good	2																0
+Act 1 (N) H2H A			1					66	gld	21	Act 1 (N) Equip A	16	Act 1 (N) Junk	21	Act 1 (N) Good	2																0
+Act 1 (N) H2H B			1					66	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	21	Act 1 (N) Good	2																0
+Act 1 (N) H2H C			1					66	gld	21	Act 1 (N) Equip B	16	Act 1 (N) Junk	21	Act 1 (N) Good	2																0
+Act 2 (N) H2H A			1					66	gld	21	Act 2 (N) Equip A	16	Act 2 (N) Junk	21	Act 2 (N) Good	2																0
+Act 2 (N) H2H B			1					66	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	21	Act 2 (N) Good	2																0
+Act 2 (N) H2H C			1					66	gld	21	Act 2 (N) Equip B	16	Act 2 (N) Junk	21	Act 2 (N) Good	2																0
+Act 3 (N) H2H A			1					66	gld	21	Act 3 (N) Equip A	16	Act 3 (N) Junk	21	Act 3 (N) Good	2																0
+Act 3 (N) H2H B			1					66	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	21	Act 3 (N) Good	2																0
+Act 3 (N) H2H C			1					66	gld	21	Act 3 (N) Equip B	16	Act 3 (N) Junk	21	Act 3 (N) Good	2																0
+Act 4 (N) H2H A			1					66	gld	21	Act 4 (N) Equip A	16	Act 4 (N) Junk	21	Act 4 (N) Good	2																0
+Act 4 (N) H2H B			1					66	gld	21	Act 4 (N) Equip B	16	Act 4 (N) Junk	21	Act 4 (N) Good	2																0
+Act 5 (N) H2H A			1					66	gld	21	Act 5 (N) Equip A	16	Act 5 (N) Junk	21	Act 5 (N) Good	2																0
+Act 5 (N) H2H B			1					66	gld	21	Act 5 (N) Equip B	16	Act 5 (N) Junk	21	Act 5 (N) Good	2																0
+Act 5 (N) H2H C			1					66	gld	21	Act 5 (N) Equip C	16	Act 5 (N) Junk	21	Act 5 (N) Good	2																0
+Act 1 (H) H2H A			1					66	gld	21	Act 1 (H) Equip A	16	Act 1 (H) Junk	21	Act 1 (H) Good	2																0
+Act 1 (H) H2H B			1					66	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	21	Act 1 (H) Good	2																0
+Act 1 (H) H2H C			1					66	gld	21	Act 1 (H) Equip B	16	Act 1 (H) Junk	21	Act 1 (H) Good	2																0
+Act 2 (H) H2H A			1					66	gld	21	Act 2 (H) Equip A	16	Act 1 (H) Junk	21	Act 2 (H) Good	2																0
+Act 2 (H) H2H B			1					66	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	21	Act 2 (H) Good	2																0
+Act 2 (H) H2H C			1					66	gld	21	Act 2 (H) Equip B	16	Act 1 (H) Junk	21	Act 2 (H) Good	2																0
+Act 3 (H) H2H A			1					66	gld	21	Act 3 (H) Equip A	16	Act 1 (H) Junk	21	Act 3 (H) Good	2																0
+Act 3 (H) H2H B			1					66	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	21	Act 3 (H) Good	2																0
+Act 3 (H) H2H C			1					66	gld	21	Act 3 (H) Equip B	16	Act 1 (H) Junk	21	Act 3 (H) Good	2																0
+Act 4 (H) H2H A			1					66	gld	21	Act 4 (H) Equip A	16	Act 1 (H) Junk	21	Act 4 (H) Good	2																0
+Act 4 (H) H2H B			1					66	gld	21	Act 4 (H) Equip B	16	Act 1 (H) Junk	21	Act 4 (H) Good	2																0
+Act 5 (H) H2H A			1					66	gld	21	Act 5 (H) Equip A	16	Act 1 (H) Junk	21	Act 5 (H) Good	2																0
+Act 5 (H) H2H B			1					66	gld	21	Act 5 (H) Equip B	16	Act 1 (H) Junk	21	Act 5 (H) Good	2																0
+Act 5 (H) H2H C			1					66	gld	21	Act 5 (H) Equip C	16	Act 1 (H) Junk	21	Act 5 (H) Good	2																0
+Act 1 Cast A			1					66	gld	18	Act 1 Equip A	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic A	7														0
+Act 1 Cast B			1					66	gld	18	Act 1 Equip B	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic B	7														0
+Act 1 Cast C			1					66	gld	18	Act 1 Equip C	15	Act 1 Junk	18	Act 1 Good	2	Act 1 Magic C	7														0
+Act 2 Cast A			1					66	gld	18	Act 2 Equip A	15	Act 2 Junk	18	Act 2 Good	2	Act 2 Magic A	7														0
+Act 2 Cast B			1					66	gld	18	Act 2 Equip B	15	Act 2 Junk	18	Act 2 Good	2	Act 2 Magic B	7														0
+Act 2 Cast C			1					66	gld	18	Act 2 Equip C	15	Act 2 Junk	18	Act 3 Good	2	Act 2 Magic C	7														0
+Act 3 Cast A			1					66	gld	18	Act 3 Equip A	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic A	7														0
+Act 3 Cast B			1					66	gld	18	Act 3 Equip B	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic B	7														0
+Act 3 Cast C			1					66	gld	18	Act 3 Equip C	15	Act 3 Junk	18	Act 3 Good	2	Act 3 Magic C	7														0
+Act 4 Cast A			1					66	gld	18	Act 4 Equip A	15	Act 4 Junk	18	Act 4 Good	2	Act 4 Magic A	7														0
+Act 4 Cast B			1					66	gld	18	Act 4 Equip B	15	Act 4 Junk	18	Act 4 Good	2	Act 4 Magic B	7														0
+Act 5 Cast A			1					66	gld	18	Act 5 Equip A	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic A	7														0
+Act 5 Cast B			1					66	gld	18	Act 5 Equip B	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic B	7														0
+Act 5 Cast C			1					66	gld	18	Act 5 Equip C	15	Act 5 Junk	18	Act 5 Good	2	Act 5 Magic C	7														0
+Act 1 (N) Cast A			1					66	gld	18	Act 1 (N) Equip A	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic A	7														0
+Act 1 (N) Cast B			1					66	gld	18	Act 1 (N) Equip B	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic B	7														0
+Act 1 (N) Cast C			1					66	gld	18	Act 1 (N) Equip B	15	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Magic B	7														0
+Act 2 (N) Cast A			1					66	gld	18	Act 2 (N) Equip A	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic A	7														0
+Act 2 (N) Cast B			1					66	gld	18	Act 2 (N) Equip B	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic B	7														0
+Act 2 (N) Cast C			1					66	gld	18	Act 2 (N) Equip B	15	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Magic B	7														0
+Act 3 (N) Cast A			1					66	gld	18	Act 3 (N) Equip A	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic A	7														0
+Act 3 (N) Cast B			1					66	gld	18	Act 3 (N) Equip B	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic B	7														0
+Act 3 (N) Cast C			1					66	gld	18	Act 3 (N) Equip B	15	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Magic B	7														0
+Act 4 (N) Cast A			1					66	gld	18	Act 4 (N) Equip A	15	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Magic A	7														0
+Act 4 (N) Cast B			1					66	gld	18	Act 4 (N) Equip B	15	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Magic B	7														0
+Act 5 (N) Cast A			1					66	gld	18	Act 5 (N) Equip A	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic A	7														0
+Act 5 (N) Cast B			1					66	gld	18	Act 5 (N) Equip B	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic B	7														0
+Act 5 (N) Cast C			1					66	gld	18	Act 5 (N) Equip C	15	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Magic B	7														0
+Act 1 (H) Cast A			1					66	gld	18	Act 1 (H) Equip A	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic A	7														0
+Act 1 (H) Cast B			1					66	gld	18	Act 1 (H) Equip B	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic B	7														0
+Act 1 (H) Cast C			1					66	gld	18	Act 1 (H) Equip B	15	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Magic B	7														0
+Act 2 (H) Cast A			1					66	gld	18	Act 2 (H) Equip A	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic A	7														0
+Act 2 (H) Cast B			1					66	gld	18	Act 2 (H) Equip B	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic B	7														0
+Act 2 (H) Cast C			1					66	gld	18	Act 2 (H) Equip B	15	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Magic B	7														0
+Act 3 (H) Cast A			1					66	gld	18	Act 3 (H) Equip A	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic A	7														0
+Act 3 (H) Cast B			1					66	gld	18	Act 3 (H) Equip B	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic B	7														0
+Act 3 (H) Cast C			1					66	gld	18	Act 3 (H) Equip B	15	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Magic B	7														0
+Act 4 (H) Cast A			1					66	gld	18	Act 4 (H) Equip A	15	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Magic A	7														0
+Act 4 (H) Cast B			1					66	gld	18	Act 4 (H) Equip B	15	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Magic B	7														0
+Act 5 (H) Cast A			1					66	gld	18	Act 5 (H) Equip A	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic A	7														0
+Act 5 (H) Cast B			1					66	gld	18	Act 5 (H) Equip B	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic B	7														0
+Act 5 (H) Cast C			1					66	gld	18	Act 5 (H) Equip C	15	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Magic B	7														0
+Act 1 Miss A			1					66	gld	18	Act 1 Equip A	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow A	6	Ammo	3												0
+Act 1 Miss B			1					66	gld	18	Act 1 Equip B	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow B	6	Ammo	3												0
+Act 1 Miss C			1					66	gld	18	Act 1 Equip C	13	Act 1 Junk	18	Act 1 Good	2	Act 1 Bow C	6	Ammo	3												0
+Act 2 Miss A			1					66	gld	18	Act 2 Equip A	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow A	6	Ammo	3												0
+Act 2 Miss B			1					66	gld	18	Act 2 Equip B	13	Act 2 Junk	18	Act 2 Good	2	Act 2 Bow B	6	Ammo	3												0
+Act 2 Miss C			1					66	gld	18	Act 2 Equip C	13	Act 2 Junk	18	Act 3 Good	2	Act 2 Bow C	6	Ammo	3												0
+Act 3 Miss A			1					66	gld	18	Act 3 Equip A	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow A	6	Ammo	3												0
+Act 3 Miss B			1					66	gld	18	Act 3 Equip B	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow B	6	Ammo	3												0
+Act 3 Miss C			1					66	gld	18	Act 3 Equip C	13	Act 3 Junk	18	Act 3 Good	2	Act 3 Bow C	6	Ammo	3												0
+Act 4 Miss A			1					66	gld	18	Act 4 Equip A	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow A	6	Ammo	3												0
+Act 4 Miss B			1					66	gld	18	Act 4 Equip B	13	Act 4 Junk	18	Act 4 Good	2	Act 4 Bow B	6	Ammo	3												0
+Act 5 Miss A			1					66	gld	18	Act 5 Equip A	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow A	6	Ammo	3												0
+Act 5 Miss B			1					66	gld	18	Act 5 Equip B	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
+Act 5 Miss C			1					66	gld	18	Act 5 Equip C	13	Act 5 Junk	18	Act 5 Good	2	Act 5 Bow B	6	Ammo	3												0
+Act 1 (N) Miss A			1					66	gld	18	Act 1 (N) Equip A	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow A	6	Ammo	3												0
+Act 1 (N) Miss B			1					66	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3												0
+Act 1 (N) Miss C			1					66	gld	18	Act 1 (N) Equip B	13	Act 1 (N) Junk	18	Act 1 (N) Good	2	Act 1 (N) Bow B	6	Ammo	3												0
+Act 2 (N) Miss A			1					66	gld	18	Act 2 (N) Equip A	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow A	6	Ammo	3												0
+Act 2 (N) Miss B			1					66	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3												0
+Act 2 (N) Miss C			1					66	gld	18	Act 2 (N) Equip B	13	Act 2 (N) Junk	18	Act 2 (N) Good	2	Act 2 (N) Bow B	6	Ammo	3												0
+Act 3 (N) Miss A			1					66	gld	18	Act 3 (N) Equip A	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow A	6	Ammo	3												0
+Act 3 (N) Miss B			1					66	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3												0
+Act 3 (N) Miss C			1					66	gld	18	Act 3 (N) Equip B	13	Act 3 (N) Junk	18	Act 3 (N) Good	2	Act 3 (N) Bow B	6	Ammo	3												0
+Act 4 (N) Miss A			1					66	gld	18	Act 4 (N) Equip A	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow A	6	Ammo	3												0
+Act 4 (N) Miss B			1					66	gld	18	Act 4 (N) Equip B	13	Act 4 (N) Junk	18	Act 4 (N) Good	2	Act 4 (N) Bow B	6	Ammo	3												0
+Act 5 (N) Miss A			1					66	gld	18	Act 5 (N) Equip A	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow A	6	Ammo	3												0
+Act 5 (N) Miss B			1					66	gld	18	Act 5 (N) Equip B	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3												0
+Act 5 (N) Miss C			1					66	gld	18	Act 5 (N) Equip C	13	Act 5 (N) Junk	18	Act 5 (N) Good	2	Act 5 (N) Bow B	6	Ammo	3												0
+Act 1 (H) Miss A			1					66	gld	18	Act 1 (H) Equip A	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow A	6	Ammo	3												0
+Act 1 (H) Miss B			1					66	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	Ammo	3												0
+Act 1 (H) Miss C			1					66	gld	18	Act 1 (H) Equip B	13	Act 1 (H) Junk	18	Act 1 (H) Good	2	Act 1 (H) Bow B	6	Ammo	3												0
+Act 2 (H) Miss A			1					66	gld	18	Act 2 (H) Equip A	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow A	6	Ammo	3												0
+Act 2 (H) Miss B			1					66	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	Ammo	3												0
+Act 2 (H) Miss C			1					66	gld	18	Act 2 (H) Equip B	13	Act 1 (H) Junk	18	Act 2 (H) Good	2	Act 2 (H) Bow B	6	Ammo	3												0
+Act 3 (H) Miss A			1					66	gld	18	Act 3 (H) Equip A	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow A	6	Ammo	3												0
+Act 3 (H) Miss B			1					66	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	Ammo	3												0
+Act 3 (H) Miss C			1					66	gld	18	Act 3 (H) Equip B	13	Act 1 (H) Junk	18	Act 3 (H) Good	2	Act 3 (H) Bow B	6	Ammo	3												0
+Act 4 (H) Miss A			1					66	gld	18	Act 4 (H) Equip A	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow A	6	Ammo	3												0
+Act 4 (H) Miss B			1					66	gld	18	Act 4 (H) Equip B	13	Act 1 (H) Junk	18	Act 4 (H) Good	2	Act 4 (H) Bow B	6	Ammo	3												0
+Act 5 (H) Miss A			1					66	gld	18	Act 5 (H) Equip A	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow A	6	Ammo	3												0
+Act 5 (H) Miss B			1					66	gld	18	Act 5 (H) Equip B	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	Ammo	3												0
+Act 5 (H) Miss C			1					66	gld	18	Act 5 (H) Equip C	13	Act 1 (H) Junk	18	Act 5 (H) Good	2	Act 5 (H) Bow B	6	Ammo	3												0
+Act 1 Wraith A			1					50	Act 1 Good	4	Act 1 Magic A	25																				0
+Act 1 Wraith B			1					50	Act 1 Good	4	Act 1 Magic B	25																				0
+Act 1 Wraith C			1					50	Act 1 Good	4	Act 1 Magic C	25																				0
+Act 2 Wraith A			1					50	Act 2 Good	4	Act 2 Magic A	25																				0
+Act 2 Wraith B			1					50	Act 2 Good	4	Act 2 Magic B	25																				0
+Act 2 Wraith C			1					50	Act 3 Good	4	Act 2 Magic C	25																				0
+Act 3 Wraith A			1					50	Act 3 Good	4	Act 3 Magic A	25																				0
+Act 3 Wraith B			1					50	Act 3 Good	4	Act 3 Magic B	25																				0
+Act 3 Wraith C			1					50	Act 3 Good	4	Act 3 Magic C	25																				0
+Act 4 Wraith A			1					50	Act 4 Good	4	Act 4 Magic A	25																				0
+Act 4 Wraith B			1					50	Act 4 Good	4	Act 4 Magic B	25																				0
+Act 5 Wraith A			1					50	Act 5 Good	4	Act 5 Magic A	25																				0
+Act 5 Wraith B			1					50	Act 5 Good	4	Act 5 Magic B	25																				0
+Act 5 Wraith C			1					50	Act 5 Good	4	Act 5 Magic C	25																				0
+Act 1 (N) Wraith A			1					50	Act 1 (N) Good	4	Act 1 (N) Magic A	25																				0
+Act 1 (N) Wraith B			1					50	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
+Act 1 (N) Wraith C			1					50	Act 1 (N) Good	4	Act 1 (N) Magic B	25																				0
+Act 2 (N) Wraith A			1					50	Act 2 (N) Good	4	Act 2 (N) Magic A	25																				0
+Act 2 (N) Wraith B			1					50	Act 2 (N) Good	4	Act 2 (N) Magic B	25																				0
+Act 2 (N) Wraith C			1					50	Act 2 (N) Good	4	Act 2 (N) Magic B	25																				0
+Act 3 (N) Wraith A			1					50	Act 3 (N) Good	4	Act 3 (N) Magic A	25																				0
+Act 3 (N) Wraith B			1					50	Act 3 (N) Good	4	Act 3 (N) Magic B	25																				0
+Act 3 (N) Wraith C			1					50	Act 3 (N) Good	4	Act 3 (N) Magic B	25																				0
+Act 4 (N) Wraith A			1					50	Act 4 (N) Good	4	Act 4 (N) Magic A	25																				0
+Act 4 (N) Wraith B			1					50	Act 4 (N) Good	4	Act 4 (N) Magic B	25																				0
+Act 5 (N) Wraith A			1					50	Act 5 (N) Good	4	Act 5 (N) Magic A	25																				0
+Act 5 (N) Wraith B			1					50	Act 5 (N) Good	4	Act 5 (N) Magic B	25																				0
+Act 5 (N) Wraith C			1					50	Act 5 (N) Good	4	Act 5 (N) Magic C	25																				0
+Act 1 (H) Wraith A			1					50	Act 1 (H) Good	4	Act 1 (H) Magic A	25																				0
+Act 1 (H) Wraith B			1					50	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
+Act 1 (H) Wraith C			1					50	Act 1 (H) Good	4	Act 1 (H) Magic B	25																				0
+Act 2 (H) Wraith A			1					50	Act 2 (H) Good	4	Act 2 (H) Magic A	25																				0
+Act 2 (H) Wraith B			1					50	Act 2 (H) Good	4	Act 2 (H) Magic B	25																				0
+Act 2 (H) Wraith C			1					50	Act 2 (H) Good	4	Act 2 (H) Magic B	25																				0
+Act 3 (H) Wraith A			1					50	Act 3 (H) Good	4	Act 3 (H) Magic A	25																				0
+Act 3 (H) Wraith B			1					50	Act 3 (H) Good	4	Act 3 (H) Magic B	25																				0
+Act 3 (H) Wraith C			1					50	Act 3 (H) Good	4	Act 3 (H) Magic B	25																				0
+Act 4 (H) Wraith A			1					50	Act 4 (H) Good	4	Act 4 (H) Magic A	25																				0
+Act 4 (H) Wraith B			1					50	Act 4 (H) Good	4	Act 4 (H) Magic B	25																				0
+Act 5 (H) Wraith A			1					50	Act 5 (H) Good	4	Act 5 (H) Magic A	25																				0
+Act 5 (H) Wraith B			1					50	Act 5 (H) Good	4	Act 5 (H) Magic B	25																				0
+Act 5 (H) Wraith C			1					50	Act 5 (H) Good	4	Act 5 (H) Magic C	25																				0
+Act 1 Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip A	37	Act 1 Good	3																		0
+Act 1 Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip B	37	Act 1 Good	3																		0
+Act 1 Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 Equip C	37	Act 1 Good	3																		0
+Act 2 Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 Equip A	37	Act 2 Good	3																		0
+Act 2 Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 Equip B	37	Act 2 Good	3																		0
+Act 2 Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 Equip C	37	Act 3 Good	3																		0
+Act 3 Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 Equip A	37	Act 3 Good	3																		0
+Act 3 Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 Equip B	37	Act 3 Good	3																		0
+Act 3 Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 Equip C	37	Act 3 Good	3																		0
+Act 4 Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 Equip A	37	Act 4 Good	3																		0
+Act 4 Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 Equip B	37	Act 4 Good	3																		0
+Act 5 Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 Equip A	37	Act 5 Good	3																		0
+Act 5 Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 Equip B	37	Act 5 Good	3																		0
+Act 5 Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 Equip C	37	Act 5 Good	3																		0
+Act 1 (N) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (N) Equip A	37	Act 1 (N) Good	3																		0
+Act 1 (N) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
+Act 1 (N) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (N) Equip B	37	Act 1 (N) Good	3																		0
+Act 2 (N) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (N) Equip A	37	Act 2 (N) Good	3																		0
+Act 2 (N) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
+Act 2 (N) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (N) Equip B	37	Act 2 (N) Good	3																		0
+Act 3 (N) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (N) Equip A	37	Act 3 (N) Good	3																		0
+Act 3 (N) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
+Act 3 (N) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (N) Equip B	37	Act 3 (N) Good	3																		0
+Act 4 (N) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (N) Equip A	37	Act 4 (N) Good	3																		0
+Act 4 (N) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (N) Equip B	37	Act 4 (N) Good	3																		0
+Act 5 (N) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (N) Equip A	37	Act 5 (N) Good	3																		0
+Act 5 (N) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (N) Equip B	37	Act 5 (N) Good	3																		0
+Act 5 (N) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (N) Equip C	37	Act 5 (N) Good	3																		0
+Act 1 (H) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip A	37	Act 1 (H) Good	3																		0
+Act 1 (H) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
+Act 1 (H) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 1 (H) Equip B	37	Act 1 (H) Good	3																		0
+Act 2 (H) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip A	37	Act 2 (H) Good	3																		0
+Act 2 (H) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
+Act 2 (H) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 2 (H) Equip B	37	Act 2 (H) Good	3																		0
+Act 3 (H) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip A	37	Act 3 (H) Good	3																		0
+Act 3 (H) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
+Act 3 (H) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 3 (H) Equip B	37	Act 3 (H) Good	3																		0
+Act 4 (H) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip A	37	Act 4 (H) Good	3																		0
+Act 4 (H) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 4 (H) Equip B	37	Act 4 (H) Good	3																		0
+Act 5 (H) Citem A			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip A	37	Act 5 (H) Good	3																		0
+Act 5 (H) Citem B			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip B	37	Act 5 (H) Good	3																		0
+Act 5 (H) Citem C			1	800	800	800	1024	0	"gld,mul=1280"	60	Act 5 (H) Equip C	37	Act 5 (H) Good	3																		0
+Act 1 Cpot A			2					0	Hpotion 1	1																						0
+Act 1 Cpot B			2					0	Hpotion 1	1																						0
+Act 1 Cpot C			2					0	Hpotion 1	1																						0
+Act 2 Cpot A			2					0	Hpotion 2	1																						0
+Act 2 Cpot B			2					0	Hpotion 2	1																						0
+Act 2 Cpot C			2					0	Hpotion 2	1																						0
+Act 3 Cpot A			2					0	Hpotion 3	1																						0
+Act 3 Cpot B			2					0	Hpotion 3	1																						0
+Act 3 Cpot C			2					0	Hpotion 3	1																						0
+Act 4 Cpot A			2					0	Hpotion 3	1	Hpotion 4	2																				0
+Act 4 Cpot B			2					0	Hpotion 3	1	Hpotion 4	2																				0
+Act 5 Cpot A			2					0	Hpotion 4	1	Hpotion 5	2																				0
+Act 5 Cpot B			2					0	Hpotion 4	1	Hpotion 5	2																				0
+Act 5 Cpot C			2					0	Hpotion 4	1	Hpotion 5	2																				0
+Act 1 (N) Cpot A			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4																		0
+Act 1 (N) Cpot B			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 1 (N) Cpot C			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot A			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot B			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 2 (N) Cpot C			2					0	Hpotion 4	1	Hpotion 5	2	Hpotion 6	4						7												0
+Act 3 (N) Cpot A			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (N) Cpot B			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (N) Cpot C			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (N) Cpot A			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (N) Cpot B			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot A			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot B			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (N) Cpot C			2					0	rvs	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot A			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot B			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 (H) Cpot C			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot A			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot B			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 2 (H) Cpot C			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot A			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot B			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 3 (H) Cpot C			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (H) Cpot A			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 4 (H) Cpot B			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot A			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot B			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 5 (H) Cpot C			2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7												0
+Act 1 Champ A			-2					0	Act 1 Citem A	1	Act 1 Cpot A	2																				0
+Act 1 Champ B			-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																				0
+Act 1 Champ C			-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																				0
+Act 2 Champ A			-2					0	Act 2 Citem A	1	Act 2 Cpot A	1																				0
+Act 2 Champ B			-2					0	Act 2 Citem B	1	Act 2 Cpot B	1																				0
+Act 2 Champ C			-2					0	Act 2 Citem C	1	Act 2 Cpot C	1																				0
+Act 3 Champ A			-2					0	Act 3 Citem A	1	Act 3 Cpot A	1																				0
+Act 3 Champ B			-2					0	Act 3 Citem B	1	Act 3 Cpot B	1																				0
+Act 3 Champ C			-2					0	Act 3 Citem C	1	Act 3 Cpot C	1																				0
+Act 4 Champ A			-2					0	Act 4 Citem A	1	Act 4 Cpot A	1																				0
+Act 4 Champ B			-2					0	Act 4 Citem B	1	Act 4 Cpot B	1																				0
+Act 5 Champ A			-2					0	Act 5 Citem A	1	Act 5 Cpot A	1																				0
+Act 5 Champ B			-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																				0
+Act 5 Champ C			-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																				0
+Act 1 (N) Champ A			-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Champ B			-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																				0
+Act 1 (N) Champ C			-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																				0
+Act 2 (N) Champ A			-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																				0
+Act 2 (N) Champ B			-2					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																				0
+Act 2 (N) Champ C			-2					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																				0
+Act 3 (N) Champ A			-2					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																				0
+Act 3 (N) Champ B			-2					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																				0
+Act 3 (N) Champ C			-2					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																				0
+Act 4 (N) Champ A			-2					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																				0
+Act 4 (N) Champ B			-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
+Act 4 (N) Champ C			-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																				0
+Act 5 (N) Champ A			-2					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																				0
+Act 5 (N) Champ B			-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																				0
+Act 5 (N) Champ C			-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																				0
+Act 1 (H) Champ A			-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																				0
+Act 1 (H) Champ B			-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																				0
+Act 1 (H) Champ C			-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																				0
+Act 2 (H) Champ A			-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																				0
+Act 2 (H) Champ B			-2					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																				0
+Act 2 (H) Champ C			-2					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																				0
+Act 3 (H) Champ A			-2					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																				0
+Act 3 (H) Champ B			-2					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																				0
+Act 3 (H) Champ C			-2					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																				0
+Act 4 (H) Champ A			-2					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																				0
+Act 4 (H) Champ B			-2					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																				0
+Act 5 (H) Champ A			-2					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																				0
+Act 5 (H) Champ B			-2					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																				0
+Act 5 (H) Champ C			-2					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																				0
+Act 1 Uitem A			1	800	800	800	1024	0	Act 1 Equip A	58	Act 1 Good	4																				0
+Act 1 Uitem B			1	800	800	800	1024	0	Act 1 Equip B	58	Act 1 Good	4																				0
+Act 1 Uitem C			1	800	800	800	1024	0	Act 1 Equip C	58	Act 1 Good	4																				0
+Act 2 Uitem A			1	800	800	800	1024	0	Act 2 Equip A	58	Act 2 Good	4																				0
+Act 2 Uitem B			1	800	800	800	1024	0	Act 2 Equip B	58	Act 2 Good	4																				0
+Act 2 Uitem C			1	800	800	800	1024	0	Act 2 Equip C	58	Act 3 Good	4																				0
+Act 3 Uitem A			1	800	800	800	1024	0	Act 3 Equip A	58	Act 3 Good	4																				0
+Act 3 Uitem B			1	800	800	800	1024	0	Act 3 Equip B	58	Act 3 Good	4																				0
+Act 3 Uitem C			1	800	800	800	1024	0	Act 3 Equip C	58	Act 3 Good	4																				0
+Act 4 Uitem A			1	800	800	800	1024	0	Act 4 Equip A	58	Act 4 Good	4																				0
+Act 4 Uitem B			1	800	800	800	1024	0	Act 4 Equip B	58	Act 4 Good	4																				0
+Act 5 Uitem A			1	800	800	800	1024	0	Act 5 Equip A	58	Act 5 Good	4																				0
+Act 5 Uitem B			1	800	800	800	1024	0	Act 5 Equip B	58	Act 5 Good	4																				0
+Act 5 Uitem C			1	800	800	800	1024	0	Act 5 Equip C	58	Act 5 Good	4																				0
+Act 1 (N) Uitem A			1	800	800	800	1024	0	Act 1 (N) Equip A	58	Act 1 (N) Good	4																				0
+Act 1 (N) Uitem B			1	800	800	800	1024	0	Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
+Act 1 (N) Uitem C			1	800	800	800	1024	0	Act 1 (N) Equip B	58	Act 1 (N) Good	4																				0
+Act 2 (N) Uitem A			1	800	800	800	1024	0	Act 2 (N) Equip A	58	Act 2 (N) Good	4																				0
+Act 2 (N) Uitem B			1	800	800	800	1024	0	Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
+Act 2 (N) Uitem C			1	800	800	800	1024	0	Act 2 (N) Equip B	58	Act 2 (N) Good	4																				0
+Act 3 (N) Uitem A			1	800	800	800	1024	0	Act 3 (N) Equip A	58	Act 3 (N) Good	4																				0
+Act 3 (N) Uitem B			1	800	800	800	1024	0	Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
+Act 3 (N) Uitem C			1	800	800	800	1024	0	Act 3 (N) Equip B	58	Act 3 (N) Good	4																				0
+Act 4 (N) Uitem A			1	800	800	800	1024	0	Act 4 (N) Equip A	58	Act 4 (N) Good	4																				0
+Act 4 (N) Uitem B			1	800	800	800	1024	0	Act 4 (N) Equip B	58	Act 4 (N) Good	4																				0
+Act 5 (N) Uitem A			1	800	800	800	1024	0	Act 5 (N) Equip A	58	Act 5 (N) Good	4																				0
+Act 5 (N) Uitem B			1	800	800	800	1024	0	Act 5 (N) Equip B	58	Act 5 (N) Good	4																				0
+Act 5 (N) Uitem C			1	800	800	800	1024	0	Act 5 (N) Equip C	58	Act 5 (N) Good	4																				0
+Act 1 (H) Uitem A			1	800	800	800	1024	0	Act 1 (H) Equip A	58	Act 1 (H) Good	4																				0
+Act 1 (H) Uitem B			1	800	800	800	1024	0	Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
+Act 1 (H) Uitem C			1	800	800	800	1024	0	Act 1 (H) Equip B	58	Act 1 (H) Good	4																				0
+Act 2 (H) Uitem A			1	800	800	800	1024	0	Act 2 (H) Equip A	58	Act 2 (H) Good	4																				0
+Act 2 (H) Uitem B			1	800	800	800	1024	0	Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
+Act 2 (H) Uitem C			1	800	800	800	1024	0	Act 2 (H) Equip B	58	Act 2 (H) Good	4																				0
+Act 3 (H) Uitem A			1	800	800	800	1024	0	Act 3 (H) Equip A	58	Act 3 (H) Good	4																				0
+Act 3 (H) Uitem B			1	800	800	800	1024	0	Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
+Act 3 (H) Uitem C			1	800	800	800	1024	0	Act 3 (H) Equip B	58	Act 3 (H) Good	4																				0
+Act 4 (H) Uitem A			1	800	800	800	1024	0	Act 4 (H) Equip A	58	Act 4 (H) Good	4																				0
+Act 4 (H) Uitem B			1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good	4																				0
+Act 5 (H) Uitem A			1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4																				0
+Act 5 (H) Uitem B			1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4																				0
+Act 5 (H) Uitem C			1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4																				0
+Act 1 Unique A			-3					0	Act 1 Uitem A	1	Act 1 Cpot A	2																				0
+Act 1 Unique B			-3					0	Act 1 Uitem B	1	Act 1 Cpot B	2																				0
+Act 1 Unique C			-3					0	Act 1 Uitem C	1	Act 1 Cpot C	2																				0
+Act 2 Unique A			-3					0	Act 2 Uitem A	1	Act 2 Cpot A	2																				0
+Act 2 Unique B			-3					0	Act 2 Uitem B	1	Act 2 Cpot B	2																				0
+Act 2 Unique C			-3					0	Act 2 Uitem C	1	Act 2 Cpot C	2																				0
+Act 3 Unique A			-3					0	Act 3 Uitem A	1	Act 3 Cpot A	2																				0
+Act 3 Unique B			-3					0	Act 3 Uitem B	1	Act 3 Cpot B	2																				0
+Act 3 Unique C			-3					0	Act 3 Uitem C	1	Act 3 Cpot C	2																				0
+Act 4 Unique A			-3					0	Act 4 Uitem A	1	Act 4 Cpot A	2																				0
+Act 4 Unique B			-3					0	Act 4 Uitem B	1	Act 4 Cpot B	2																				0
+Act 5 Unique A			-3					0	Act 5 Uitem A	1	Act 5 Cpot A	2																				0
+Act 5 Unique B			-3					0	Act 5 Uitem B	1	Act 5 Cpot B	2																				0
+Act 5 Unique C			-3					0	Act 5 Uitem C	1	Act 5 Cpot C	2																				0
+Act 1 (N) Unique A			-3					0	Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Unique B			-3					0	Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																				0
+Act 1 (N) Unique C			-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																				0
+Act 2 (N) Unique A			-3					0	Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																				0
+Act 2 (N) Unique B			-3					0	Act 2 (N) Uitem B	1	Act 2 (N) Cpot B	2																				0
+Act 2 (N) Unique C			-3					0	Act 2 (N) Uitem C	1	Act 2 (N) Cpot C	2																				0
+Act 3 (N) Unique A			-3					0	Act 3 (N) Uitem A	1	Act 3 (N) Cpot A	2																				0
+Act 3 (N) Unique B			-3					0	Act 3 (N) Uitem B	1	Act 3 (N) Cpot B	2																				0
+Act 3 (N) Unique C			-3					0	Act 3 (N) Uitem C	1	Act 3 (N) Cpot C	2																				0
+Act 4 (N) Unique A			-3					0	Act 4 (N) Uitem A	1	Act 4 (N) Cpot A	2																				0
+Act 4 (N) Unique B			-3					0	Act 4 (N) Uitem B	1	Act 4 (N) Cpot B	2																				0
+Act 5 (N) Unique A			-3					0	Act 5 (N) Uitem A	1	Act 5 (N) Cpot A	2																				0
+Act 5 (N) Unique B			-3					0	Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																				0
+Act 5 (N) Unique C			-3					0	Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																				0
+Act 1 (H) Unique A			-3					0	Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Unique B			-3					0	Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																				0
+Act 1 (H) Unique C			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																				0
+Act 2 (H) Unique A			-3					0	Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																				0
+Act 2 (H) Unique B			-3					0	Act 2 (H) Uitem B	1	Act 2 (H) Cpot B	2																				0
+Act 2 (H) Unique C			-3					0	Act 2 (H) Uitem C	1	Act 2 (H) Cpot C	2																				0
+Act 3 (H) Unique A			-3					0	Act 3 (H) Uitem A	1	Act 3 (H) Cpot A	2																				0
+Act 3 (H) Unique B			-3					0	Act 3 (H) Uitem B	1	Act 3 (H) Cpot B	2																				0
+Act 3 (H) Unique C			-3					0	Act 3 (H) Uitem C	1	Act 3 (H) Cpot C	2																				0
+Act 4 (H) Unique A			-3					0	Act 4 (H) Uitem A	1	Act 4 (H) Cpot A	2																				0
+Act 4 (H) Unique B			-3					0	Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2																				0
+Act 5 (H) Unique A			-3					0	Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																				0
+Act 5 (H) Unique B			-3					0	Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																				0
+Act 5 (H) Unique C			-3					0	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																				0
+Quill 1			1					83	gld	19	Act 1 Junk	19																				0
+Quill 2			1					83	gld	19	Act 1 Junk	19																				0
+Quill 3			1					83	gld	19	Act 1 Junk	19	Act 1 Good	1																		0
+Quill 4			1					83	gld	19	Act 1 Junk	19	Act 1 Good	1																		0
+Quill 5			1					83	gld	19	Act 3 Junk	19	Act 3 Good	1																		0
+Quill 1 (N)			1					83	gld	19	Act 1 (N) Junk	19																				0
+Quill 2 (N)			1					83	gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		0
+Quill 3 (N)			1					83	gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		0
+Quill 4 (N)			1					83	gld	19	Act 1 (N) Junk	19	Act 1 (N) Good	1																		0
+Quill 5 (N)			1					83	gld	19	Act 3 (N) Junk	19	Act 3 (N) Good	1																		0
+Quill 1 (H)			1					83	gld	19	Act 1 (H) Junk	19																				0
+Quill 2 (H)			1					83	gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		0
+Quill 3 (H)			1					83	gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		0
+Quill 4 (H)			1					83	gld	19	Act 1 (H) Junk	19	Act 1 (H) Good	3																		0
+Quill 5 (H)			1					83	gld	19	Act 3 (H) Junk	19	Act 3 (H) Good	3																		0
+Swarm 1			1					83	Potion 2	12	Misc 1	6	Act 2 Good	1	Act 2 Magic A	6																0
+Swarm 2			1					83	Potion 3	12	Misc 2	6	Act 3 Good	1	Act 3 Magic A	6																0
+Swarm 1 (N)			1					83	Potion 6	12	Misc 2	6	Act 2 (N) Good	1	Act 2 (N) Magic A	6																0
+Swarm 2 (N)			1					83	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magic A	6																0
+Swarm 1 (H)			1					83	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																0
+Swarm 2 (H)			1					83	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																0
+Andariel			7	983	983	983	983	19	"gld,mul=1280"	11	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3																0
+Andariel (N)			7	983	983	983	920	19	"gld,mul=1536"	11	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
+Andariel (H)			7	983	983	983	900	19	"gld,mul=2048"	11	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3																0
+Andarielq			7	983	972	920	900	5	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3	Sets (Norm)	1																0
+Andarielq (N)			8	983	972	920	700	4	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3	Sets (NM)	1																0
+Andarielq (H)			9	983	972	920	500	2	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	Sets (H)	1																0
+Duriel - Base			7	983	983	983	983	19	"gld,mul=1280"	11	Act 3 Equip A	19	Act 3 Junk	15	Act 3 Good	3																0
+Duriel (N) - Base			7	983	983	983	920	19	"gld,mul=1536"	11	Act 3 (N) Equip A	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																0
+Duriel (H) - Base			7	983	983	983	900	19	"gld,mul=2048"	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																0
+Durielq - Base			7	983	972	920	900	5	Act 3 Equip A	19	Act 3 Junk	15	Act 3 Good	3	Sets (Norm)	1																0
+Durielq (N) - Base			8	983	972	920	700	4	Act 3 (N) Equip A	19	Act 3 (N) Junk	15	Act 3 (N) Good	3	Sets (NM)	1																0
+Durielq (H) - Base			9	983	972	920	500	2	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	Sets (H)	1																0
+Radament			5	972	920	983	900	19	"gld,mul=1280"	11	Act 3 Equip B	19	Act 3 Junk	15	Act 3 Good	3																0
+Radament (N)			6	972	920	983	700	19	"gld,mul=1536"	11	Act 3 (N) Equip B	19	Act 3 (N) Junk	15	Act 3 (N) Good	3																0
+Radament (H)			7	972	920	983	500	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																0
+Flying Scimitar			1					66	Act 2 Good	3	scm	57																				0
+Flying Scimitar (N)			1					66	Act 2 (N) Good	3	scm	25	9sm	32																		0
+Flying Scimitar (H)			1					66	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																0
+Mephisto			7	983	983	983	983	15	"gld,mul=1280"	5	Act 4 Equip A	52	Act 4 Junk	5	Act 4 Good	3																0
+Mephisto (N)			7	983	983	983	920	15	"gld,mul=1536"	5	Act 4 (N) Equip A	52	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
+Mephisto (H)			7	983	983	983	900	15	"gld,mul=2048"	5	Act 4 (H) Equip A	52	Act 4 (H) Junk	5	Act 4 (H) Good	3																0
+Mephistoq			7	983	972	920	900	5	Act 4 Equip A	52	Act 4 Junk	5	Act 4 Good	3	Sets (Norm)	1																0
+Mephistoq (N)			8	983	972	920	700	4	Act 4 (N) Equip A	52	Act 4 (N) Junk	5	Act 4 (N) Good	3	Sets (NM)	1																0
+Mephistoq (H)			9	983	972	920	500	2	Act 4 (H) Equip A	52	Act 4 (H) Junk	5	Act 4 (H) Good	3	Sets (H)	1																0
+Diablo			7	983	983	983	983	15	"gld,mul=1280"	5	Act 5 Equip A	52	Act 5 Junk	5	Act 5 Good	3																0
+Diablo (N)			7	983	983	983	920	15	"gld,mul=1536"	5	Act 5 (N) Equip A	52	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
+Diablo (H)			7	983	983	983	900	15	"gld,mul=2048"	5	Act 5 (H) Equip A	52	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
+Diabloq			7	983	920	880	900	5	Act 5 Equip A	52	Act 5 Junk	5	Act 5 Good	3	Sets (Norm)	1																0
+Diabloq (N)			8	983	920	880	700	2	Act 5 (N) Equip A	52	Act 5 (N) Junk	5	Act 5 (N) Good	3	Sets (NM)	1																0
+Diabloq (H)			9	983	920	880	500	1	Act 5 (H) Equip A	52	Act 5 (H) Junk	5	Act 5 (H) Good	3	Sets (H)	1																0
+Summoner			5	900	900	972	983	19	"gld,mul=1280"	9	Act 2 Equip C	15	Act 3 Junk	5	Act 2 Good	3	Act 3 Magic A	4														0
+Summoner (N)			5	900	900	972	920	19	"gld,mul=1536"	9	Act 2 (N) Equip C	15	Act 3 (N) Junk	5	Act 2 (N) Good	3	Act 3 (N) Magic A	4														0
+Summoner (H)			5	900	900	972	900	19	"gld,mul=2048"	9	Act 2 (H) Equip C	15	Act 3 (H) Junk	5	Act 2 (H) Good	3	Act 3 (H) Magic A	4														0
+Council			3	650	800	800	983	19	"gld,mul=1280"	9	Act 4 Equip A	15	Act 4 Junk	5	Act 4 Good	3	Act 4 Magic A	4														0
+Council (N)			3	650	800	800	920	19	"gld,mul=1536"	9	Act 4 (N) Equip A	15	Act 4 (N) Junk	5	Act 4 (N) Good	3	Act 4 (N) Magic A	4														0
+Council (H)			3	650	800	800	900	19	"gld,mul=2048"	9	Act 4 (H) Equip A	15	Act 4 (H) Junk	5	Act 4 (H) Good	3	Act 4 (H) Magic A	4														0
+Griswold			6					0	Act 1 Uitem C	1	Act 1 Melee B	2	box	2																		0
+Griswold (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
+Griswold (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
+Cow			1					200	gld	38	Act 5 Equip A	38	Act 5 Junk	38	Act 5 Good	6	zzz	2														0
+Cow (N)			1					180	gld	38	Act 5 (N) Equip A	38	Act 5 (N) Junk	38	Act 5 (N) Good	6	zzz	2														0
+Cow (H)			1					160	gld	38	Act 5 (H) Equip B	38	Act 5 (H) Junk	38	Act 5 (H) Good	6	zzz	2														0
+Trapped Soul			1					66	gld	19	Act 4 Equip A	8	Act 4 Junk	33																		0
+Trapped Soul (N)			1					66	gld	19	Act 4 (N) Equip A	8	Act 4 (N) Junk	33																		0
+Trapped Soul (H)			1					66	gld	19	Act 4 (H) Equip A	8	Act 4 (H) Junk	33																		0
+Haphesto			5	800	800	900	983	19	"gld,mul=1280"	14	Act 5 Equip A	19	Act 5 Junk	5	Act 5 Good	3																0
+Haphesto (N)			5	800	800	900	920	19	"gld,mul=1536"	14	Act 5 (N) Equip A	19	Act 5 (N) Junk	5	Act 5 (N) Good	3																0
+Haphesto (H)			5	800	800	900	900	19	"gld,mul=2048"	14	Act 5 (H) Equip A	19	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
+Nihlathak			5	900	900	900	983	19	"gld,mul=1280"	14	Act 5 Equip B	19	Act 5 Junk	5	Act 5 Good	3	Nihlathak Sets	1														0
+Nihlathak (N)			5	900	900	900	920	19	"gld,mul=1536"	14	Act 5 (N) Equip B	19	Act 5 (N) Junk	5	Act 5 (N) Good	3	Nihlathak (N) Sets	1														0
+Nihlathak (H)			5	900	900	900	900	19	"gld,mul=2048"	14	Act 5 (H) Equip B	19	Act 5 (H) Junk	5	Act 5 (H) Good	3	Nihlathak (H) Sets	1														0
+Baal			7	983	983	983	983	15	"gld,mul=1280"	5	Act 1 (N) Equip A	52	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
+Baal (N)			7	983	983	983	920	15	"gld,mul=1536"	5	Act 1 (H) Equip A	52	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
+Baal (H)			7	983	983	983	900	15	"gld,mul=2048"	5	Act 5 (H) Equip B	52	Act 5 (H) Junk	5	Act 5 (H) Good	3																0
+Baalq			7	983	972	920	900	5	Act 1 (N) Equip A	52	Act 1 (N) Junk	5	Act 1 (N) Good	3																		0
+Baalq (N)			8	983	972	920	700	4	Act 1 (H) Equip A	52	Act 1 (H) Junk	5	Act 1 (H) Good	3																		0
+Baalq (H)			9	983	972	920	500	2	Act 5 (H) Equip B	52	Act 5 (H) Junk	5	Act 5 (H) Good	3																		0
+Blood Raven			5	800	800	972	983	19	"gld,mul=1280"	14	Act 1 Equip B	19	Act 1 Junk	5	Act 1 Good	3																0
+Blood Raven (N)			5	800	800	972	920	19	"gld,mul=1536"	14	Act 1 (N) Equip B	19	Act 1 (N) Junk	5	Act 1 (N) Good	3																0
+Blood Raven (H)			5	800	800	972	900	19	"gld,mul=2048"	14	Act 1 (H) Equip B	19	Act 1 (H) Junk	5	Act 1 (H) Good	3																0
+Smith			-3					0	Act 1 Uitem C	1	Act 1 Melee B	2																				0
+Smith (N)			-3					0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	2																				0
+Smith (H)			-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	2																				0
+Izual			5	800	800	972	983	19	"gld,mul=1280"	14	Act 4 Equip B	19	Act 4 Junk	5	Act 4 Good	3																0
+Izual (N)			5	800	800	972	920	19	"gld,mul=1536"	14	Act 4 (N) Equip B	19	Act 4 (N) Junk	5	Act 4 (N) Good	3																0
+Izual (H)			5	800	800	972	900	19	"gld,mul=2048"	14	Act 4 (H) Equip B	19	Act 4 (H) Junk	5	Act 4 (H) Good	3																0
+Act 1 Super A			-4	800	800	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
+Act 1 Super B			-4	800	800	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
+Act 1 Super C			-4	800	800	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
+Act 2 Super A			-4	800	800	972	1024	0	Act 2 Uitem A	2	Act 2 Cpot A	2																				0
+Act 2 Super B			-4	800	800	972	1024	0	Act 2 Uitem B	2	Act 2 Cpot B	2																				0
+Act 2 Super C			-4	800	800	972	1024	0	Act 2 Uitem C	2	Act 2 Cpot C	2																				0
+Act 3 Super A			-4	800	800	972	1024	0	Act 3 Uitem A	2	Act 3 Cpot A	2																				0
+Act 3 Super B			-4	800	800	972	1024	0	Act 3 Uitem B	2	Act 3 Cpot B	2																				0
+Act 3 Super C			-4	800	800	972	1024	0	Act 3 Uitem C	2	Act 3 Cpot C	2																				0
+Act 4 Super A			-4	800	800	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2																				0
+Act 4 Super B			-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
+Act 4 Super C			-4	800	800	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
+Act 5 Super A			-4	800	800	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
+Act 5 Super B			-4	800	800	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
+Act 5 Super C			-4	800	800	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
+Act 1 (N) Super A			-4	800	800	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Super B			-4	800	800	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
+Act 1 (N) Super C			-4	800	800	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
+Act 2 (N) Super A			-4	800	800	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
+Act 2 (N) Super B			-4	800	800	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
+Act 2 (N) Super C			-4	800	800	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
+Act 3 (N) Super A			-4	800	800	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
+Act 3 (N) Super B			-4	800	800	972	1024	0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																				0
+Act 3 (N) Super C			-4	800	800	972	1024	0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																				0
+Act 4 (N) Super A			-4	800	800	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																				0
+Act 4 (N) Super B			-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
+Act 4 (N) Super C			-4	800	800	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
+Act 5 (N) Super A			-4	800	800	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
+Act 5 (N) Super B			-4	800	800	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
+Act 5 (N) Super C			-4	800	800	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
+Act 1 (H) Super A			-4	800	800	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Super B			-4	800	800	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
+Act 1 (H) Super C			-4	800	800	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
+Act 2 (H) Super A			-4	800	800	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
+Act 2 (H) Super B			-4	800	800	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
+Act 2 (H) Super C			-4	800	800	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
+Act 3 (H) Super A			-4	800	800	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
+Act 3 (H) Super B			-4	800	800	972	1024	0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																				0
+Act 3 (H) Super C			-4	800	800	972	1024	0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																				0
+Act 4 (H) Super A			-4	800	800	972	1024	0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																				0
+Act 4 (H) Super B			-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
+Act 4 (H) Super C			-4	800	800	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
+Act 5 (H) Super A			-4	800	800	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
+Act 5 (H) Super B			-4	800	800	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
+Act 5 (H) Super C			-4	800	800	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
+Act 1 Super Ax			-4	512	654	972	1024	0	Act 1 Uitem A	2	Act 1 Cpot A	2																				0
+Act 1 Super Bx			-4	512	654	972	1024	0	Act 1 Uitem B	2	Act 1 Cpot B	2																				0
+Act 1 Super Cx			-4	512	654	972	1024	0	Act 1 Uitem C	2	Act 1 Cpot C	2																				0
+Act 2 Super Ax			-4	512	654	972	1024	0	Act 2 Uitem A	2	Act 2 Cpot A	2																				0
+Act 2 Super Bx			-4	512	654	972	1024	0	Act 2 Uitem B	2	Act 2 Cpot B	2																				0
+Act 2 Super Cx			-4	512	654	972	1024	0	Act 2 Uitem C	2	Act 2 Cpot C	2																				0
+Act 3 Super Ax			-4	512	654	972	1024	0	Act 3 Uitem A	2	Act 3 Cpot A	2																				0
+Act 3 Super Bx			-4	512	654	972	1024	0	Act 3 Uitem B	2	Act 3 Cpot B	2																				0
+Act 3 Super Cx			-4	512	654	972	1024	0	Act 3 Uitem C	2	Act 3 Cpot C	2																				0
+Act 4 Super Ax			-4	512	654	972	1024	0	Act 4 Uitem A	2	Act 4 Cpot A	2																				0
+Act 4 Super Bx			-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
+Act 4 Super Cx			-4	512	654	972	1024	0	Act 4 Uitem B	2	Act 4 Cpot B	2																				0
+Act 5 Super Ax			-4	512	654	972	1024	0	Act 5 Uitem A	2	Act 5 Cpot A	2																				0
+Act 5 Super Bx			-4	512	654	972	1024	0	Act 5 Uitem B	2	Act 5 Cpot B	2																				0
+Act 5 Super Cx			-4	512	654	972	1024	0	Act 5 Uitem C	2	Act 5 Cpot C	2																				0
+Act 1 (N) Super Ax			-4	512	654	972	1024	0	Act 1 (N) Uitem A	2	Act 1 (N) Cpot A	2																				0
+Act 1 (N) Super Bx			-4	512	654	972	1024	0	Act 1 (N) Uitem B	2	Act 1 (N) Cpot B	2																				0
+Act 1 (N) Super Cx			-4	512	654	972	1024	0	Act 1 (N) Uitem C	2	Act 1 (N) Cpot C	2																				0
+Act 2 (N) Super Ax			-4	512	654	972	1024	0	Act 2 (N) Uitem A	2	Act 2 (N) Cpot A	2																				0
+Act 2 (N) Super Bx			-4	512	654	972	1024	0	Act 2 (N) Uitem B	2	Act 2 (N) Cpot B	2																				0
+Act 2 (N) Super Cx			-4	512	654	972	1024	0	Act 2 (N) Uitem C	2	Act 2 (N) Cpot C	2																				0
+Act 3 (N) Super Ax			-4	512	654	972	1024	0	Act 3 (N) Uitem A	2	Act 3 (N) Cpot A	2																				0
+Act 3 (N) Super Bx			-4	512	654	972	1024	0	Act 3 (N) Uitem B	2	Act 3 (N) Cpot B	2																				0
+Act 3 (N) Super Cx			-4	512	654	972	1024	0	Act 3 (N) Uitem C	2	Act 3 (N) Cpot C	2																				0
+Act 4 (N) Super Ax			-4	512	654	972	1024	0	Act 4 (N) Uitem A	2	Act 4 (N) Cpot A	2																				0
+Act 4 (N) Super Bx			-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
+Act 4 (N) Super Cx			-4	512	654	972	1024	0	Act 4 (N) Uitem B	2	Act 4 (N) Cpot B	2																				0
+Act 5 (N) Super Ax			-4	512	654	972	1024	0	Act 5 (N) Uitem A	2	Act 5 (N) Cpot A	2																				0
+Act 5 (N) Super Bx			-4	512	654	972	1024	0	Act 5 (N) Uitem B	2	Act 5 (N) Cpot B	2																				0
+Act 5 (N) Super Cx			-4	512	654	972	1024	0	Act 5 (N) Uitem C	2	Act 5 (N) Cpot C	2																				0
+Act 1 (H) Super Ax			-4	512	654	972	1024	0	Act 1 (H) Uitem A	2	Act 1 (H) Cpot A	2																				0
+Act 1 (H) Super Bx			-4	512	654	972	1024	0	Act 1 (H) Uitem B	2	Act 1 (H) Cpot B	2																				0
+Act 1 (H) Super Cx			-4	512	654	972	1024	0	Act 1 (H) Uitem C	2	Act 1 (H) Cpot C	2																				0
+Act 2 (H) Super Ax			-4	512	654	972	1024	0	Act 2 (H) Uitem A	2	Act 2 (H) Cpot A	2																				0
+Act 2 (H) Super Bx			-4	512	654	972	1024	0	Act 2 (H) Uitem B	2	Act 2 (H) Cpot B	2																				0
+Act 2 (H) Super Cx			-4	512	654	972	1024	0	Act 2 (H) Uitem C	2	Act 2 (H) Cpot C	2																				0
+Act 3 (H) Super Ax			-4	512	654	972	1024	0	Act 3 (H) Uitem A	2	Act 3 (H) Cpot A	2																				0
+Act 3 (H) Super Bx			-4	512	654	972	1024	0	Act 3 (H) Uitem B	2	Act 3 (H) Cpot B	2																				0
+Act 3 (H) Super Cx			-4	512	654	972	1024	0	Act 3 (H) Uitem C	2	Act 3 (H) Cpot C	2																				0
+Act 4 (H) Super Ax			-4	512	654	972	1024	0	Act 4 (H) Uitem A	2	Act 4 (H) Cpot A	2																				0
+Act 4 (H) Super Bx			-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
+Act 4 (H) Super Cx			-4	512	654	972	1024	0	Act 4 (H) Uitem B	2	Act 4 (H) Cpot B	2																				0
+Act 5 (H) Super Ax			-4	512	654	972	1024	0	Act 5 (H) Uitem A	2	Act 5 (H) Cpot A	2																				0
+Act 5 (H) Super Bx			-4	512	654	972	1024	0	Act 5 (H) Uitem B	2	Act 5 (H) Cpot B	2																				0
+Act 5 (H) Super Cx			-4	512	654	972	1024	0	Act 5 (H) Uitem C	2	Act 5 (H) Cpot C	2																				0
+Cow King			-3	1024	900	880	800	0	Act 1 Uitem C	1	Act 1 Melee B	1	stones1	1																		0
+Cow King (N)			-3	1024	900	880	800	0	Act 1 (H) Uitem C	1	Act 1 (N) Melee B	1	stones1	1																		0
+Cow King (H)			-3	1024	900	880	800	0	Act 1 (H) Uitem C	1	Act 1 (H) Melee B	1	stones1	1																		0
+Duriel			-2					0	tsc	1	Duriel - Base	1																				0
+Duriel (N)			-2					0	tsc	1	Duriel (N) - Base	1																				0
+Duriel (H)			-2					0	tsc	1	Duriel (H) - Base	1																				0
+Durielq			-2					0	tsc	1	Durielq - Base	1																				0
+Durielq (N)			-2					0	tsc	1	Durielq (N) - Base	1																				0
+Durielq (H)			-2					0	tsc	1	Durielq (H) - Base	1																				0
+Annihilus			-3	1024				0	cm1	1																						0
+ROP			1	1024				0	Diablo	1																						0
+ROP (N)			1	1024				0	Diablo (N)	1	Annihilus	1																				0
+ROP (H)			-2	1024				0	Diablo (H)	1	Annihilus	1																				0
+Countess Item old			5					19	"gld,mul=1280"	11	Act 1 Equip C	19	Act 2 Junk	15	Act 2 Good	3																0
+Countess Item (N) old			5					19	"gld,mul=1536"	11	Act 1 (N) Equip C	19	Act 2 (N) Junk	15	Act 2 (N) Good	3																0
+Countess Item (H) old			5					19	"gld,mul=2048"	11	Act 1 (H) Equip C	19	Act 2 (H) Junk	15	Act 2 (H) Good	3																0
+Countess Rune			3					5	Runes 4	15																						0
+Countess Rune (N)			3					5	Runes 9	15																						0
+Countess Rune (H)			3					5	Runes 14	15																						0
+Countess Item			5	972	880	920	800		Act 1 Uitem C	3	Act 1 Melee B	6																				0
+Countess Item (N)			5	972	880	920	700		Act 1 (H) Uitem C	3	Act 1 (N) Melee B	6																				0
+Countess Item (H)			5	972	880	920	600		Act 1 (H) Uitem C	3	Act 1 (H) Melee B	6																				0
+Countess			-2					0	Countess Item	1	Countess Rune	1																				0
+Countess (N)			-2					0	Countess Item (N)	1	Countess Rune (N)	1																				0
+Countess (H)			-2					0	Countess Item (H)	1	Countess Rune (H)	1																				0
+CGolem			1					38	Gold	54	Act 1 Equip A	45	Act 1 Junk	54	Act 1 Good	6	Act 1 Magic A	21	eyz	1												0
+CGolem Champ			-2						Act 1 Citem A	3	Act 1 Cpot A	6	eyz	1																		0
+CGolem Unique			-3	810	880	900	920		Act 1 Uitem A	3	Act 1 Cpot A	6	eyz	1																		0
+CGolem (N)			1					38	Gold	54	Act 1 (N) Equip A	45	Act 1 (N) Junk	54	Act 1 (N) Good	6	Act 1 (N) Magic A	21	eyz	1												0
+CGolem Champ (N)			-2						Act 1 (N) Citem A	3	Act 1 (N) Cpot A	6	eyz	1																		0
+CGolem Unique (N)			-3	810	880	900	920		Act 1 (N) Uitem A	6	Act 1 (N) Cpot A	6	eyz	1																		0
+CGolem (H)			1					38	Gold	54	Act 1 (H) Equip A	45	Act 1 (H) Junk	54	Act 1 (H) Good	6	Act 1 (H) Magic A	21	eyz	1												0
+CGolem Champ (H)			-2						Act 1 (H) Citem A	3	Act 1 (H) Cpot A	9	eyz	1																		0
+CGolem Unique (H)			-3	810	880	900	920		Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	9	eyz	1																		0
+BGolem			1					38	Gold	54	Act 2 Equip A	45	Act 2 Junk	54	Act 2 Good	6	Act 2 Magic A	21	eyz	1												0
+BGolem Champ			-2						Act 2 Citem A	3	Act 2 Cpot A	6	eyz	1																		0
+BGolem Unique			-3	810	880	900	920		Act 2 Uitem A	3	Act 2 Cpot A	6	eyz	1																		0
+BGolem (N)			1					38	Gold	54	Act 2 (N) Equip A	45	Act 2 (N) Junk	54	Act 2 (N) Good	6	Act 2 (N) Magic A	21	eyz	1												0
+BGolem Champ (N)			-2						Act 2 (N) Citem A	3	Act 2 (N) Cpot A	6	eyz	1																		0
+BGolem Unique (N)			-3	810	880	900	920		Act 2 (N) Uitem A	6	Act 2 (N) Cpot A	6	eyz	1																		0
+BGolem (H)			1					38	Gold	54	Act 2 (H) Equip A	45	Act 2 (H) Junk	54	Act 2 (H) Good	6	Act 2 (H) Magic A	21	eyz	1												0
+BGolem Champ (H)			-2						Act 2 (H) Citem A	3	Act 2 (H) Cpot A	9	eyz	1																		0
+BGolem Unique (H)			-3	810	880	900	920		Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	9	eyz	1																		0
+NGolem			1					38	Gold	54	Act 3 Equip A	45	Act 3 Junk	54	Act 3 Good	6	Act 3 Magic A	21	eyz	1												0
+NGolem Champ			-2						Act 3 Citem A	3	Act 3 Cpot A	6	eyz	1																		0
+NGolem Unique			-3	810	880	900	920		Act 3 Uitem A	3	Act 3 Cpot A	6	eyz	1																		0
+NGolem (N)			1					38	Gold	54	Act 3 (N) Equip A	45	Act 3 (N) Junk	54	Act 3 (N) Good	6	Act 3 (N) Magic A	21	eyz	1												0
+NGolem Champ (N)			-2						Act 3 (N) Citem A	3	Act 3 (N) Cpot A	6	eyz	1																		0
+NGolem Unique (N)			-3	810	880	900	920		Act 3 (N) Uitem A	6	Act 3 (N) Cpot A	6	eyz	1																		0
+NGolem (H)			1					38	Gold	54	Act 3 (H) Equip A	45	Act 3 (H) Junk	54	Act 3 (H) Good	6	Act 3 (H) Magic A	21	eyz	1												0
+NGolem Champ (H)			-2						Act 3 (H) Citem A	3	Act 3 (H) Cpot A	9	eyz	1																		0
+NGolem Unique (H)			-3	810	880	900	920		Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	9	eyz	1																		0
+FGolem			1					38	Gold	54	Act 4 Equip A	45	Act 4 Junk	54	Act 4 Good	6	Act 4 Magic A	21	eyz	1												0
+FGolem Champ			-2						Act 4 Citem A	3	Act 4 Cpot A	6	eyz	1																		0
+FGolem Unique			-3	810	880	900	920		Act 4 Uitem A	3	Act 4 Cpot A	6	eyz	1																		0
+FGolem (N)			1					38	Gold	54	Act 4 (N) Equip A	45	Act 4 (N) Junk	54	Act 4 (N) Good	6	Act 4 (N) Magic A	21	eyz	1												0
+FGolem Champ (N)			-2						Act 4 (N) Citem A	3	Act 4 (N) Cpot A	6	eyz	1																		0
+FGolem Unique (N)			-3	810	880	900	920		Act 4 (N) Uitem A	6	Act 4 (N) Cpot A	6	eyz	1																		0
+FGolem (H)			1					38	Gold	54	Act 4 (H) Equip A	45	Act 4 (H) Junk	54	Act 4 (H) Good	6	Act 4 (H) Magic A	21	eyz	1												0
+FGolem Champ (H)			-2						Act 4 (H) Citem A	3	Act 4 (H) Cpot A	9	eyz	1																		0
+FGolem Unique (H)			-3	810	880	900	920		Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	9	eyz	1																		0
+Toorc			-2	920	920	983	900	5	Council	4	qf2	1																				0
+Toorc (N)			-2	920	920	983	700	4	Council (N)	5	qf2	1																				0
+Toorc (H)			-2	920	920	983	500	2	Council (H)	5	qf2	1																				0
+Bishibosh			3	810	880	983	900	7	Act 2 Equip A	27	Act 2 Junk	20	Act 2 Good	5	Sets (Act 1 Super)	1																0
+Bishibosh (N)			4	810	880	983	700	5	Act 2 (N) Equip A	27	Act 2 (N) Junk	20	Act 2 (N) Good	5	Sets (Act 3 Super)	1																0
+Bishibosh (H)			5	810	880	983	500	3	Act 2 (H) Equip A	27	Act 2 (H) Junk	20	Act 2 (H) Good	5	Sets (Act 4 Super)	1																0
+Rakanishu			3	810	880	983	900	7	Act 2 Equip A	27	Act 2 Junk	20	Act 2 Good	5	Sets (Act 1 Super)	1																0
+Rakanishu (N)			4	810	880	983	700	5	Act 2 (N) Equip A	27	Act 2 (N) Junk	20	Act 2 (N) Good	5	Sets (Act 3 Super)	1																0
+Rakanishu (H)			5	810	880	983	500	3	Act 2 (H) Equip A	27	Act 2 (H) Junk	20	Act 2 (H) Good	5	Sets (Act 4 Super)	1																0
+Treehead WoodFist			3	810	880	983	900	7	Act 2 Equip A	27	Act 2 Junk	20	Act 2 Good	5	Sets (Act 1 Super)	1																0
+Treehead WoodFist (N)			4	810	880	983	700	5	Act 2 (N) Equip A	27	Act 2 (N) Junk	20	Act 2 (N) Good	5	Sets (Act 3 Super)	1																0
+Treehead WoodFist (H)			5	810	880	983	500	3	Act 2 (H) Equip A	27	Act 2 (H) Junk	20	Act 2 (H) Good	5	Sets (Act 4 Super)	1																0
+Corpsefire			3	810	880	983	900	7	Act 2 Equip A	27	Act 2 Junk	20	Act 2 Good	5	Sets (Act 1 Super)	1																0
+Corpsefire (N)			4	810	880	983	700	5	Act 2 (N) Equip A	27	Act 2 (N) Junk	20	Act 2 (N) Good	5	Sets (Act 3 Super)	1																0
+Corpsefire (H)			5	810	880	983	500	3	Act 2 (H) Equip A	27	Act 2 (H) Junk	20	Act 2 (H) Good	5	Sets (Act 4 Super)	1																0
+Coldworm the Burrower			3	810	880	983	900	7	Act 2 Equip A	27	Act 2 Junk	20	Act 2 Good	5	Sets (Act 2 Super)	1																0
+Coldworm the Burrower (N)			4	810	880	983	700	5	Act 2 (N) Equip A	27	Act 2 (N) Junk	20	Act 2 (N) Good	5	Sets (Act 4 Super)	1																0
+Coldworm the Burrower (H)			5	810	880	983	500	3	Act 2 (H) Equip A	27	Act 2 (H) Junk	20	Act 2 (H) Good	5	Sets (NM)	1																0
+Siege Boss			5	920	880	983	900	5	Act 2 Equip A	19	Act 2 Junk	15	Act 2 Good	3	Sets (Norm)	1																0
+Siege Boss (N)			6	920	880	983	700	4	Act 2 (N) Equip A	19	Act 2 (N) Junk	15	Act 2 (N) Good	3	Sets (NM)	1																0
+Siege Boss (H)			7	920	880	983	500	2	Act 2 (H) Equip A	19	Act 2 (H) Junk	15	Act 2 (H) Good	3	Sets (H)	1																0
+Skeleton (Norm)			1						Act 1 H2H A	100	sol	1																				0
+Returned (Norm)			1						Act 1 H2H B	100	sol	2																				0
+BoneWarrior (Norm)			1						Act 1 H2H B	100	sol	3																				0
+BurningDead (Norm)			1						Act 2 H2H A	100	sol	4																				0
+Horror (Norm)			1						Act 2 H2H A	100	sol	5																				0
+Zombie (Norm)			1						Act 1 H2H A	100	hrt	1	sol	1																		0
+HungryDead (Norm)			1						Act 1 H2H A	100	hrt	2	sol	2																		0
+Ghoul (Norm)			1						Act 2 H2H C	100	hrt	3	sol	3																		0
+DrownedCarcass (Norm)			1						Act 3 H2H A	100	hrt	5	sol	5																		0
+PlagueBearer (Norm)			1						Act 2 H2H B	100	hrt	4	sol	4																		0
+Misshapen (Norm)			1						Act 1 H2H C	100	hrt	4	sol	4																		0
+Disfigured (Norm)			1						Act 2 H2H C	100	hrt	3	sol	3																		0
+Tainted (Norm)			1						Act 3 H2H C	100	hrt	1	sol	1																		0
+Afflicted (Norm)			1						Act 4 H2H C	100	hrt	2	sol	2																		0
+Damned (Norm)			1						Act 5 H2H C	100	hrt	5	sol	5																		0
+FoulCrow (Norm)			1						Act 1 Cast A	100	hrt	1	tal	1																		0
+BloodHawk (Norm)			1						Act 1 Cast B	100	hrt	2	tal	2																		0
+BlackRaptor (Norm)			1						Act 2 Cast B	100	hrt	3	tal	3																		0
+CloudStalker (Norm)			1						Act 3 Cast A	100	hrt	4	tal	4																		0
+Fallen (Norm)			1						Act 1 H2H A	100	hrt	1	fng	1																		0
+Carver (Norm)			1						Act 1 H2H B	100	hrt	2	fng	2																		0
+Devilkin (Norm)			1						Act 1 H2H B	100	hrt	3	fng	3																		0
+DarkOne (Norm)			1						Act 5 H2H C	100	hrt	5	fng	5																		0
+WarpedFallen (Norm)			1						Act 1 H2H C	100	hrt	4	fng	4																		0
+Brute (Norm)			1						Act 1 H2H B	100	hrt	2	scz	2																		0
+Yeti (Norm)			1						Act 1 H2H C	100	hrt	3	scz	3																		0
+Crusher (Norm)			1						Act 2 H2H C	100	hrt	4	scz	4																		0
+WailingBeast (Norm)			1						Act 3 H2H B	100	hrt	5	scz	5																		0
+GargantuanBeast (Norm)			1						Act 1 H2H A	100	hrt	1	scz	1																		0
+SandRaider (Norm)			1						Act 2 H2H A	100	hrt	1																				0
+Marauder (Norm)			1						Act 2 H2H B	100	hrt	2																				0
+Invader (Norm)			1						Act 2 H2H B	100	hrt	3																				0
+Infidel (Norm)			1						Act 3 H2H A	100	hrt	4																				0
+Assailant (Norm)			1						Act 4 H2H A	100	hrt	5																				0
+Ghost (Norm)			1						Act 1 Wraith B	100	sol	1																				0
+Wraith (Norm)			1						Act 1 Wraith C	100	sol	2																				0
+Specter (Norm)			1						Act 2 Wraith C	100	sol	3																				0
+Apparition (Norm)			1						Act 2 Wraith C	100	sol	4																				0
+DarkShape (Norm)			1						Act 3 Wraith A	100	sol	5																				0
+DarkHunter (Norm)			1						Act 1 H2H A	100	hrt	1																				0
+VileHunter (Norm)			1						Act 1 H2H B	100	hrt	2																				0
+DarkStalker (Norm)			1						Act 1 H2H C	100	hrt	3																				0
+BlackRogue (Norm)			1						Act 1 H2H C	100	hrt	4																				0
+FleshHunter (Norm)			1						Act 3 H2H B	100	hrt	5																				0
+DuneBeast (Norm)			1						Act 2 H2H B	100	hrt	1	fng	1																		0
+RockDweller (Norm)			1						Act 2 H2H B	100	hrt	2	fng	2																		0
+JungleHunter (Norm)			1						Act 3 H2H A	100	hrt	3	fng	3																		0
+DoomApe (Norm)			1						Act 3 H2H A	100	hrt	4	fng	4																		0
+TempleGuard (Norm)			1						Act 3 H2H B	100	hrt	5	fng	5																		0
+MoonClan (Norm)			1						Act 1 H2H C	100	hrt	4	sol	4																		0
+NightClan (Norm)			1						Act 2 H2H C	100	hrt	3	sol	3																		0
+BloodClan (Norm)			1						Act 3 H2H C	100	hrt	1	sol	1																		0
+HellClan (Norm)			1						Act 4 H2H C	100	hrt	2	sol	2																		0
+DeathClan (Norm)			1						Act 5 H2H C	100	hrt	5	sol	5																		0
+FallenShaman (Norm)			1						Act 1 Cast A	100	sst	1	flg	1																		0
+CarverShaman (Norm)			1						Act 1 Cast B	100	sst	2	flg	2																		0
+DevilkinShaman (Norm)			1						Act 1 Cast C	100	lst	3	flg	3																		0
+DarkShaman (Norm)			1						Act 5 Cast C	100	bst	5	fl3	5																		0
+WarpedShaman (Norm)			1						Act 1 Cast C	100	cst	4	fl2	4																		0
+QuillRat (Norm)			1						Quill 1	100	qll	1																				0
+SpikeFiend (Norm)			1						Quill 2	100	qll	2																				0
+ThornBeast (Norm)			1						Quill 3	100	qll	3																				0
+RazorSpine (Norm)			1						Quill 4	100	qll	4																				0
+JungleUrchin (Norm)			1						Quill 5	100	qll	5																				0
+SandMaggot (Norm)			1						Act 2 H2H A	100	hrt	1																				0
+RockWorm (Norm)			1						Act 2 H2H A	100	hrt	2																				0
+Devourer (Norm)			1						Act 2 H2H B	100	hrt	3																				0
+GiantLamprey (Norm)			1						Act 2 H2H C	100	hrt	4																				0
+WorldKiller (Norm)			1						Act 4 H2H A	100	hrt	5																				0
+TombViper (Norm)			1						Act 1 H2H C	100	hrt	1	fng	1																		0
+ClawViper (Norm)			1						Act 2 H2H A	100	hrt	2	fng	2																		0
+Salamander (Norm)			1						Act 2 H2H B	100	hrt	3	fng	3																		0
+PoisonSpitter (Norm)			1						Act 3 H2H A	100	hrt	4	fng	4																		0
+SerpentMagus (Norm)			1						Act 3 H2H B	100	hrt	5	fng	5																		0
+SandLeaper (Norm)			1						Act 2 H2H A	100	hrt	1	brz	1																		0
+CaveLeaper (Norm)			1						Act 2 H2H A	100	hrt	2	brz	2																		0
+TombCreeper (Norm)			1						Act 2 H2H B	100	hrt	3	brz	3																		0
+TreeLurker (Norm)			1						Act 3 H2H A	100	hrt	4	brz	4																		0
+RazorPitDemon (Norm)			1						Act 4 H2H A	100	hrt	5	brz	5																		0
+Huntress (Norm)			1						Act 2 H2H A	100	hrt	1	tal	1																		0
+SaberCat (Norm)			1						Act 2 H2H A	100	hrt	2	tal	2																		0
+NightTiger (Norm)			1						Act 2 H2H B	100	hrt	3	tal	3																		0
+HellCat (Norm)			1						Act 2 H2H C	100	hrt	4	tal	4																		0
+DungSoldier (Norm)			1						Act 2 H2H A	100	hrt	1																				0
+SandWarrior (Norm)			1						Act 2 H2H B	100	hrt	2																				0
+Scarab (Norm)			1						Act 2 H2H B	100	hrt	3																				0
+SteelWeevil (Norm)			1						Act 2 H2H C	100	hrt	4																				0
+AlbinoRoach (Norm)			1						Act 3 H2H B	100	hrt	5																				0
+DriedCorpse (Norm)			1						Act 2 H2H A	100	hrt	1	sol	1																		0
+Decayed (Norm)			1						Act 2 H2H A	100	hrt	2	sol	2																		0
+Embalmed (Norm)			1						Act 2 H2H B	100	hrt	3	sol	3																		0
+PreservedDead (Norm)			1						Act 3 H2H B	100	hrt	4	sol	4																		0
+Cadaver (Norm)			1						Act 3 H2H C	100	hrt	5	sol	5																		0
+HollowOne (Norm)			1						Act 2 Cast A	100	hrt	1	sol	1																		0
+Guardian (Norm)			1						Act 2 Cast B	100	hrt	2	sol	2																		0
+Unraveler (Norm)			1						Act 2 Cast C	100	hrt	3	sol	3																		0
+Horadrim Ancient (Norm)			1						Act 3 Cast B	100	hrt	4	sol	4																		0
+BaalMummy (Norm)			1						Act 5 Cast B	100	hrt	5	sol	5																		0
+Gloam (Norm)			1						Act 3 Wraith A	100	sol	1																				0
+SwampGhost (Norm)			1						Act 3 Wraith B	100	sol	2																				0
+BurningSoul (Norm)			1						Act 4 Wraith A	100	sol	3																				0
+BlackSoul (Norm)			1						Act 4 Wraith B	100	sol	4																				0
+Arach (Norm)			1						Act 1 H2H C	100	hrt	1	fng	1																		0
+SandFisher (Norm)			1						Act 2 H2H A	100	hrt	2	fng	2																		0
+PoisonSpinner (Norm)			1						Act 3 H2H A	100	hrt	3	fng	3																		0
+FlameSpider (Norm)			1						Act 3 H2H A	100	hrt	4	fng	4																		0
+SpiderMagus (Norm)			1						Act 3 H2H B	100	hrt	5	fng	5																		0
+ThornedHulk (Norm)			1						Act 3 H2H A	100	hrt	1	qll	1																		0
+BrambleHulk (Norm)			1						Act 3 H2H A	100	hrt	2	qll	2																		0
+Thrasher (Norm)			1						Act 3 H2H B	100	hrt	3	qll	3																		0
+Spikefist (Norm)			1						Act 4 H2H A	100	hrt	4	qll	4																		0
+GhoulLord (Norm)			1						Act 2 Cast C	100	lst	2	scz	2																		0
+NightLord (Norm)			1						Act 3 Cast B	100	cst	3	scz	3																		0
+DarkLord (Norm)			1						Act 3 Cast B	100	bst	4	scz	4																		0
+BloodLord (Norm)			1						Act 3 Cast C	100	wst	5	scz	5																		0
+Banished (Norm)			1						Act 1 Cast A	100	sst	1	scz	1																		0
+DesertWing (Norm)			1						Act 2 H2H A	100	hrt	1																				0
+Fiend (Norm)			1						Act 2 H2H B	100	hrt	2																				0
+Gloombat (Norm)			1						Act 3 H2H A	100	hrt	3																				0
+BloodDiver (Norm)			1						Act 3 H2H B	100	hrt	4																				0
+DarkFamiliar (Norm)			1						Act 3 H2H C	100	hrt	5																				0
+RatMan (Norm)			1						Act 1 H2H C	100	hrt	1	brz	1																		0
+Fetish (Norm)			1						Act 3 H2H A	100	hrt	2	brz	2																		0
+Flayer (Norm)			1						Act 3 H2H A	100	hrt	3	brz	3																		0
+SoulKiller (Norm)			1						Act 3 H2H B	100	hrt	4	brz	4																		0
+StygianDoll (Norm)			1						Act 3 H2H B	100	hrt	5	brz	5																		0
+DarkRanger (Norm)			1						Act 1 Miss A	100	hbw	1	jaw	1																		0
+VileArcher (Norm)			1						Act 1 Miss B	100	lbw	2	jaw	2																		0
+DarkArcher (Norm)			1						Act 1 Miss B	100	cbw	3	jaw	3																		0
+BlackArcher (Norm)			1						Act 1 Miss C	100	lbb	4	jaw	4																		0
+FleshArcher (Norm)			1						Act 3 Miss B	100	lwb	5	jaw	5																		0
+DarkSpearwoman (Norm)			1						Act 1 H2H A	100	spr	1																				0
+VileLancer (Norm)			1						Act 1 H2H B	100	tri	2																				0
+DarkLancer (Norm)			1						Act 1 H2H B	100	brn	3																				0
+BlackLancer (Norm)			1						Act 1 H2H C	100	spt	4																				0
+FleshLancer (Norm)			1						Act 3 H2H B	100	pik	5																				0
+SkeletonArcher (Norm)			1						Act 1 Miss B	100	sbw	1	jaw	1																		0
+ReturnedArcher (Norm)			1						Act 1 Miss B	100	hbw	2	jaw	2																		0
+BoneArcher (Norm)			1						Act 1 Miss C	100	lbw	3	jaw	3																		0
+BurningDeadArcher (Norm)			1						Act 2 Miss A	100	lbb	4	jaw	4																		0
+HorrorArcher (Norm)			1						Act 2 Miss B	100	lwb	5	jaw	5																		0
+Blunderbore (Norm)			1						Act 2 H2H B	100	9sp	1	scz	1																		0
+Gorbelly (Norm)			1						Act 2 H2H C	100	mau	2	scz	2																		0
+Mauler (Norm)			1						Act 3 H2H C	100	mau	3	sc2	3																		0
+Urdar (Norm)			1						Act 4 H2H A	100	gma	4	sc2	4																		0
+Undead RatMan (Norm)			1						Act 1 H2H C	100	sol	1																				0
+Undead Fetish (Norm)			1						Act 3 H2H A	100	sol	2																				0
+Undead Flayer (Norm)			1						Act 3 H2H A	100	sol	3																				0
+Undead SoulKiller (Norm)			1						Act 3 H2H B	100	sol	4																				0
+Undead StygianDoll (Norm)			1						Act 3 H2H B	100	sol	5																				0
+Zakarumite (Norm)			1						Act 3 H2H A	100	hrt	1	spe	1																		0
+Faithful (Norm)			1						Act 3 H2H B	100	hrt	2	spe	2																		0
+Zealot (Norm)			1						Act 3 H2H B	100	hrt	3	spe	3																		0
+Sexton (Norm)			1						Act 3 Cast A	100	hrt	1	eyz	1																		0
+Cantor (Norm)			1						Act 3 Cast B	100	hrt	2	eyz	2																		0
+Heirophant1 (Norm)			1						Act 3 Cast B	100	hrt	3	eyz	3																		0
+Heirophant2 (Norm)			1						Act 3 Cast B	100	hrt	4	eyz	4																		0
+Swamp Dweller (Norm)			1						Act 3 H2H A	100	hrt	1																				0
+Bog Creature (Norm)			1						Act 3 H2H A	100	hrt	2																				0
+Slime Prince (Norm)			1						Act 3 H2H B	100	hrt	3																				0
+ReturnedMage1 (Norm)			1						Act 1 Cast B	100	sol	1																				0
+BoneMage1 (Norm)			1						Act 1 Cast C	100	sol	2																				0
+BurningDeadMage1 (Norm)			1						Act 2 Cast A	100	sol	3																				0
+HorrorMage1 (Norm)			1						Act 2 Cast B	100	sol	4																				0
+RatManShaman (Norm)			1						Act 1 Cast C	100	hrt	1	brz	1																		0
+FetishShaman (Norm)			1						Act 3 Cast A	100	hrt	2	brz	2																		0
+FlayerShaman (Norm)			1						Act 3 Cast B	100	hrt	3	brz	3																		0
+SoulKillerShaman (Norm)			1						Act 3 Cast B	100	hrt	4	brz	4																		0
+StygianDollShaman (Norm)			1						Act 3 Cast B	100	hrt	5	brz	5																		0
+SandMaggotQueen (Norm)			1						Act 2 H2H A	100	hrt	1																				0
+RockWormQueen (Norm)			1						Act 2 H2H A	100	hrt	2																				0
+DevourerQueen (Norm)			1						Act 2 H2H B	100	hrt	3																				0
+GiantLampreyQueen (Norm)			1						Act 3 H2H A	100	hrt	4																				0
+WorldKillerQueen (Norm)			1						Act 4 H2H A	100	hrt	5																				0
+NightMarauder (Norm)			1						Act 3 H2H B	100	hrt	1																				0
+FleshSpawner (Norm)			1						Act 4 Cast A	100	hrt	1																				0
+StygianHag (Norm)			1						Act 4 Cast A	100	hrt	2																				0
+Grotesque (Norm)			1						Act 4 Cast B	100	hrt	3																				0
+FleshBeast (Norm)			1						Act 4 Cast A	100	hrt	1																				0
+StygianDog (Norm)			1						Act 4 Cast A	100	hrt	2																				0
+GrotesqueWyrm (Norm)			1						Act 4 Cast A	100	hrt	3																				0
+Groper (Norm)			1						Act 4 Wraith A	100	hrt	1	eyz	1																		0
+Strangler (Norm)			1						Act 4 Wraith B	100	hrt	2	eyz	2																		0
+StormCaster (Norm)			1						Act 4 Wraith B	100	hrt	3	eyz	3																		0
+Corpulent (Norm)			1						Act 4 H2H A	100	hrt	1	spe	1																		0
+CorpseSpitter (Norm)			1						Act 4 H2H A	100	hrt	2	spe	2																		0
+MawFiend (Norm)			1						Act 4 H2H B	100	hrt	3	spe	3																		0
+DoomKnight (Norm)			1						Act 4 H2H A	100	sol	1	scz	1																		0
+AbyssKnight (Norm)			1						Act 4 H2H B	100	sol	2	scz	2																		0
+OblivionKnight (Norm)			1						Act 4 H2H B	100	sol	3	scz	3																		0
+QuillBear (Norm)			1						Act 1 H2H A	100	hrt	1	qll	1																		0
+SpikeGiant (Norm)			1						Act 1 H2H B	100	hrt	2	qll	2																		0
+ThornBrute (Norm)			1						Act 1 H2H B	100	hrt	3	qll	3																		0
+RazorBeast (Norm)			1						Act 1 H2H C	100	hrt	4	qll	4																		0
+GiantUrchin (Norm)			1						Act 2 H2H C	100	hrt	5	qll	5																		0
+Balrog (Norm)			1						Act 4 H2H A	100	hrt	1	hrn	1																		0
+PitLord (Norm)			1						Act 4 H2H B	100	hrt	2	hrn	2																		0
+VenomLord (Norm)			1						Act 4 H2H B	100	hrt	3	hrn	3																		0
+Slinger (Norm)			1						Act 2 Miss A	100	hrt	1	tal	1																		0
+SpearCat (Norm)			1						Act 2 Miss A	100	hrt	2	tal	2																		0
+NightSlinger (Norm)			1						Act 2 Miss B	100	hrt	3	tal	3																		0
+HellSlinger (Norm)			1						Act 2 Miss C	100	hrt	4	tal	4																		0
+ReturnedMage2 (Norm)			1						Act 1 Cast B	100	sol	1																				0
+BoneMage2 (Norm)			1						Act 1 Cast C	100	sol	2																				0
+BaalColdMage (Norm)			1						Act 5 Cast A	100	sol	3																				0
+HorrorMage2 (Norm)			1						Act 2 Cast B	100	sol	4																				0
+ReturnedMage3 (Norm)			1						Act 1 Cast B	100	sol	1																				0
+BoneMage3 (Norm)			1						Act 1 Cast C	100	sol	2																				0
+BurningDeadMage3 (Norm)			1						Act 2 Cast A	100	sol	3																				0
+HorrorMage3 (Norm)			1						Act 2 Cast B	100	sol	4																				0
+ReturnedMage4 (Norm)			1						Act 1 Cast B	100	sol	1																				0
+BoneMage4 (Norm)			1						Act 1 Cast C	100	sol	2																				0
+BurningDeadMage4 (Norm)			1						Act 2 Cast A	100	sol	3																				0
+HorrorMage4 (Norm)			1						Act 2 Cast B	100	sol	4																				0
+SpearCat2 (Norm)			1						Act 2 Miss A	100	ssp	1	tal	1																		0
+RatMan1 (Norm)			1						Act 1 H2H C	100	hrt	1	brz	1																		0
+RatMan2 (Norm)			1						Act 3 H2H B	100	hrt	1	brz	1																		0
+RotWalker (Norm)			1						Act 5 H2H A	100	sol	1																				0
+ReanimatedHorde (Norm)			1						Act 5 H2H B	100	sol	2																				0
+ProwlingDead (Norm)			1						Act 5 H2H B	100	sol	3																				0
+UnholyCorpse (Norm)			1						Act 5 H2H C	100	sol	4																				0
+DefiledWarrior (Norm)			1						Act 5 H2H C	100	sol	5																				0
+Siege Beast (Norm)			1						Act 5 H2H C	200	hrt	2	msb	1																		0
+CrushBiest (Norm)			1						Act 5 H2H C	200	hrt	4	msb	2																		0
+BloodBringer (Norm)			1						Act 5 H2H C	200	hrt	6	msb	3																		0
+GoreBearer (Norm)			1						Act 5 H2H C	200	hrt	8	msb	4																		0
+DeamonSteed (Norm)			1						Act 5 H2H C	200	hrt	10	msb	5																		0
+SnowYeti1 (Norm)			1						Act 5 H2H B	100	hrt	1	scz	1																		0
+SnowYeti2 (Norm)			1						Act 5 H2H B	100	hrt	2	scz	2																		0
+SnowYeti3 (Norm)			1						Act 5 H2H C	100	hrt	3	scz	3																		0
+SnowYeti4 (Norm)			1						Act 5 H2H C	100	hrt	4	scz	4																		0
+WolfRider1 (Norm)			1						Act 5 H2H A	100																						0
+WolfRider2 (Norm)			1						Act 5 H2H B	100																						0
+WolfRider3 (Norm)			1						Act 5 H2H C	100																						0
+Minionexp (Norm)			1						Act 5 H2H A	100	hrt	1	fng	1																		0
+Slayerexp (Norm)			1						Act 5 H2H A	100	hrt	2	fng	2																		0
+IceBoar (Norm)			1						Act 5 H2H B	100	hrt	3	fng	3																		0
+FireBoar (Norm)			1						Act 5 H2H B	100	hrt	4	fng	4																		0
+HellSpawn (Norm)			1						Act 5 H2H C	100	hrt	5	fng	5																		0
+IceSpawn (Norm)			1						Act 5 H2H C	100	hrt	6	fng	6																		0
+GreaterHellSpawn (Norm)			1						Act 5 H2H B	100	hrt	7	fng	7																		0
+GreaterIceSpawn (Norm)			1						Act 5 H2H B	100	hrt	8	fng	8																		0
+Succubusexp (Norm)			1						Act 5 H2H A	100	hrt	1																				0
+VileTemptress (Norm)			1						Act 5 H2H B	100	hrt	2																				0
+StygianHarlot (Norm)			1						Act 5 H2H B	100	hrt	3																				0
+Hell Temptress (Norm)			1						Act 5 H2H C	100	hrt	4																				0
+Blood Temptress (Norm)			1						Act 5 H2H C	100	hrt	5																				0
+Dominus (Norm)			1						Act 5 Cast A	200	hrt	2																				0
+VileWitch (Norm)			1						Act 5 Cast A	200	hrt	4																				0
+StygianFury (Norm)			1						Act 5 Cast B	200	hrt	6																				0
+Blood Witch (Norm)			1						Act 5 Cast B	200	hrt	8																				0
+Hell Witch (Norm)			1						Act 5 Cast C	200	hrt	10																				0
+OverSeer (Norm)			1						Act 5 H2H A	100	hrt	1	spe	1																		0
+Lasher (Norm)			1						Act 5 H2H A	100	hrt	2	spe	2																		0
+OverLord (Norm)			1						Act 5 H2H B	100	hrt	3	spe	3																		0
+BloodBoss (Norm)			1						Act 5 H2H B	100	hrt	4	spe	4																		0
+HellWhip (Norm)			1						Act 5 H2H C	100	hrt	5	spe	5																		0
+MinionSpawner (Norm)			1						Act 5 H2H A	200	scz	1																				0
+MinionSlayerSpawner (Norm)			1						Act 5 H2H A	200	scz	1																				0
+MinionIce/fireBoarSpawner (Norm)			1						Act 5 H2H B	200	scz	1																				0
+Minionice/hellSpawnSpawner (Norm)			1						Act 5 H2H B	200	scz	1																				0
+Imp1 (Norm)			1						Act 5 Cast A	100	hrt	1	brz	1																		0
+Imp2 (Norm)			1						Act 5 Cast A	100	hrt	2	brz	2																		0
+Imp3 (Norm)			1						Act 5 Cast B	100	hrt	3	brz	3																		0
+Imp4 (Norm)			1						Act 5 Cast B	100	hrt	4	brz	4																		0
+Imp5 (Norm)			1						Act 5 Cast C	100	hrt	5	brz	5																		0
+Frozen Horror1 (Norm)			1						Act 5 H2H C	100	hrt	1	wms	1																		0
+Frozen Horror2 (Norm)			1						Act 5 H2H C	100	hrt	2	wms	2																		0
+Frozen Horror3 (Norm)			1						Act 5 H2H C	100	hrt	3	wms	3																		0
+Frozen Horror4 (Norm)			1						Act 5 H2H C	100	hrt	4	wms	4																		0
+Frozen Horror5 (Norm)			1						Act 5 H2H C	100	hrt	5	wms	5																		0
+Blood Lord1 (Norm)			1						Act 5 H2H A	100	hrt	1	wax	1																		0
+Blood Lord2 (Norm)			1						Act 5 H2H B	100	hrt	2	wax	2																		0
+Blood Lord3 (Norm)			1						Act 5 H2H C	100	hrt	3	wax	3																		0
+Blood Lord4 (Norm)			1						Act 5 H2H C	100	hrt	4	wax	4																		0
+Blood Lord5 (Norm)			1						Act 5 H2H C	100	hrt	5	wax	5																		0
+Death Mauler1 (Norm)			1						Act 5 H2H A	100	hrt	1	qll	1																		0
+Death Mauler2 (Norm)			1						Act 5 H2H A	100	hrt	2	qll	2																		0
+Death Mauler3 (Norm)			1						Act 5 H2H B	100	hrt	3	qll	3																		0
+Death Mauler4 (Norm)			1						Act 5 H2H B	100	hrt	4	qll	4																		0
+Death Mauler5 (Norm)			1						Act 5 H2H C	100	hrt	5	qll	5																		0
+Putrid Defiler1 (Norm)			1						Act 5 Cast A	100	hrt	1	opl	1																		0
+Putrid Defiler2 (Norm)			1						Act 5 Cast A	100	hrt	2	opl	2																		0
+Putrid Defiler3 (Norm)			1						Act 5 Cast B	100	hrt	3	opl	3																		0
+Putrid Defiler4 (Norm)			1						Act 5 Cast B	100	hrt	4	opl	4																		0
+Putrid Defiler5 (Norm)			1						Act 5 Cast B	100	hrt	5	opl	5																		0
+Skeleton (N)			1						Act 1 (N) H2H A	100	sol	1																				0
+Returned (N)			1						Act 1 (N) H2H B	100	sol	2																				0
+BoneWarrior (N)			1						Act 1 (N) H2H B	100	sol	3																				0
+BurningDead (N)			1						Act 2 (N) H2H A	100	sol	4																				0
+Horror (N)			1						Act 2 (N) H2H A	100	sol	5																				0
+Zombie (N)			1						Act 1 (N) H2H A	100	hrt	1	sol	1																		0
+HungryDead (N)			1						Act 1 (N) H2H A	100	hrt	2	sol	2																		0
+Ghoul (N)			1						Act 2 (N) H2H C	100	hrt	3	sol	3																		0
+DrownedCarcass (N)			1						Act 3 (N) H2H A	100	hrt	5	sol	5																		0
+PlagueBearer (N)			1						Act 2 (N) H2H B	100	hrt	4	sol	4																		0
+Misshapen (N)			1						Act 1 (N) H2H C	100	hrt	4	sol	4																		0
+Disfigured (N)			1						Act 2 (N) H2H C	100	hrt	3	sol	3																		0
+Tainted (N)			1						Act 3 (N) H2H C	100	hrt	1	sol	1																		0
+Afflicted (N)			1						Act 4 (N) H2H C	100	hrt	2	sol	2																		0
+Damned (N)			1						Act 5 (N) H2H C	100	hrt	5	sol	5																		0
+FoulCrow (N)			1						Act 1 (N) Cast A	100	hrt	1	tal	1																		0
+BloodHawk (N)			1						Act 1 (N) Cast B	100	hrt	2	tal	2																		0
+BlackRaptor (N)			1						Act 2 (N) Cast B	100	hrt	3	tal	3																		0
+CloudStalker (N)			1						Act 3 (N) Cast A	100	hrt	4	tal	4																		0
+Fallen (N)			1						Act 1 (N) H2H A	100	hrt	1	fng	1																		0
+Carver (N)			1						Act 1 (N) H2H B	100	hrt	2	fng	2																		0
+Devilkin (N)			1						Act 1 (N) H2H B	100	hrt	3	fng	3																		0
+DarkOne (N)			1						Act 5 (N) H2H C	100	hrt	5	fng	5																		0
+WarpedFallen (N)			1						Act 1 (N) H2H C	100	hrt	4	fng	4																		0
+Brute (N)			1						Act 1 (N) H2H B	100	hrt	2	scz	2																		0
+Yeti (N)			1						Act 1 (N) H2H C	100	hrt	3	scz	3																		0
+Crusher (N)			1						Act 2 (N) H2H C	100	hrt	4	scz	4																		0
+WailingBeast (N)			1						Act 3 (N) H2H B	100	hrt	5	scz	5																		0
+GargantuanBeast (N)			1						Act 1 (N) H2H A	100	hrt	1	scz	1																		0
+SandRaider (N)			1						Act 2 (N) H2H A	100	hrt	1																				0
+Marauder (N)			1						Act 2 (N) H2H B	100	hrt	2																				0
+Invader (N)			1						Act 2 (N) H2H B	100	hrt	3																				0
+Infidel (N)			1						Act 3 (N) H2H A	100	hrt	4																				0
+Assailant (N)			1						Act 4 (N) H2H A	100	hrt	5																				0
+Ghost (N)			1						Act 1 (N) Wraith B	100	sol	1																				0
+Wraith (N)			1						Act 1 (N) Wraith C	100	sol	2																				0
+Specter (N)			1						Act 2 (N) Wraith C	100	sol	3																				0
+Apparition (N)			1						Act 2 (N) Wraith C	100	sol	4																				0
+DarkShape (N)			1						Act 3 (N) Wraith A	100	sol	5																				0
+DarkHunter (N)			1						Act 1 (N) H2H A	100	hrt	1																				0
+VileHunter (N)			1						Act 1 (N) H2H B	100	hrt	2																				0
+DarkStalker (N)			1						Act 1 (N) H2H C	100	hrt	3																				0
+BlackRogue (N)			1						Act 1 (N) H2H C	100	hrt	4																				0
+FleshHunter (N)			1						Act 3 (N) H2H B	100	hrt	5																				0
+DuneBeast (N)			1						Act 2 (N) H2H B	100	hrt	1	fng	1																		0
+RockDweller (N)			1						Act 2 (N) H2H B	100	hrt	2	fng	2																		0
+JungleHunter (N)			1						Act 3 (N) H2H A	100	hrt	3	fng	3																		0
+DoomApe (N)			1						Act 3 (N) H2H A	100	hrt	4	fng	4																		0
+TempleGuard (N)			1						Act 3 (N) H2H B	100	hrt	5	fng	5																		0
+MoonClan (N)			1						Act 1 (N) H2H C	100	hrt	4	sol	4																		0
+NightClan (N)			1						Act 2 (N) H2H C	100	hrt	3	sol	3																		0
+BloodClan (N)			1						Act 3 (N) H2H C	100	hrt	1	sol	1																		0
+HellClan (N)			1						Act 4 (N) H2H C	100	hrt	2	sol	2																		0
+DeathClan (N)			1						Act 5 (N) H2H C	100	hrt	5	sol	5																		0
+FallenShaman (N)			1						Act 1 (N) Cast A	100	8ss	1	flg	1																		0
+CarverShaman (N)			1						Act 1 (N) Cast B	100	8ss	2	flg	2																		0
+DevilkinShaman (N)			1						Act 1 (N) Cast C	100	8ls	3	flg	3																		0
+DarkShaman (N)			1						Act 5 (N) Cast C	100	8bs	5	flg	5																		0
+WarpedShaman (N)			1						Act 1 (N) Cast C	100	8cs	4	flg	4																		0
+QuillRat (N)			1						Quill 1 (N)	100	qll	1																				0
+SpikeFiend (N)			1						Quill 2 (N)	100	qll	2																				0
+ThornBeast (N)			1						Quill 3 (N)	100	qll	3																				0
+RazorSpine (N)			1						Quill 4 (N)	100	qll	4																				0
+JungleUrchin (N)			1						Quill 5 (N)	100	qll	5																				0
+SandMaggot (N)			1						Act 2 (N) H2H A	100	hrt	1																				0
+RockWorm (N)			1						Act 2 (N) H2H A	100	hrt	2																				0
+Devourer (N)			1						Act 2 (N) H2H B	100	hrt	3																				0
+GiantLamprey (N)			1						Act 2 (N) H2H C	100	hrt	4																				0
+WorldKiller (N)			1						Act 4 (N) H2H A	100	hrt	5																				0
+TombViper (N)			1						Act 1 (N) H2H C	100	hrt	1	fng	1																		0
+ClawViper (N)			1						Act 2 (N) H2H A	100	hrt	2	fng	2																		0
+Salamander (N)			1						Act 2 (N) H2H B	100	hrt	3	fng	3																		0
+PoisonSpitter (N)			1						Act 3 (N) H2H A	100	hrt	4	fng	4																		0
+SerpentMagus (N)			1						Act 3 (N) H2H B	100	hrt	5	fng	5																		0
+SandLeaper (N)			1						Act 2 (N) H2H A	100	hrt	1	brz	1																		0
+CaveLeaper (N)			1						Act 2 (N) H2H A	100	hrt	2	brz	2																		0
+TombCreeper (N)			1						Act 2 (N) H2H B	100	hrt	3	brz	3																		0
+TreeLurker (N)			1						Act 3 (N) H2H A	100	hrt	4	brz	4																		0
+RazorPitDemon (N)			1						Act 4 (N) H2H A	100	hrt	5	brz	5																		0
+Huntress (N)			1						Act 2 (N) H2H A	100	hrt	1	tal	1																		0
+SaberCat (N)			1						Act 2 (N) H2H A	100	hrt	2	tal	2																		0
+NightTiger (N)			1						Act 2 (N) H2H B	100	hrt	3	tal	3																		0
+HellCat (N)			1						Act 2 (N) H2H C	100	hrt	4	tal	4																		0
+DungSoldier (N)			1						Act 2 (N) H2H A	100	hrt	1																				0
+SandWarrior (N)			1						Act 2 (N) H2H B	100	hrt	2																				0
+Scarab (N)			1						Act 2 (N) H2H B	100	hrt	3																				0
+SteelWeevil (N)			1						Act 2 (N) H2H C	100	hrt	4																				0
+AlbinoRoach (N)			1						Act 3 (N) H2H B	100	hrt	5																				0
+DriedCorpse (N)			1						Act 2 (N) H2H A	100	hrt	1	sol	1																		0
+Decayed (N)			1						Act 2 (N) H2H A	100	hrt	2	sol	2																		0
+Embalmed (N)			1						Act 2 (N) H2H B	100	hrt	3	sol	3																		0
+PreservedDead (N)			1						Act 3 (N) H2H B	100	hrt	4	sol	4																		0
+Cadaver (N)			1						Act 3 (N) H2H C	100	hrt	5	sol	5																		0
+HollowOne (N)			1						Act 2 (N) Cast A	100	hrt	1	sol	1																		0
+Guardian (N)			1						Act 2 (N) Cast B	100	hrt	2	sol	2																		0
+Unraveler (N)			1						Act 2 (N) Cast C	100	hrt	3	sol	3																		0
+Horadrim Ancient (N)			1						Act 3 (N) Cast B	100	hrt	4	sol	4																		0
+BaalMummy (N)			1						Act 5 (N) Cast B	100	hrt	5	sol	5																		0
+Gloam (N)			1						Act 3 (N) Wraith A	100	sol	1																				0
+SwampGhost (N)			1						Act 3 (N) Wraith B	100	sol	2																				0
+BurningSoul (N)			1						Act 4 (N) Wraith A	100	sol	3																				0
+BlackSoul (N)			1						Act 4 (N) Wraith B	100	sol	4																				0
+Arach (N)			1						Act 1 (N) H2H C	100	hrt	1	fng	1																		0
+SandFisher (N)			1						Act 2 (N) H2H A	100	hrt	2	fng	2																		0
+PoisonSpinner (N)			1						Act 3 (N) H2H A	100	hrt	3	fng	3																		0
+FlameSpider (N)			1						Act 3 (N) H2H A	100	hrt	4	fng	4																		0
+SpiderMagus (N)			1						Act 3 (N) H2H B	100	hrt	5	fng	5																		0
+ThornedHulk (N)			1						Act 3 (N) H2H A	100	hrt	1	qll	1																		0
+BrambleHulk (N)			1						Act 3 (N) H2H A	100	hrt	2	qll	2																		0
+Thrasher (N)			1						Act 3 (N) H2H B	100	hrt	3	qll	3																		0
+Spikefist (N)			1						Act 4 (N) H2H A	100	hrt	4	qll	4																		0
+GhoulLord (N)			1						Act 2 (N) Cast C	100	8ls	2	scz	2																		0
+NightLord (N)			1						Act 3 (N) Cast B	100	8cs	3	scz	3																		0
+DarkLord (N)			1						Act 3 (N) Cast B	100	8bs	4	scz	4																		0
+BloodLord (N)			1						Act 3 (N) Cast C	100	8ws	5	scz	5																		0
+Banished (N)			1						Act 1 (N) Cast A	100	8ss	1	scz	1																		0
+DesertWing (N)			1						Act 2 (N) H2H A	100	hrt	1																				0
+Fiend (N)			1						Act 2 (N) H2H B	100	hrt	2																				0
+Gloombat (N)			1						Act 3 (N) H2H A	100	hrt	3																				0
+BloodDiver (N)			1						Act 3 (N) H2H B	100	hrt	4																				0
+DarkFamiliar (N)			1						Act 3 (N) H2H C	100	hrt	5																				0
+RatMan (N)			1						Act 1 (N) H2H C	100	hrt	1	brz	1																		0
+Fetish (N)			1						Act 3 (N) H2H A	100	hrt	2	brz	2																		0
+Flayer (N)			1						Act 3 (N) H2H A	100	hrt	3	brz	3																		0
+SoulKiller (N)			1						Act 3 (N) H2H B	100	hrt	4	brz	4																		0
+StygianDoll (N)			1						Act 3 (N) H2H B	100	hrt	5	brz	5																		0
+DarkRanger (N)			1						Act 1 (N) Miss A	100	8hb	1	jaw	1																		0
+VileArcher (N)			1						Act 1 (N) Miss B	100	8lb	2	jaw	2																		0
+DarkArcher (N)			1						Act 1 (N) Miss B	100	8cb	3	jaw	3																		0
+BlackArcher (N)			1						Act 1 (N) Miss C	100	8l8	4	jaw	4																		0
+FleshArcher (N)			1						Act 3 (N) Miss B	100	8lw	5	jaw	5																		0
+DarkSpearwoman (N)			1						Act 1 (N) H2H A	100	9sr	1																				0
+VileLancer (N)			1						Act 1 (N) H2H B	100	9tr	2																				0
+DarkLancer (N)			1						Act 1 (N) H2H B	100	9br	3																				0
+BlackLancer (N)			1						Act 1 (N) H2H C	100	9st	4																				0
+FleshLancer (N)			1						Act 3 (N) H2H B	100	9p9	5																				0
+SkeletonArcher (N)			1						Act 1 (N) Miss B	100	8sb	1	jaw	1																		0
+ReturnedArcher (N)			1						Act 1 (N) Miss B	100	8hb	2	jaw	2																		0
+BoneArcher (N)			1						Act 1 (N) Miss C	100	8lb	3	jaw	3																		0
+BurningDeadArcher (N)			1						Act 2 (N) Miss A	100	8l8	4	jaw	4																		0
+HorrorArcher (N)			1						Act 2 (N) Miss B	100	8lw	5	jaw	5																		0
+Blunderbore (N)			1						Act 2 (N) H2H B	100	9wh	1	scz	1																		0
+Gorbelly (N)			1						Act 2 (N) H2H C	100	9m9	2	scz	2																		0
+Mauler (N)			1						Act 3 (N) H2H C	100	9m9	3	scz	3																		0
+Urdar (N)			1						Act 4 (N) H2H A	100	9gm	4	scz	4																		0
+Undead RatMan (N)			1						Act 1 (N) H2H C	100	sol	1																				0
+Undead Fetish (N)			1						Act 3 (N) H2H A	100	sol	2																				0
+Undead Flayer (N)			1						Act 3 (N) H2H A	100	sol	3																				0
+Undead SoulKiller (N)			1						Act 3 (N) H2H B	100	sol	4																				0
+Undead StygianDoll (N)			1						Act 3 (N) H2H B	100	sol	5																				0
+Zakarumite (N)			1						Act 3 (N) H2H A	100	hrt	1	spe	1																		0
+Faithful (N)			1						Act 3 (N) H2H B	100	hrt	2	spe	2																		0
+Zealot (N)			1						Act 3 (N) H2H B	100	hrt	3	spe	3																		0
+Sexton (N)			1						Act 3 (N) Cast A	100	hrt	1	eyz	1																		0
+Cantor (N)			1						Act 3 (N) Cast B	100	hrt	2	eyz	2																		0
+Heirophant1 (N)			1						Act 3 (N) Cast B	100	hrt	3	eyz	3																		0
+Heirophant2 (N)			1						Act 3 (N) Cast B	100	hrt	4	eyz	4																		0
+Swamp Dweller (N)			1						Act 3 (N) H2H A	100	hrt	1																				0
+Bog Creature (N)			1						Act 3 (N) H2H A	100	hrt	2																				0
+Slime Prince (N)			1						Act 3 (N) H2H B	100	hrt	3																				0
+ReturnedMage (N)			1						Act 1 (N) Cast B	100	sol	1																				0
+BoneMage (N)			1						Act 1 (N) Cast C	100	sol	2																				0
+BurningDeadMage (N)			1						Act 2 (N) Cast A	100	sol	3																				0
+HorrorMage (N)			1						Act 2 (N) Cast B	100	sol	4																				0
+RatManShaman (N)			1						Act 1 (N) Cast C	100	hrt	1	brz	1																		0
+FetishShaman (N)			1						Act 3 (N) Cast A	100	hrt	2	brz	2																		0
+FlayerShaman (N)			1						Act 3 (N) Cast B	100	hrt	3	brz	3																		0
+SoulKillerShaman (N)			1						Act 3 (N) Cast B	100	hrt	4	brz	4																		0
+StygianDollShaman (N)			1						Act 3 (N) Cast B	100	hrt	5	brz	5																		0
+SandMaggotQueen (N)			1						Act 2 (N) H2H A	100	hrt	1																				0
+RockWormQueen (N)			1						Act 2 (N) H2H A	100	hrt	2																				0
+DevourerQueen (N)			1						Act 2 (N) H2H B	100	hrt	3																				0
+GiantLampreyQueen (N)			1						Act 3 (N) H2H A	100	hrt	4																				0
+WorldKillerQueen (N)			1						Act 4 (N) H2H A	100	hrt	5																				0
+NightMarauder (N)			1						Act 3 (N) H2H B	100	hrt	1																				0
+FleshSpawner (N)			1						Act 4 (N) Cast A	100	hrt	1																				0
+StygianHag (N)			1						Act 4 (N) Cast A	100	hrt	2																				0
+Grotesque (N)			1						Act 4 (N) Cast B	100	hrt	3																				0
+FleshBeast (N)			1						Act 4 (N) Cast A	100	hrt	1																				0
+StygianDog (N)			1						Act 4 (N) Cast A	100	hrt	2																				0
+GrotesqueWyrm (N)			1						Act 4 (N) Cast A	100	hrt	3																				0
+Groper (N)			1						Act 4 (N) Wraith A	100	hrt	1	eyz	1																		0
+Strangler (N)			1						Act 4 (N) Wraith B	100	hrt	2	eyz	2																		0
+StormCaster (N)			1						Act 4 (N) Wraith B	100	hrt	3	eyz	3																		0
+Corpulent (N)			1						Act 4 (N) H2H A	100	hrt	1	spe	1																		0
+CorpseSpitter (N)			1						Act 4 (N) H2H A	100	hrt	2	spe	2																		0
+MawFiend (N)			1						Act 4 (N) H2H B	100	hrt	3	spe	3																		0
+DoomKnight (N)			1						Act 4 (N) H2H A	100	sol	1	scz	1																		0
+AbyssKnight (N)			1						Act 4 (N) H2H B	100	sol	2	scz	2																		0
+OblivionKnight (N)			1						Act 4 (N) H2H B	100	sol	3	scz	3																		0
+QuillBear (N)			1						Act 1 (N) H2H A	100	hrt	1	qll	1																		0
+SpikeGiant (N)			1						Act 1 (N) H2H B	100	hrt	2	qll	2																		0
+ThornBrute (N)			1						Act 1 (N) H2H B	100	hrt	3	qll	3																		0
+RazorBeast (N)			1						Act 1 (N) H2H C	100	hrt	4	qll	4																		0
+GiantUrchin (N)			1						Act 2 (N) H2H C	100	hrt	5	qll	5																		0
+Balrog (N)			1						Act 4 (N) H2H A	100	hrt	1	hrn	1																		0
+PitLord (N)			1						Act 4 (N) H2H B	100	hrt	2	hrn	2																		0
+VenomLord (N)			1						Act 4 (N) H2H B	100	hrt	3	hrn	3																		0
+Slinger (N)			1						Act 2 (N) Miss A	100	hrt	1	tal	1																		0
+SpearCat (N)			1						Act 2 (N) Miss A	100	hrt	2	tal	2																		0
+NightSlinger (N)			1						Act 2 (N) Miss B	100	hrt	3	tal	3																		0
+HellSlinger (N)			1						Act 2 (N) Miss C	100	hrt	4	tal	4																		0
+ReturnedMage2 (N)			1						Act 1 (N) Cast B	100	sol	1																				0
+BoneMage2 (N)			1						Act 1 (N) Cast C	100	sol	2																				0
+BaalColdMage (N)			1						Act 5 (N) Cast A	100	sol	3																				0
+HorrorMage2 (N)			1						Act 2 (N) Cast B	100	sol	4																				0
+ReturnedMage3 (N)			1						Act 1 (N) Cast B	100	sol	1																				0
+BoneMage3 (N)			1						Act 1 (N) Cast C	100	sol	2																				0
+BurningDeadMage3 (N)			1						Act 2 (N) Cast A	100	sol	3																				0
+HorrorMage3 (N)			1						Act 2 (N) Cast B	100	sol	4																				0
+ReturnedMage4 (N)			1						Act 1 (N) Cast B	100	sol	1																				0
+BoneMage4 (N)			1						Act 1 (N) Cast C	100	sol	2																				0
+BurningDeadMage4 (N)			1						Act 2 (N) Cast A	100	sol	3																				0
+HorrorMage4 (N)			1						Act 2 (N) Cast B	100	sol	4																				0
+SpearCat2 (N)			1						Act 2 (N) Miss A	100	ssp	1	tal	1																		0
+RatMan1 (N)			1						Act 1 (N) H2H C	100	hrt	1	brz	1																		0
+RatMan2 (N)			1						Act 3 (N) H2H B	100	hrt	1	brz	1																		0
+RotWalker (N)			1						Act 5 (N) H2H A	100	sol	1																				0
+ReanimatedHorde (N)			1						Act 5 (N) H2H B	100	sol	2																				0
+ProwlingDead (N)			1						Act 5 (N) H2H B	100	sol	3																				0
+UnholyCorpse (N)			1						Act 5 (N) H2H C	100	sol	4																				0
+DefiledWarrior (N)			1						Act 5 (N) H2H C	100	sol	5																				0
+Siege Beast (N)			1						Act 5 (N) H2H C	200	hrt	2	xms	1																		0
+CrushBiest (N)			1						Act 5 (N) H2H C	200	hrt	4	xms	2																		0
+BloodBringer (N)			1						Act 5 (N) H2H C	200	hrt	6	xms	3																		0
+GoreBearer (N)			1						Act 5 (N) H2H C	200	hrt	8	xms	4																		0
+DeamonSteed (N)			1						Act 5 (N) H2H C	200	hrt	10	xms	5																		0
+SnowYeti1 (N)			1						Act 5 (N) H2H B	100	hrt	1	scz	1																		0
+SnowYeti2 (N)			1						Act 5 (N) H2H B	100	hrt	2	scz	2																		0
+SnowYeti3 (N)			1						Act 5 (N) H2H B	100	hrt	3	scz	3																		0
+SnowYeti4 (N)			1						Act 5 (N) H2H C	100	hrt	4	scz	4																		0
+WolfRider1 (N)			1						Act 5 (N) H2H A	100																						0
+WolfRider2 (N)			1						Act 5 (N) H2H B	100																						0
+WolfRider3 (N)			1						Act 5 (N) H2H C	100																						0
+Minionexp (N)			1						Act 5 (N) H2H A	100	hrt	1	fng	1																		0
+Slayerexp (N)			1						Act 5 (N) H2H A	100	hrt	2	fng	2																		0
+IceBoar (N)			1						Act 5 (N) H2H B	100	hrt	3	fng	3																		0
+FireBoar (N)			1						Act 5 (N) H2H B	100	hrt	4	fng	4																		0
+HellSpawn (N)			1						Act 5 (N) H2H C	100	hrt	5	fng	5																		0
+IceSpawn (N)			1						Act 5 (N) H2H C	100	hrt	6	fng	6																		0
+GreaterHellSpawn (N)			1						Act 5 (N) H2H B	100	hrt	7	fng	7																		0
+GreaterIceSpawn (N)			1						Act 5 (N) H2H B	100	hrt	8	fng	8																		0
+Succubusexp (N)			1						Act 5 (N) H2H A	100	hrt	1																				0
+VileTemptress (N)			1						Act 5 (N) H2H B	100	hrt	2																				0
+StygianHarlot (N)			1						Act 5 (N) H2H B	100	hrt	3																				0
+Hell Temptress (N)			1						Act 5 (N) H2H C	100	hrt	4																				0
+Blood Temptress (N)			1						Act 5 (N) H2H C	100	hrt	5																				0
+Dominus (N)			1						Act 5 (N) Cast A	600	hrt	24	yyy	1																		0
+VileWitch (N)			1						Act 5 (N) Cast A	600	hrt	24	yyy	1																		0
+StygianFury (N)			1						Act 5 (N) Cast B	600	hrt	24	yyy	1																		0
+Blood Witch (N)			1						Act 5 (N) Cast B	600	hrt	24	yyy	1																		0
+Hell Witch (N)			1						Act 5 (N) Cast C	600	hrt	24	yyy	1																		0
+OverSeer (N)			1						Act 5 (N) H2H A	100	hrt	1	spe	1																		0
+Lasher (N)			1						Act 5 (N) H2H A	100	hrt	2	spe	2																		0
+OverLord (N)			1						Act 5 (N) H2H B	100	hrt	3	spe	3																		0
+BloodBoss (N)			1						Act 5 (N) H2H B	100	hrt	4	spe	4																		0
+HellWhip (N)			1						Act 5 (N) H2H C	100	hrt	5	spe	5																		0
+MinionSpawner (N)			1						Act 5 (N) H2H A	200	scz	1																				0
+MinionSlayerSpawner (N)			1						Act 5 (N) H2H A	200	scz	1																				0
+MinionIce/fireBoarSpawner (N)			1						Act 5 (N) H2H B	200	scz	1																				0
+Minionice/hellSpawnSpawner (N)			1						Act 5 (N) H2H B	200	scz	1																				0
+Imp1 (N)			1						Act 5 (N) Cast A	100	hrt	1	brz	1																		0
+Imp2 (N)			1						Act 5 (N) Cast A	100	hrt	2	brz	2																		0
+Imp3 (N)			1						Act 5 (N) Cast B	100	hrt	3	brz	3																		0
+Imp4 (N)			1						Act 5 (N) Cast B	100	hrt	4	brz	4																		0
+Imp5 (N)			1						Act 5 (N) Cast C	100	hrt	5	brz	5																		0
+Frozen Horror1 (N)			1						Act 5 (N) H2H C	100	hrt	1	wms	1																		0
+Frozen Horror2 (N)			1						Act 5 (N) H2H C	100	hrt	2	wms	2																		0
+Frozen Horror3 (N)			1						Act 5 (N) H2H C	100	hrt	3	wms	3																		0
+Frozen Horror4 (N)			1						Act 5 (N) H2H C	100	hrt	4	wms	4																		0
+Frozen Horror5 (N)			1						Act 5 (N) H2H C	100	hrt	5	wms	5																		0
+Blood Lord1 (N)			1						Act 5 (N) H2H A	100	hrt	1	9wa	1																		0
+Blood Lord2 (N)			1						Act 5 (N) H2H B	100	hrt	2	9wa	2																		0
+Blood Lord3 (N)			1						Act 5 (N) H2H C	100	hrt	3	9wa	3																		0
+Blood Lord4 (N)			1						Act 5 (N) H2H C	100	hrt	4	9wa	4																		0
+Blood Lord5 (N)			1						Act 5 (N) H2H C	100	hrt	5	9wa	5																		0
+Death Mauler1 (N)			1						Act 5 (N) H2H A	100	hrt	1	qll	1																		0
+Death Mauler2 (N)			1						Act 5 (N) H2H A	100	hrt	2	qll	2																		0
+Death Mauler3 (N)			1						Act 5 (N) H2H B	100	hrt	3	qll	3																		0
+Death Mauler4 (N)			1						Act 5 (N) H2H B	100	hrt	4	qll	4																		0
+Death Mauler5 (N)			1						Act 5 (N) H2H C	100	hrt	5	qll	5																		0
+Putrid Defiler1 (N)			1						Act 5 (N) Cast A	100	hrt	1	opm	1																		0
+Putrid Defiler2 (N)			1						Act 5 (N) Cast A	100	hrt	2	opm	2																		0
+Putrid Defiler3 (N)			1						Act 5 (N) Cast B	100	hrt	3	opm	3																		0
+Putrid Defiler4 (N)			1						Act 5 (N) Cast B	100	hrt	4	opm	4																		0
+Putrid Defiler5 (N)			1						Act 5 (N) Cast B	100	hrt	5	opm	5																		0
+Skeleton (H)			1						Act 1 (H) H2H A	100	sol	1																				0
+Returned (H)			1						Act 1 (H) H2H B	100	sol	2																				0
+BoneWarrior (H)			1						Act 1 (H) H2H B	100	sol	3																				0
+BurningDead (H)			1						Act 2 (H) H2H A	100	sol	4																				0
+Horror (H)			1						Act 2 (H) H2H A	100	sol	5																				0
+Zombie (H)			1						Act 1 (H) H2H A	100	hrt	1	sol	1																		0
+HungryDead (H)			1						Act 1 (H) H2H A	100	hrt	2	sol	2																		0
+Ghoul (H)			1						Act 2 (H) H2H C	100	hrt	3	sol	3																		0
+DrownedCarcass (H)			1						Act 3 (H) H2H A	100	hrt	5	sol	5																		0
+PlagueBearer (H)			1						Act 2 (H) H2H B	100	hrt	4	sol	4																		0
+Misshapen (H)			1						Act 1 (H) H2H C	100	hrt	4	sol	4																		0
+Disfigured (H)			1						Act 2 (H) H2H C	100	hrt	3	sol	3																		0
+Tainted (H)			1						Act 3 (H) H2H C	100	hrt	1	sol	1																		0
+Afflicted (H)			1						Act 4 (H) H2H C	100	hrt	2	sol	2																		0
+Damned (H)			1						Act 5 (H) H2H C	100	hrt	5	sol	5																		0
+FoulCrow (H)			1						Act 1 (H) Cast A	100	hrt	1	tal	1																		0
+BloodHawk (H)			1						Act 1 (H) Cast B	100	hrt	2	tal	2																		0
+BlackRaptor (H)			1						Act 2 (H) Cast B	100	hrt	3	tal	3																		0
+CloudStalker (H)			1						Act 3 (H) Cast A	100	hrt	1	tal	4																		0
+Fallen (H)			1						Act 1 (H) H2H A	100	hrt	1	fng	1																		0
+Carver (H)			1						Act 1 (H) H2H B	100	hrt	2	fng	2																		0
+Devilkin (H)			1						Act 1 (H) H2H B	100	hrt	3	fng	3																		0
+DarkOne (H)			1						Act 5 (H) H2H C	100	hrt	5	fng	5																		0
+WarpedFallen (H)			1						Act 1 (H) H2H C	100	hrt	4	fng	4																		0
+Brute (H)			1						Act 1 (H) H2H B	100	hrt	2	scz	2																		0
+Yeti (H)			1						Act 1 (H) H2H C	100	hrt	3	scz	3																		0
+Crusher (H)			1						Act 2 (H) H2H C	100	hrt	4	scz	4																		0
+WailingBeast (H)			1						Act 3 (H) H2H B	100	hrt	5	scz	5																		0
+GargantuanBeast (H)			1						Act 1 (H) H2H A	100	hrt	1	scz	1																		0
+SandRaider (H)			1						Act 2 (H) H2H A	100	hrt	1																				0
+Marauder (H)			1						Act 2 (H) H2H B	100	hrt	2																				0
+Invader (H)			1						Act 2 (H) H2H B	100	hrt	3																				0
+Infidel (H)			1						Act 3 (H) H2H A	100	hrt	4																				0
+Assailant (H)			1						Act 4 (H) H2H A	100	hrt	5																				0
+Ghost (H)			1						Act 1 (H) Wraith B	100	sol	1																				0
+Wraith (H)			1						Act 1 (H) Wraith C	100	sol	2																				0
+Specter (H)			1						Act 2 (H) Wraith C	100	sol	3																				0
+Apparition (H)			1						Act 2 (H) Wraith C	100	sol	4																				0
+DarkShape (H)			1						Act 3 (H) Wraith A	100	sol	5																				0
+DarkHunter (H)			1						Act 1 (H) H2H A	100	hrt	1																				0
+VileHunter (H)			1						Act 1 (H) H2H B	100	hrt	2																				0
+DarkStalker (H)			1						Act 1 (H) H2H C	100	hrt	3																				0
+BlackRogue (H)			1						Act 1 (H) H2H C	100	hrt	4																				0
+FleshHunter (H)			1						Act 3 (H) H2H B	100	hrt	5																				0
+DuneBeast (H)			1						Act 2 (H) H2H B	100	hrt	1	fng	1																		0
+RockDweller (H)			1						Act 2 (H) H2H B	100	hrt	2	fng	2																		0
+JungleHunter (H)			1						Act 3 (H) H2H A	100	hrt	3	fng	3																		0
+DoomApe (H)			1						Act 3 (H) H2H A	100	hrt	4	fng	4																		0
+TempleGuard (H)			1						Act 3 (H) H2H B	100	hrt	5	fng	5																		0
+MoonClan (H)			1						Act 1 (H) H2H C	100	hrt	4	sol	4																		0
+NightClan (H)			1						Act 2 (H) H2H C	100	hrt	3	sol	3																		0
+BloodClan (H)			1						Act 3 (H) H2H C	100	hrt	1	sol	1																		0
+HellClan (H)			1						Act 4 (H) H2H C	100	hrt	2	sol	2																		0
+DeathClan (H)			1						Act 5 (H) H2H C	100	hrt	5	sol	5																		0
+FallenShaman (H)			1						Act 1 (H) Cast A	100	1ss	1	flg	1																		0
+CarverShaman (H)			1						Act 1 (H) Cast B	100	1ss	2	flg	2																		0
+DevilkinShaman (H)			1						Act 1 (H) Cast C	100	1ls	3	flg	3																		0
+DarkShaman (H)			1						Act 5 (H) Cast C	100	1bs	5	flg	5																		0
+WarpedShaman (H)			1						Act 1 (H) Cast C	100	1cs	4	flg	4																		0
+QuillRat (H)			1						Quill 1 (H)	100	qll	1																				0
+SpikeFiend (H)			1						Quill 2 (H)	100	qll	2																				0
+ThornBeast (H)			1						Quill 3 (H)	100	qll	3																				0
+RazorSpine (H)			1						Quill 4 (H)	100	qll	4																				0
+JungleUrchin (H)			1						Quill 5 (H)	100	qll	5																				0
+SandMaggot (H)			1						Act 2 (H) H2H A	100	hrt	1																				0
+RockWorm (H)			1						Act 2 (H) H2H A	100	hrt	2																				0
+Devourer (H)			1						Act 2 (H) H2H B	100	hrt	3																				0
+GiantLamprey (H)			1						Act 2 (H) H2H C	100	hrt	4																				0
+WorldKiller (H)			1						Act 4 (H) H2H A	100	hrt	5																				0
+TombViper (H)			1						Act 1 (H) H2H C	100	hrt	1	fng	1																		0
+ClawViper (H)			1						Act 2 (H) H2H A	100	hrt	2	fng	2																		0
+Salamander (H)			1						Act 2 (H) H2H B	100	hrt	3	fng	3																		0
+PoisonSpitter (H)			1						Act 3 (H) H2H A	100	hrt	4	fng	4																		0
+SerpentMagus (H)			1						Act 3 (H) H2H B	100	hrt	5	fng	5																		0
+SandLeaper (H)			1						Act 2 (H) H2H A	100	hrt	1	brz	1																		0
+CaveLeaper (H)			1						Act 2 (H) H2H A	100	hrt	2	brz	2																		0
+TombCreeper (H)			1						Act 2 (H) H2H B	100	hrt	3	brz	3																		0
+TreeLurker (H)			1						Act 3 (H) H2H A	100	hrt	4	brz	4																		0
+RazorPitDemon (H)			1						Act 4 (H) H2H A	100	hrt	5	brz	5																		0
+Huntress (H)			1						Act 2 (H) H2H A	100	hrt	1	tal	1																		0
+SaberCat (H)			1						Act 2 (H) H2H A	100	hrt	2	tal	2																		0
+NightTiger (H)			1						Act 2 (H) H2H B	100	hrt	3	tal	3																		0
+HellCat (H)			1						Act 2 (H) H2H C	100	hrt	4	tal	4																		0
+Dungsoldier (H)			1						Act 2 (H) H2H A	100	hrt	1																				0
+SandWarrior (H)			1						Act 2 (H) H2H B	100	hrt	2																				0
+Scarab (H)			1						Act 2 (H) H2H B	100	hrt	3																				0
+SteelWeevil (H)			1						Act 2 (H) H2H C	100	hrt	4																				0
+AlbinoRoach (H)			1						Act 3 (H) H2H B	100	hrt	5																				0
+DriedCorpse (H)			1						Act 2 (H) H2H A	100	hrt	1	sol	1																		0
+Decayed (H)			1						Act 2 (H) H2H A	100	hrt	2	sol	2																		0
+Embalmed (H)			1						Act 2 (H) H2H B	100	hrt	3	sol	3																		0
+PreservedDead (H)			1						Act 3 (H) H2H B	100	hrt	4	sol	4																		0
+Cadaver (H)			1						Act 3 (H) H2H C	100	hrt	5	sol	5																		0
+HollowOne (H)			1						Act 2 (H) Cast A	100	hrt	1	sol	1																		0
+Guardian (H)			1						Act 2 (H) Cast B	100	hrt	2	sol	2																		0
+Unraveler (H)			1						Act 2 (H) Cast C	100	hrt	3	sol	3																		0
+Horadrim Ancient (H)			1						Act 3 (H) Cast B	100	hrt	4	sol	4																		0
+BaalMummy (H)			1						Act 5 (H) Cast B	100	hrt	5	sol	5																		0
+Gloam (H)			1						Act 3 (H) Wraith A	100	sol	1																				0
+SwampGhost (H)			1						Act 3 (H) Wraith B	100	sol	2																				0
+BurningSoul (H)			1						Act 4 (H) Wraith A	100	sol	3																				0
+BlackSoul (H)			1						Act 4 (H) Wraith B	100	sol	4																				0
+Arach (H)			1						Act 1 (H) H2H C	100	hrt	1	fng	1																		0
+SandFisher (H)			1						Act 2 (H) H2H A	100	hrt	2	fng	2																		0
+PoisonSpinner (H)			1						Act 3 (H) H2H A	100	hrt	3	fng	3																		0
+FlameSpider (H)			1						Act 3 (H) H2H A	100	hrt	4	fng	4																		0
+SpiderMagus (H)			1						Act 3 (H) H2H B	100	hrt	5	fng	5																		0
+ThornedHulk (H)			1						Act 3 (H) H2H A	100	hrt	1	qll	1																		0
+BrambleHulk (H)			1						Act 3 (H) H2H A	100	hrt	2	qll	2																		0
+Thrasher (H)			1						Act 3 (H) H2H B	100	hrt	3	qll	3																		0
+Spikefist (H)			1						Act 4 (H) H2H A	100	hrt	4	qll	4																		0
+GhoulLord (H)			1						Act 2 (H) Cast C	100	8ls	2	scz	2																		0
+NightLord (H)			1						Act 3 (H) Cast B	100	8cs	3	scz	3																		0
+DarkLord (H)			1						Act 3 (H) Cast B	100	8bs	4	scz	4																		0
+BloodLord (H)			1						Act 3 (H) Cast C	100	8ws	5	scz	5																		0
+Banished (H)			1						Act 1 (H) Cast A	100	8ss	1	scz	1																		0
+DesertWing (H)			1						Act 2 (H) H2H A	100	hrt	1																				0
+Fiend (H)			1						Act 2 (H) H2H B	100	hrt	2																				0
+Gloombat (H)			1						Act 3 (H) H2H A	100	hrt	3																				0
+BloodDiver (H)			1						Act 3 (H) H2H B	100	hrt	4																				0
+DarkFamiliar (H)			1						Act 3 (H) H2H C	100	hrt	5																				0
+RatMan (H)			1						Act 1 (H) H2H C	100	hrt	1	brz	1																		0
+Fetish (H)			1						Act 3 (H) H2H A	100	hrt	2	brz	2																		0
+Flayer (H)			1						Act 3 (H) H2H A	100	hrt	3	brz	3																		0
+SoulKiller (H)			1						Act 3 (H) H2H B	100	hrt	4	brz	4																		0
+StygianDoll (H)			1						Act 3 (H) H2H B	100	hrt	5	brz	5																		0
+DarkRanger (H)			1						Act 1 (H) Miss A	100	1hb	1	jaw	1																		0
+VileArcher (H)			1						Act 1 (H) Miss B	100	1lb	2	jaw	2																		0
+DarkArcher (H)			1						Act 1 (H) Miss B	100	1cb	3	jaw	3																		0
+BlackArcher (H)			1						Act 1 (H) Miss C	100	1l8	4	jaw	4																		0
+FleshArcher (H)			1						Act 3 (H) Miss B	100	1lw	5	jaw	5																		0
+DarkSpearwoman (H)			1						Act 1 (H) H2H A	100	0sr	1																				0
+VileLancer (H)			1						Act 1 (H) H2H B	100	0tr	2																				0
+DarkLancer (H)			1						Act 1 (H) H2H B	100	0br	3																				0
+BlackLancer (H)			1						Act 1 (H) H2H C	100	0st	4																				0
+FleshLancer (H)			1						Act 3 (H) H2H B	100	0p0	5																				0
+SkeletonArcher (H)			1						Act 1 (H) Miss B	100	1sb	1	jaw	1																		0
+ReturnedArcher (H)			1						Act 1 (H) Miss B	100	1hb	2	jaw	2																		0
+BoneArcher (H)			1						Act 1 (H) Miss C	100	1lb	3	jaw	3																		0
+BurningDeadArcher (H)			1						Act 2 (H) Miss A	100	1l8	4	jaw	4																		0
+HorrorArcher (H)			1						Act 2 (H) Miss B	100	1lw	5	jaw	5																		0
+Blunderbore (H)			1						Act 2 (H) H2H B	100	0sp	1	scz	1																		0
+Gorbelly (H)			1						Act 2 (H) H2H C	100	0m0	2	scz	2																		0
+Mauler (H)			1						Act 3 (H) H2H C	100	0m0	3	scz	3																		0
+Urdar (H)			1						Act 4 (H) H2H A	100	0gm	4	scz	4																		0
+Undead RatMan (H)			1						Act 1 (H) H2H C	100	sol	1																				0
+Undead Fetish (H)			1						Act 3 (H) H2H A	100	sol	2																				0
+Undead Flayer (H)			1						Act 3 (H) H2H A	100	sol	3																				0
+Undead SoulKiller (H)			1						Act 3 (H) H2H B	100	sol	4																				0
+Undead StygianDoll (H)			1						Act 3 (H) H2H B	100	sol	5																				0
+Zakarumite (H)			1						Act 3 (H) H2H A	100	hrt	1	spe	1																		0
+Faithful (H)			1						Act 3 (H) H2H B	100	hrt	2	spe	2																		0
+Zealot (H)			1						Act 3 (H) H2H B	100	hrt	3	spe	3																		0
+Sexton (H)			1						Act 3 (H) Cast A	100	hrt	1	eyz	1																		0
+Cantor (H)			1						Act 3 (H) Cast B	100	hrt	2	eyz	2																		0
+Heirophant1 (H)			1						Act 3 (H) Cast B	100	hrt	3	eyz	3																		0
+Heirophant2 (H)			1						Act 3 (H) Cast B	100	hrt	4	eyz	4																		0
+Swamp Dweller (H)			1						Act 3 (H) H2H A	100	hrt	1																				0
+Bog Creature (H)			1						Act 3 (H) H2H A	100	hrt	2																				0
+Slime Prince (H)			1						Act 3 (H) H2H B	100	hrt	3																				0
+ReturnedMage (H)			1						Act 1 (H) Cast B	100	sol	1																				0
+BoneMage (H)			1						Act 1 (H) Cast C	100	sol	2																				0
+BurningDeadMage (H)			1						Act 2 (H) Cast A	100	sol	3																				0
+HorrorMage (H)			1						Act 2 (H) Cast B	100	sol	4																				0
+RatManShaman (H)			1						Act 1 (H) Cast C	100	hrt	1	brz	1																		0
+FetishShaman (H)			1						Act 3 (H) Cast A	100	hrt	2	brz	2																		0
+FlayerShaman (H)			1						Act 3 (H) Cast B	100	hrt	3	brz	3																		0
+SoulKillerShaman (H)			1						Act 3 (H) Cast B	100	hrt	4	brz	4																		0
+StygianDollShaman (H)			1						Act 3 (H) Cast B	100	hrt	5	brz	5																		0
+SandMaggotQueen (H)			1						Act 2 (H) H2H A	100	hrt	1																				0
+RockWormQueen (H)			1						Act 2 (H) H2H A	100	hrt	2																				0
+DevourerQueen (H)			1						Act 2 (H) H2H B	100	hrt	3																				0
+GiantLampreyQueen (H)			1						Act 3 (H) H2H A	100	hrt	4																				0
+WorldKillerQueen (H)			1						Act 4 (H) H2H A	100	hrt	5																				0
+NightMarauder (H)			1						Act 3 (H) H2H B	100	hrt	1																				0
+FleshSpawner (H)			1						Act 4 (H) Cast A	100	hrt	1																				0
+StygianHag (H)			1						Act 4 (H) Cast A	100	hrt	2																				0
+Grotesque (H)			1						Act 4 (H) Cast B	100	hrt	3																				0
+FleshBeast (H)			1						Act 4 (H) Cast A	100	hrt	1																				0
+StygianDog (H)			1						Act 4 (H) Cast A	100	hrt	2																				0
+GrotesqueWyrm (H)			1						Act 4 (H) Cast A	100	hrt	3																				0
+Groper (H)			1						Act 4 (H) Wraith A	100	hrt	1	eyz	1																		0
+Strangler (H)			1						Act 4 (H) Wraith B	100	hrt	2	eyz	2																		0
+StormCaster (H)			1						Act 4 (H) Wraith B	100	hrt	3	eyz	3																		0
+Corpulent (H)			1						Act 4 (H) (H) H2H A	100	hrt	1	spe	1																		0
+CorpseSpitter (H)			1						Act 4 (H) H2H A	100	hrt	2	spe	2																		0
+MawFiend (H)			1						Act 4 (H) H2H B	100	hrt	3	spe	3																		0
+DoomKnight (H)			1						Act 4 (H) H2H A	100	sol	1	scz	1																		0
+AbyssKnight (H)			1						Act 4 (H) H2H B	100	sol	2	scz	2																		0
+OblivionKnight (H)			1						Act 4 (H) H2H B	100	sol	3	scz	3																		0
+QuillBear (H)			1						Act 1 (H) H2H A	100	hrt	1	qll	1																		0
+SpikeGiant (H)			1						Act 1 (H) H2H B	100	hrt	2	qll	2																		0
+ThornBrute (H)			1						Act 1 (H) H2H B	100	hrt	3	qll	3																		0
+RazorBeast (H)			1						Act 1 (H) H2H C	100	hrt	4	qll	4																		0
+GiantUrchin (H)			1						Act 2 (H) H2H C	100	hrt	5	qll	5																		0
+Balrog (H)			1						Act 4 (H) H2H A	100	hrt	1	hrn	1																		0
+PitLord (H)			1						Act 4 (H) H2H B	100	hrt	2	hrn	2																		0
+VenomLord (H)			1						Act 4 (H) H2H B	100	hrt	3	hrn	3																		0
+Slinger (H)			1						Act 2 (H) Miss A	100	hrt	1	tal	1																		0
+SpearCat (H)			1						Act 2 (H) Miss A	100	hrt	2	tal	2																		0
+NightSlinger (H)			1						Act 2 (H) Miss B	100	hrt	3	tal	3																		0
+HellSlinger (H)			1						Act 2 (H) Miss C	100	hrt	4	tal	4																		0
+ReturnedMage2 (H)			1						Act 1 (H) Cast B	100	sol	1																				0
+BoneMage2 (H)			1						Act 1 (H) Cast C	100	sol	2																				0
+BaalColdMage (H)			1						Act 5 (H) Cast A	100	sol	3																				0
+HorrorMage2 (H)			1						Act 2 (H) Cast B	100	sol	4																				0
+ReturnedMage3 (H)			1						Act 1 (H) Cast B	100	sol	1																				0
+BoneMage3 (H)			1						Act 1 (H) Cast C	100	sol	2																				0
+BurningDeadMage3 (H)			1						Act 2 (H) Cast A	100	sol	3																				0
+HorrorMage3 (H)			1						Act 2 (H) Cast B	100	sol	4																				0
+ReturnedMage4 (H)			1						Act 1 (H) Cast B	100	sol	1																				0
+BoneMage4 (H)			1						Act 1 (H) Cast C	100	sol	2																				0
+BurningDeadMage4 (H)			1						Act 2 (H) Cast A	100	sol	3																				0
+HorrorMage4 (H)			1						Act 2 (H) Cast B	100	sol	4																				0
+SpearCat2 (H)			1						Act 2 (H) Miss A	100	ssp	1	tal	1																		0
+RatMan1 (H)			1						Act 1 (H) H2H C	100	sol	1	brz	1																		0
+RatMan2 (H)			1						Act 3 (H) H2H B	100	sol	1	brz	1																		0
+RotWalker (H)			1						Act 5 (H) H2H A	100	sol	1																				0
+ReanimatedHorde (H)			1						Act 5 (H) H2H B	100	sol	2																				0
+ProwlingDead (H)			1						Act 5 (H) H2H B	100	sol	3																				0
+UnholyCorpse (H)			1						Act 5 (H) H2H C	100	sol	4																				0
+DefiledWarrior (H)			1						Act 5 (H) H2H C	100	sol	5																				0
+Siege Beast (H)			1						Act 5 (H) H2H C	200	hrt	2	xms	1																		0
+CrushBiest (H)			1						Act 5 (H) H2H C	200	hrt	4	xms	2																		0
+BloodBringer (H)			1						Act 5 (H) H2H C	200	hrt	6	xms	3																		0
+GoreBearer (H)			1						Act 5 (H) H2H C	200	hrt	8	xms	4																		0
+DeamonSteed (H)			1						Act 5 (H) H2H C	200	hrt	10	xms	5																		0
+SnowYeti1 (H)			1						Act 5 (H) H2H B	100	hrt	1	scz	1																		0
+SnowYeti2 (H)			1						Act 5 (H) H2H B	100	hrt	2	scz	2																		0
+SnowYeti3 (H)			1						Act 5 (H) H2H C	100	hrt	3	scz	3																		0
+SnowYeti4 (H)			1						Act 5 (H) H2H C	100	hrt	4	scz	4																		0
+WolfRider1 (H)			1						Act 5 (H) H2H A	100																						0
+WolfRider2 (H)			1						Act 5 (H) H2H B	100																						0
+WolfRider3 (H)			1						Act 5 (H) H2H C	100																						0
+Minionexp (H)			1						Act 5 (H) H2H A	100	hrt	1	fng	1																		0
+Slayerexp (H)			1						Act 5 (H) H2H A	100	hrt	2	fng	2																		0
+IceBoar (H)			1						Act 5 (H) H2H B	100	hrt	3	fng	3																		0
+FireBoar (H)			1						Act 5 (H) H2H B	100	hrt	4	fng	4																		0
+HellSpawn (H)			1						Act 5 (H) H2H C	100	hrt	5	fng	5																		0
+IceSpawn (H)			1						Act 5 (H) H2H C	100	hrt	6	fng	6																		0
+GreaterHellSpawn (H)			1						Act 5 (H) H2H B	100	hrt	7	fng	7																		0
+GreaterIceSpawn (H)			1						Act 5 (H) H2H B	100	hrt	8	fng	8																		0
+Succubusexp (H)			1						Act 5 (H) H2H A	100	hrt	1																				0
+VileTemptress (H)			1						Act 5 (H) H2H B	100	hrt	2																				0
+StygianHarlot (H)			1						Act 5 (H) H2H B	100	hrt	3																				0
+Hell Temptress (H)			1						Act 5 (H) H2H C	100	hrt	4																				0
+Blood Temptress (H)			1						Act 5 (H) H2H C	100	hrt	5																				0
+Dominus (H)			1						Act 5 (H) Cast A	400	hrt	16	yyy	1																		0
+VileWitch (H)			1						Act 5 (H) Cast A	400	hrt	16	yyy	1																		0
+StygianFury (H)			1						Act 5 (H) Cast B	400	hrt	16	yyy	1																		0
+Blood Witch (H)			1						Act 5 (H) Cast B	400	hrt	16	yyy	1																		0
+Hell Witch (H)			1						Act 5 (H) Cast C	400	hrt	16	yyy	1																		0
+OverSeer (H)			1						Act 5 (H) H2H A	100	hrt	1	spe	1																		0
+Lasher (H)			1						Act 5 (H) H2H A	100	hrt	2	spe	2																		0
+OverLord (H)			1						Act 5 (H) H2H B	100	hrt	3	spe	3																		0
+BloodBoss (H)			1						Act 5 (H) H2H B	100	hrt	4	spe	4																		0
+HellWhip (H)			1						Act 5 (H) H2H C	100	hrt	5	spe	5																		0
+MinionSpawner (H)			1						Act 5 (H) H2H A	200	scz	1																				0
+MinionSlayerSpawner (H)			1						Act 5 (H) H2H A	200	scz	1																				0
+MinionIce/fireBoarSpawner (H)			1						Act 5 (H) H2H B	200	scz	1																				0
+Minionice/hellSpawnSpawner (H)			1						Act 5 (H) H2H B	200	scz	1																				0
+Imp1 (H)			1						Act 5 (H) Cast A	100	hrt	1	brz	1																		0
+Imp2 (H)			1						Act 5 (H) Cast A	100	hrt	2	brz	2																		0
+Imp3 (H)			1						Act 5 (H) Cast B	100	hrt	3	brz	3																		0
+Imp4 (H)			1						Act 5 (H) Cast B	100	hrt	4	brz	4																		0
+Imp5 (H)			1						Act 5 (H) Cast C	100	hrt	5	brz	5																		0
+Frozen Horror1 (H)			1						Act 5 (H) H2H C	100	hrt	1	wms	1																		0
+Frozen Horror2 (H)			1						Act 5 (H) H2H C	100	hrt	2	wms	2																		0
+Frozen Horror3 (H)			1						Act 5 (H) H2H C	100	hrt	3	wms	3																		0
+Frozen Horror4 (H)			1						Act 5 (H) H2H C	100	hrt	4	wms	4																		0
+Frozen Horror5 (H)			1						Act 5 (H) H2H C	100	hrt	5	wms	5																		0
+Blood Lord1 (H)			1						Act 5 (H) H2H A	100	hrt	1	9wa	1																		0
+Blood Lord2 (H)			1						Act 5 (H) H2H B	100	hrt	2	9wa	2																		0
+Blood Lord3 (H)			1						Act 5 (H) H2H C	100	hrt	3	9wa	3																		0
+Blood Lord4 (H)			1						Act 5 (H) H2H C	100	hrt	4	9wa	4																		0
+Blood Lord5 (H)			1						Act 5 (H) H2H C	100	hrt	5	9wa	5																		0
+Death Mauler1 (H)			1						Act 5 (H) H2H A	100	hrt	1	qll	1																		0
+Death Mauler2 (H)			1						Act 5 (H) H2H A	100	hrt	2	qll	2																		0
+Death Mauler3 (H)			1						Act 5 (H) H2H B	100	hrt	3	qll	3																		0
+Death Mauler4 (H)			1						Act 5 (H) H2H B	100	hrt	4	qll	4																		0
+Death Mauler5 (H)			1						Act 5 (H) H2H C	100	hrt	5	qll	5																		0
+Putrid Defiler1 (H)			1						Act 5 (H) Cast A	100	hrt	1	ops	1																		0
+Putrid Defiler2 (H)			1						Act 5 (H) Cast A	100	hrt	2	ops	2																		0
+Putrid Defiler3 (H)			1						Act 5 (H) Cast B	100	hrt	3	ops	3																		0
+Putrid Defiler4 (H)			1						Act 5 (H) Cast B	100	hrt	4	ops	4																		0
+Putrid Defiler5 (H)			1						Act 5 (H) Cast B	100	hrt	5	ops	5																		0
+Cyclops			1						Act 4 H2H A	100	eyz	1																				0
+Cyclops (N)			1						Act 4 (N) H2H A	100	eyz	1																				0
+Cyclops (H)			1						Act 4 (H) H2H A	100	eyz	1																				0
+Belhifet			1						Act 4 H2H B	100	hrt	3	hrn	3																		0
+Belhifet (N)			1						Act 4 (N) H2H B	100	hrt	3	hrn	3																		0
+Belhifet (H)			1						Act 4 (H) H2H B	100	hrt	2	hrn	2																		0

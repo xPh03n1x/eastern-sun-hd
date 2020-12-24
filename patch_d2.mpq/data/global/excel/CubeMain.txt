@@ -1,0 +1,715 @@
+description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input 1	input 2	input 3	input 4	input 5	input 6	input 7	output	lvl	plvl	ilvl	mod 1	mod 1 chance	mod 1 param	mod 1 min	mod 1 max	mod 2	mod 2 chance	mod 2 param	mod 2 min	mod 2 max	mod 3	mod 3 chance	mod 3 param	mod 3 min	mod 3 max	mod 4	mod 4 chance	mod 4 param	mod 4 min	mod 4 max	mod 5	mod 5 chance	mod 5 param	mod 5 min	mod 5 max	output b	b lvl	b plvl	b ilvl	b mod 1	b mod 1 chance	b mod 1 param	b mod 1 min	b mod 1 max	b mod 2	b mod 2 chance	b mod 2 param	b mod 2 min	b mod 2 max	b mod 3	b mod 3 chance	b mod 3 param	b mod 3 min	b mod 3 max	b mod 4	b mod 4 chance	b mod 4 param	b mod 4 min	b mod 4 max	b mod 5	b mod 5 chance	b mod 5 param	b mod 5 min	b mod 5 max	output c	c lvl	c plvl	c ilvl	c mod 1	c mod 1 chance	c mod 1 param	c mod 1 min	c mod 1 max	c mod 2	c mod 2 chance	c mod 2 param	c mod 2 min	c mod 2 max	c mod 3	c mod 3 chance	c mod 3 param	c mod 3 min	c mod 3 max	c mod 4	c mod 4 chance	c mod 4 param	c mod 4 min	c mod 4 max	c mod 5	c mod 5 chance	c mod 5 param	c mod 5 min	c mod 5 max	*eol
+Staff of Kings + Viper amulet -> Horadric Staff	1			0	28				2	msf	vip						hst																																																																																							0
+Khalim Flail + Khalim Heart + Khalim Eye + Khalim Brain -> Super Khalim Flail	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
+1 Wirt's leg + 1 town portal book -> portal to cow lvl	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
+3 health potions + 3 mana potions + 1 standard gem -> full rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem2					rvl																																																																																							0
+3 health potions +  3 mana potions + 1 chipped gem -> rejuvenate potion	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem0					rvs																																																																																							0
+3 small rejuvs -> one large	1			0					3	"rvs,qty=3"							rvl																																																																																							0
+1 perfect gem of each type + 1 amulet -> prismatic amulet	1			0					7	"amul,mag"	gpv	gpy	gpb	gpg	gpr	gpw	"amu,mag,pre=331"	50																																																																																						0
+1 ring + 1 perfect ruby + 1 exploding potions -> garnet ring	1			0					3	"ring,mag"	gpr	opm					"rin,mag,pre=1232"	30																																																																																						0
+1 ring + 1 perfect sapphire + 1 thawing potions-> cobalt ring	1			0					3	"ring,mag"	gpb	wms					"rin,mag,pre=1228"	30																																																																																						0
+1 ring + 1 perfect topaz + 1 rejuvenation -> coral ring	1			0					3	"ring,mag"	gpy	rvs					"rin,mag,pre=1236"	30																																																																																						0
+1 ring + 1 emerald + 1 antidote potions -> jade ring	1			0					3	"ring,mag"	gpg	yps					"rin,mag,pre=1240"	30																																																																																						0
+1 axe + 1 dagger -> throwing axe	1			0					2	axe	knif						"tax,nor"																																																																																							0
+1 spear + 1 arrow quiver -> javelins	1			0					2	spea	aq2						"jav,nor"																																																																																							0
+3 rings -> amulet	1			0					3	"ring,mag,qty=3"							"amu,mag"		75																																																																																					0
+3 amulets -> ring	1			0					3	"amul,mag,qty=3"							"rin,mag"		75																																																																																					0
+"3 standard gems + 1 socketed weapon ->  magic, socketable weapon"	1			0					4	"weap,mag"	"gem2,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
+"3 flawless gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem3,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
+1 magic small shield + 1 spiked club + 2 skulls -> shield of spikes	1			0					4	"shld,mag"	"gemz,qty=2"	spc					"usetype,mag,suf=162"	30		60																																																																																				0
+4 health potion + 1 ruby + 1 magic sword -> sword of the leech	1			0					6	"swor,mag"	gemr	"hpot,qty=4"					"usetype,mag,suf=352"	30		60																																																																																				0
+1 diamond + 1 kriss + 1 staff + 1 belt -> savage polearm	1			0					4	kri	gemd	staf	belt				"pole,mag,pre=191"	50		60																																																																																				0
+chipped amethyst + flag + any perfect -> perfect amethyst	1			0					3	gcv	fl2	gem5					gvb																																																																																							0
+chipped ruby + flag + any perfect -> perfect ruby	1			0					3	gcr	fl2	gem5					grb																																																																																							0
+chipped sapphire + flag + any perfect -> perfect sapphire	1			0					3	gcb	fl2	gem5					gbb																																																																																							0
+chipped topaz + flag + any perfect -> perfect topaz	1			0					3	gcy	fl2	gem5					gyb																																																																																							0
+chipped emerald + flag + any perfect -> perfect emerald	1			0					3	gcg	fl2	gem5					ggb																																																																																							0
+chipped diamond + flag + any perfect -> perfect diamond	1			0					3	gcw	fl2	gem5					gwb																																																																																							0
+chipped skull + flag + any perfect -> perfect skull	1			0					3	skc	fl2	gem5					skb																																																																																							0
+chipped obsidian + flag + any perfect -> perfect obsidian	1			0					3	gck	fl2	gem5					gbk																																																																																							0
+2 Dragon Stones -> 3 Blemished Amethysts	1			0					2	"ppp,qty=2"							gpv																													gpv																													gpv																													0
+2 Tyranium Ores -> 3 Blemished Topazes	1			0					2	"ttt,qty=2"							gpy																													gpy																													gpy																													0
+2 Crushed Gems -> 3 Blemished Sapphires	1			0					2	"ggg,qty=2"							gpb																													gpb																													gpb																													0
+2 Spider Silk's -> 3 Blemished Emeralds	1			0					2	"sss,qty=2"							gpg																													gpg																													gpg																													0
+2 Forging Hammers -> 3 Blemished Rubys	1			0					2	"hh2,qty=2"							gpr																													gpr																													gpr																													0
+2 Holy Symbols -> 3 Blemished Diamonds	1			0					2	"hly,qty=2"							gpw																													gpw																													gpw																													0
+2 Blackmoors -> 3 Blemished Skulls	1			0					2	"eee,qty=2"							skz																													skz																													skz																													0
+1 strangling gas potion + 1 health potion -> antidote potion	1			0					2	gpl	hpot						yps																																																																																							0
+2 arrows -> bolts	1			0					2	"aq2,qty=2"							cq2																																																																																							0
+2 bolts -> arrows	1			0					2	"cq2,qty=2"							aq2																																																																																							0
+3 chipped amethysts -> flawed amethyst	1			0					3	"gcv,qty=3"							gfv																																																																																							0
+3 flawed amethysts -> standard amethyst	1			0					3	"gfv,qty=3"							gsv																																																																																							0
+3 standard amethysts -> flawless amethyst	1			0					3	"gsv,qty=3"							gzv																																																																																							0
+3 flawless amethysts -> perfect amethyst	1			0					3	"gzv,qty=3"							gpv																																																																																							0
+3 chipped rubies -> flawed ruby	1			0					3	"gcr,qty=3"							gfr																																																																																							0
+3 flawed rubies -> standard ruby	1			0					3	"gfr,qty=3"							gsr																																																																																							0
+3 standard rubies -> flawless ruby	1			0					3	"gsr,qty=3"							glr																																																																																							0
+3 flawless rubies -> perfect ruby	1			0					3	"glr,qty=3"							gpr																																																																																							0
+3 chipped sapphires -> flawed sapphire	1			0					3	"gcb,qty=3"							gfb																																																																																							0
+3 flawed sapphires -> standard sapphire	1			0					3	"gfb,qty=3"							gsb																																																																																							0
+3 standard sapphires -> flawless sapphire	1			0					3	"gsb,qty=3"							glb																																																																																							0
+3 flawless sapphires -> perfect sapphire	1			0					3	"glb,qty=3"							gpb																																																																																							0
+3 chipped topazes -> flawed topaz	1			0					3	"gcy,qty=3"							gfy																																																																																							0
+3 flawed topazes -> standard topaz	1			0					3	"gfy,qty=3"							gsy																																																																																							0
+3 standard topazes -> flawless topaz	1			0					3	"gsy,qty=3"							gly																																																																																							0
+3 flawless topazes -> perfect topaz	1			0					3	"gly,qty=3"							gpy																																																																																							0
+3 chipped emeralds -> flawed emerald	1			0					3	"gcg,qty=3"							gfg																																																																																							0
+3 flawed emeralds -> standard emerald	1			0					3	"gfg,qty=3"							gsg																																																																																							0
+3 standard emeralds -> flawless emerald	1			0					3	"gsg,qty=3"							glg																																																																																							0
+3 flawless emeralds -> perfect emerald	1			0					3	"glg,qty=3"							gpg																																																																																							0
+3 chipped diamonds -> flawed diamond	1			0					3	"gcw,qty=3"							gfw																																																																																							0
+3 flawed diamonds -> standard diamond	1			0					3	"gfw,qty=3"							gsw																																																																																							0
+3 standard diamonds -> flawless diamond	1			0					3	"gsw,qty=3"							glw																																																																																							0
+3 flawless diamonds -> perfect diamond	1			0					3	"glw,qty=3"							gpw																																																																																							0
+3 chipped skulls -> flawed skull	1			0					3	"skc,qty=3"							skf																																																																																							0
+3 flawed skulls -> standard skull	1			0					3	"skf,qty=3"							sku																																																																																							0
+3 standard skulls -> flawless skull	1			0					3	"sku,qty=3"							skl																																																																																							0
+3 flawless skulls -> perfect skull	1			0					3	"skl,qty=3"							skz																																																																																							0
+3 rune 01 -> rune 02	1			100					3	"r01,qty=3"							r02																																																																																							0
+3 rune 02 -> rune 03	1			100					3	"r02,qty=3"							r03																																																																																							0
+3 rune 03 -> rune 04	1			100					3	"r03,qty=3"							r04																																																																																							0
+3 rune 04 -> rune 05	1			100					3	"r04,qty=3"							r05																																																																																							0
+3 rune 05 -> rune 06	1			100					3	"r05,qty=3"							r06																																																																																							0
+3 rune 06 -> rune 07	1			100					3	"r06,qty=3"							r07																																																																																							0
+3 rune 07 -> rune 08	1			100					3	"r07,qty=3"							r08																																																																																							0
+3 rune 08 -> rune 09	1			100					3	"r08,qty=3"							r09																																																																																							0
+3 rune 09 -> rune 10	1			100					3	"r09,qty=3"							r10																																																																																							0
+3 perfect gems + 1 magic item -> magic item	1			100					4	"any,mag"	"gem5,qty=3"						"usetype,mag"			100																																																																																				0
+6 perfect skulls + 1 rare item -> 1 low level rare item				0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
+1 perfect skull + 1 rare item + soj -> 1 high level rare item				0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
+3 perfect skull + 1 rare item + stone of jordan-> add 1 socket to rare				0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
+magic full helm + jewel + rune 06 + perfect sapphire -> hitpower helm	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
+magic chain boots + jewel + rune 08 + perfect sapphire -> hitpower boots	1			100					4	"mbt,mag,upg"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
+magic chain gloves + jewel + rune 09 + perfect sapphire -> hitpower gloves	1			100					4	"mgl,mag,upg"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
+magic heavy belt + jewel + rune 07 + perfect sapphire -> hitpower belt	1			100					4	"tbl,mag,upg"	jew	r07	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
+magic gothic shield + jewel + rune 05 + perfect sapphire -> hitpower shield	1			100					4	"gts,mag,upg"	jew	r05	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
+magic field plate + jewel + rune 04 + perfect sapphire -> hitpower body	1			100					4	"fld,mag,upg"	jew	r04	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
+magic amulet + jewel + rune 10 + perfect sapphire -> hitpower amulet	1			100					4	"amul,mag"	jew	r10	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
+magic ring + jewel + rune 11 + perfect sapphire -> hitpower ring	1			100					4	"ring,mag"	jew	r11	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
+magic blunt + jewel + rune 03 + perfect sapphire -> hitpower weapon	1			100					4	"blun,mag"	jew	r03	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
+magic helm + jewel + rune 08 + perfect ruby -> blood helm	1			100					4	"hlm,mag,upg"	jew	r08	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
+magic light plated boots + jewel + rune 05 + perfect ruby -> blood boots	1			100					4	"tbt,mag,upg"	jew	r05	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
+magic heavy gloves + jewel + rune 04 + perfect ruby -> blood gloves	1			100					4	"vgl,mag,upg"	jew	r04	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
+magic belt + jewel + rune 07 + perfect ruby -> blood belt	1			100					4	"mbl,mag,upg"	jew	r07	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
+magic spiked shield + jewel + rune 06 + perfect ruby -> blood shield	1			100					4	"spk,mag,upg"	jew	r06	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
+magic plate mail + jewel + rune 10 + perfect ruby -> blood body	1			100					4	"plt,mag,upg"	jew	r10	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
+magic amulet + jewel + rune 11 + perfect ruby -> blood amulet	1			100					4	"amul,mag"	jew	r11	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
+magic ring + jewel + rune 12 + perfect ruby -> blood ring	1			100					4	"ring,mag"	jew	r12	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
+magic axe + jewel + rune 09 + perfect ruby -> blood weapon	1			100					4	"axe,mag"	jew	r09	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
+magic mask + jewel + rune 04 + perfect amethyst -> caster helm	1			100					4	"msk,mag,upg"	jew	r04	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
+magic boots + jewel + rune 10 + perfect amethyst -> caster boots	1			100					4	"lbt,mag,upg"	jew	r10	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
+magic leather gloves + jewel + rune 09 + perfect amethyst -> caster gloves	1			100					4	"lgl,mag,upg"	jew	r09	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+magic light belt + jewel + rune 06 + perfect amethyst -> caster belt	1			100					4	"vbl,mag,upg"	jew	r06	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+magic small shield + jewel + rune 05 + perfect amethyst -> caster shield	1			100					4	"sml,mag,upg"	jew	r05	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
+magic light plate + jewel + rune 07 + perfect amethyst -> caster body	1			100					4	"ltp,mag,upg"	jew	r07	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+magic amulet + jewel + rune 08 + perfect amethyst -> caster amulet	1			100					4	"amul,mag"	jew	r08	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+magic ring + jewel + rune 11 + perfect amethyst -> caster ring	1			100					4	"ring,mag"	jew	r11	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
+magic rod + jewel + rune 03 + perfect amethyst -> caster weapon	1			100					4	"rod,mag"	jew	r03	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
+magic crown + jewel + rune 06 + perfect emerald -> safety helm	1			100					4	"crn,mag,upg"	jew	r06	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
+magic plate boots + jewel + rune 09 + perfect emerald -> safety boots	1			100					4	"hbt,mag,upg"	jew	r09	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
+magic gauntlets + jewel + rune 08 + perfect emerald -> safety gloves	1			100					4	"hgl,mag,upg"	jew	r08	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
+magic sash + jewel + rune 07 + perfect emerald -> safety belt	1			100					4	"lbl,mag,upg"	jew	r07	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
+magic kite shield + jewel + rune 04 + perfect emerald -> safety shield	1			100					4	"kit,mag,upg"	jew	r04	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
+magic breastplate + jewel + rune 05 + perfect emerald -> safety body	1			100					4	"brs,mag,upg"	jew	r05	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
+magic amulet + jewel + rune 10 + perfect emerald -> safety amulet	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
+magic ring + jewel + rune 11 + perfect emerald -> safety ring	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
+magic spear + jewel + rune 12 + perfect emerald -> safety weapon	1			100					4	"spea,mag"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
+r07 + r10 + 1 perfect topaz + normal torso -> socketed torso	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem			100	sock			1	6																																																																															0
+r08 + r11 + 1 perfect amethyst + normal weapon -> socketed weapon	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem			100	sock			1	6																																																																															0
+r08 + r10 + 1 perfect sapphire + normal helm -> socketed helm	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem			100	sock			1	6																																																																															0
+r07 + r11 + 1 perfect ruby + normal shield -> socketed shield	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem			100	sock			1	6																																																																															0
+r02 + 1 chipped gem + low weapon -> normal weapon	1			100					3	"weap,low"	r02	gem0					"usetype,nor"			100																																																																																				0
+r01 + 1 chipped gem + low armor -> normal armor	1			100					3	"armo,low"	r01	gem0					"usetype,nor"			100																																																																																				0
+r08 + r12 + perfect emerald + basic unique weapon -> exceptional unique weapon	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r07 + r13 + perfect diamond + basic unique armor -> exceptional unique armor	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r17 + r21 + perfect emerald + exceptional unique weapon -> elite unique weapon	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r20 + perfect diamond + exceptional unique armor -> elite unique armor	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r09 + r11 + perfect sapphire + basic rare weapon -> exceptional rare weapon	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r08 + r10 + perfect amethyst + basic rare armor -> exceptional rare armor	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
+r19 + r22 + perfect sapphire + exceptional rare weapon -> elite rare weapon	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r18 + r21 + perfect amethyst + exceptional rare armor -> elite rare armor	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
+r09 + weapon -> repair	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
+r08 + armor -> repair	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
+r09 + weapon + chipped gem -> repair + recharge	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
+r08 + armor + flawed gem -> repair + recharge	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
+r15 + tsc + any socketed item -> unsocket (destroy gems)	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
+r08 + jew + superior armor -> tempered armor				100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+r08 + jew + superior weapon -> tempered weapon				100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
+r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
+r08 + jew + magic amulet -> tempered amulet				100					3	"amul,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
+r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
+"3 chipped gems + 1 magic weapon -> socketed, magic weapon"	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
+3 chipped obsidians -> flawed obsidian	1			0					3	"gck,qty=3"							gfk																																																																																							0
+3 flawed obsidians -> standard obsidian	1			0					3	"gfk,qty=3"							gsk																																																																																							0
+3 standard obsidians -> flawless obsidian	1			0					3	"gsk,qty=3"							gzk																																																																																							0
+3 flawless obsidians -> blemished obsidian	1			0					3	"gzk,qty=3"							gpk																																																																																							0
+3 blemished obsidians -> perfect obsidian	1			0					3	"gpk,qty=3"							gbk																																																																																							0
+3 blemished amethysts -> perfect amethyst	1			0					3	"gpv,qty=3"							gvb																																																																																							0
+3 blemished saphires -> perfect saphire	1			0					3	"gpb,qty=3"							gbb																																																																																							0
+3 blemished emeralds -> perfect emerald	1			0					3	"gpg,qty=3"							ggb																																																																																							0
+3 blemished rubies -> perfect ruby	1			0					3	"gpr,qty=3"							grb																																																																																							0
+3 blemished diamonds -> perfect diamond	1			0					3	"gpw,qty=3"							gwb																																																																																							0
+3 blemished topaz -> perfect topaz	1			0					3	"gpy,qty=3"							gyb																																																																																							0
+3 blemished skulls -> perfect skull	1			0					3	"skz,qty=3"							skb																																																																																							0
+rune upgrade	1			100					3	"r01,qty=3"							r02																																																																																							0
+rune upgrade	1			100					3	"r02,qty=3"							r03																																																																																							0
+rune upgrade	1			100					3	"r03,qty=3"							r04																																																																																							0
+rune upgrade	1			100					3	"r04,qty=3"							r05																																																																																							0
+rune upgrade	1			100					3	"r05,qty=3"							r06																																																																																							0
+rune upgrade	1			100					3	"r06,qty=3"							r07																																																																																							0
+rune upgrade	1			100					3	"r07,qty=3"							r08																																																																																							0
+rune upgrade	1			100					3	"r08,qty=3"							r09																																																																																							0
+rune upgrade	1			100					3	"r09,qty=3"							r10																																																																																							0
+rune upgrade	1			100					3	"r10,qty=3"							r11																																																																																							0
+rune upgrade	1			100					3	"r11,qty=3"							r12																																																																																							0
+rune upgrade	1			100					3	"r12,qty=3"							r13																																																																																							0
+rune upgrade	1			100					3	"r13,qty=3"							r14																																																																																							0
+rune upgrade	1			100					3	"r14,qty=3"							r15																																																																																							0
+rune upgrade	1			100					3	"r15,qty=3"							r16																																																																																							0
+rune upgrade	1			100					3	"r16,qty=3"							r17																																																																																							0
+rune upgrade	1			100					3	"r17,qty=3"							r18																																																																																							0
+rune upgrade	1			100					3	"r18,qty=3"							r19																																																																																							0
+rune upgrade	1			100					3	"r19,qty=3"							r20																																																																																							0
+rune upgrade	1			100					3	"r20,qty=3"							r21																																																																																							0
+rune upgrade	1			100					3	"r21,qty=3"							r22																																																																																							0
+rune upgrade	1			100					3	"r22,qty=3"							r23																																																																																							0
+rune upgrade	1			100					3	"r23,qty=3"							r24																																																																																							0
+rune upgrade	1			100					3	"r24,qty=3"							r25																																																																																							0
+rune upgrade	1			100					3	"r25,qty=3"							r26																																																																																							0
+rune upgrade	1			100					3	"r26,qty=3"							r27																																																																																							0
+rune upgrade	1			100					3	"r27,qty=3"							r28																																																																																							0
+rune upgrade	1			100					3	"r28,qty=3"							r29																																																																																							0
+rune upgrade	1			100					3	"r29,qty=3"							r30																																																																																							0
+rune upgrade	1			100					3	"r30,qty=3"							r31																																																																																							0
+rune upgrade	1			100					3	"r31,qty=3"							r32																																																																																							0
+rune upgrade	1			100					3	"r32,qty=3"							r33																																																																																							0
+rune upgrade	1			100					3	"r33,qty=3"							r34																																																																																							0
+rune upgrade	1			100					3	"r34,qty=3"							r35																																																																																							0
+rune upgrade	1			100					3	"r35,qty=3"							r36																																																																																							0
+rune upgrade	1			100					3	"r36,qty=3"							r37																																																																																							0
+rune upgrade	1			100					3	"r37,qty=3"							r38																																																																																							0
+rune upgrade	1			100					3	"r38,qty=3"							r39																																																																																							0
+rune upgrade	1			100					3	"r39,qty=3"							r40																																																																																							0
+rune upgrade	1			100					3	"r40,qty=3"							r41																																																																																							0
+rune upgrade	1			100					3	"r41,qty=3"							r42																																																																																							0
+rune upgrade	1			100					3	"r42,qty=3"							r43																																																																																							0
+rune upgrade	1			100					3	"r43,qty=3"							r44																																																																																							0
+rune upgrade	1			100					3	"r44,qty=3"							r45																																																																																							0
+rune upgrade	1			100					3	"r45,qty=3"							r46																																																																																							0
+Make Scroll for Recipe 1	1			0					2	01b	ddd						01a																																																																																							0
+Make Scroll for Recipe 2	1			0					2	02b	ddd						02a																																																																																							0
+Make Scroll for Recipe 3	1			0					2	03b	ddd						03a																																																																																							0
+Make Scroll for Recipe 4	1			0					2	04b	ddd						04a																																																																																							0
+Make Scroll for Recipe 5	1			0					2	05b	ddd						05a																																																																																							0
+Make Scroll for Recipe 6	1			0					2	06b	ddd						06a																																																																																							0
+Make Scroll for Recipe 7	1			0					2	07b	ddd						07a																																																																																							0
+Make Scroll for Recipe 8	1			0					2	08b	ddd						08a																																																																																							0
+Make Scroll for Recipe 9	1			0					2	09b	ddd						09a																																																																																							0
+Make Scroll for Recipe 10	1			0					2	10b	ddd						10a																																																																																							0
+Make Scroll for Recipe 11	1			0					2	11b	ddd						11a																																																																																							0
+Make Scroll for Recipe 12	1			0					2	12b	ddd						12a																																																																																							0
+Make Scroll for Recipe 13	1			0					2	13b	ddd						13a																																																																																							0
+Make Scroll for Recipe 14	1			0					2	14b	ddd						14a																																																																																							0
+Make Scroll for Recipe 15	1			0					2	15b	ddd						15a																																																																																							0
+Make Scroll for Recipe 16	1			0					2	16b	ddd						16a																																																																																							0
+Make Scroll for Recipe 17	1			0					2	17b	ddd						17a																																																																																							0
+Make Scroll for Recipe 18	1			0					2	18b	ddd						18a																																																																																							0
+Make Scroll for Recipe 19	1			0					2	19b	ddd						19a																																																																																							0
+Make Scroll for Recipe 20	1			0					2	20b	ddd						20a																																																																																							0
+Make Scroll for Recipe 21	1			0					2	21b	ddd						21a																																																																																							0
+Make Scroll for Recipe 22	1			0					2	22b	ddd						22a																																																																																							0
+Make Scroll for Recipe 23	1			0					2	23b	ddd						23a																																																																																							0
+Make Scroll for Recipe 24	1			0					2	24b	ddd						24a																																																																																							0
+Make Scroll for Recipe 25	1			0					2	25b	ddd						25a																																																																																							0
+Make Scroll for Recipe 26	1			0					2	26b	ddd						26a																																																																																							0
+Make Scroll for Recipe 27	1			0					2	27b	ddd						27a																																																																																							0
+Make Scroll for Recipe 28	1			0					2	28b	ddd						28a																																																																																							0
+Make Scroll for Recipe 29	1			0					2	29b	ddd						29a																																																																																							0
+Make Scroll for Recipe 30	1			0					2	30b	ddd						30a																																																																																							0
+Make Scroll for Recipe 31	1			0					2	31b	ddd						31a																																																																																							0
+Make Scroll for Recipe 32	1			0					2	32b	ddd						32a																																																																																							0
+Make Scroll for Recipe 33	1			0					2	33b	ddd						33a																																																																																							0
+Make Scroll for Recipe 34	1			0					2	34b	ddd						34a																																																																																							0
+Make Scroll for Recipe 35	1			0					2	35b	ddd						35a																																																																																							0
+Make Scroll for Recipe 36	1			0					2	36b	ddd						36a																																																																																							0
+Make Scroll for Recipe 37	1			0					2	37b	ddd						37a																																																																																							0
+Make Scroll for Recipe 38	1			0					2	38b	ddd						38a																																																																																							0
+Make Scroll for Recipe 39	1			0					2	39b	ddd						39a																																																																																							0
+Make Scroll for Recipe 40	1			0					2	40b	ddd						40a																																																																																							0
+Make Scroll for Recipe 41	1			0					2	41b	ddd						41a																																																																																							0
+Make Scroll for Recipe 42	1			0					2	42b	ddd						42a																																																																																							0
+Make Scroll for Recipe 43	1			0					2	43b	ddd						43a																																																																																							0
+Make Scroll for Recipe 44	1			0					2	44b	ddd						44a																																																																																							0
+Make Scroll for Recipe 45	1			0					2	45b	ddd						45a																																																																																							0
+Make Scroll for Recipe 46	1			0					2	46b	ddd						46a																																																																																							0
+Make Scroll for Recipe 47	1			0					2	47b	ddd						47a																																																																																							0
+Make Scroll for Recipe 48	1			0					2	48b	ddd						48a																																																																																							0
+Make Scroll for Recipe 49	1			0					2	49b	ddd						49a																																																																																							0
+Make Scroll for Recipe 50	1			0					2	50b	ddd						50a																																																																																							0
+Make Scroll for Recipe 51	1			0					2	51b	ddd						51a																																																																																							0
+Make Scroll for Recipe 52	1			0					2	52b	ddd						52a																																																																																							0
+Make Scroll for Recipe 53	1			0					2	53b	ddd						53a																																																																																							0
+Replenish Missiles	1			0					1	"misl,any"							"useitem,rep,qty=255"																																																																																							0
+Replenish Missiles	1			0					1	"jave,any"							"useitem,rep,qty=255"																																																																																							0
+Replenish Missiles	1			0					1	"taxe,any"							"useitem,rep,qty=255"																																																																																							0
+Replenish Missiles	1			0					1	"tkni,any"							"useitem,rep,qty=255"																																																																																							0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"sbw,set"	isc						"sbs,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"lea,set"	isc						"les,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"skp,set"	isc						"rsk,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"sbs,set"	isc						"xbs,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"les,set"	isc						"xes,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"rsk,set"	isc						"xkr,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xbs,set"	isc						"ybs,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xes,set"	isc						"yes,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xkr,set"	isc						"ykr,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"spt,set"	isc						"pim,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"stu,set"	isc						"stm,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"cap,set"	isc						"cam,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"pim,set"	isc						"xim,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"stm,set"	isc						"xtm,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"cam,set"	isc						"xam,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xim,set"	isc						"yim,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xtm,set"	isc						"ytm,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xam,set"	isc						"yam,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"bsd,set"	isc						"lsw,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"rob,set"	isc						"row,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			0					2	"hlm,set"	isc						"hlw,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"lsw,set"	isc						"xsw,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"row,set"	isc						"rox,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"hlw,set"	isc						"xlw,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			0					2	"xsw,set"	isc						"ysw,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"rox,set"	isc						"roy,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			0					2	"xlw,set"	isc						"ylw,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			100					2	"bsw,set"	isc						"bsb,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			100					2	"gth,set"	isc						"gtq,set"	100																																																																																						0
+Upgrade Dropped Merc -> Normal Merc Set	1			100					2	"ghm,set"	isc						"ghw,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			100					2	"bsb,set"	isc						"xsb,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			100					2	"gtq,set"	isc						"xtq,set"	100																																																																																						0
+Upgrade Normal Merc -> NM Merc Set	1			100					2	"ghw,set"	isc						"xhw,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			100					2	"xsb,set"	isc						"ysb,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			100					2	"xtq,set"	isc						"ytq,set"	100																																																																																						0
+Upgrade NM Merc -> Hell Merc Set	1			100					2	"xhw,set"	isc						"yhw,set"	100																																																																																						0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	sss						useitem			100	att			75	75																																																																															0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	ppp						useitem			100	swing1			20	20																																																																															0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	eee						useitem			100	dmg-pois		50	256	512																																																																															0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	hh2						useitem			100	dmg%			50	50																																																																															0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	ggg						useitem			100	crush			10	10																																																																															0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	hly						useitem			100	dmg-demon			50	50	dmg-undead			50	50																																																																										0
+Golem Blade + Crafting Item -> Bonus	1			0					2	gbl	ttt						useitem			100	ac%			50	50																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	sss						useitem			100	att			75	75																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	ppp						useitem			100	swing1			20	20																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	eee						useitem			100	dmg-pois		50	256	512																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	hh2						useitem			100	dmg%			50	50																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	ggg						useitem			100	crush			10	10																																																																															0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	hly						useitem			100	dmg-demon			50	50	dmg-undead			50	50																																																																										0
+Necro Blade + Crafting Item -> Bonus	1			0					2	nbl	ttt						useitem			100	ac%			50	50																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	sss						useitem			100	att			75	75																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	ppp						useitem			100	swing1			20	20																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	eee						useitem			100	dmg-pois		50	256	512																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	hh2						useitem			100	dmg%			50	50																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	ggg						useitem			100	crush			10	10																																																																															0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	hly						useitem			100	dmg-demon			50	50	dmg-undead			50	50																																																																										0
+Necro Scythe + Crafting Item -> Bonus	1			0					2	nsc	ttt						useitem			100	ac%			50	50																																																																															0
+Spider's Silk + Any Weapon	1			0					2	weap	sss						useitem			100	pierce			5	5	levelreq			2	2																																																																										0
+Dragon Stone + Any Weapon	1			0					2	weap	ppp						useitem			100	swing1			5	5	levelreq			2	2																																																																										0
+Blackmoor + Any Weapon	1			0					2	weap	eee						useitem			100	dmg-pois		50	52	77	levelreq			2	2																																																																										0
+Forging Hammer + Any Weapon	1			0					2	weap	hh2						useitem			100	dmg%			10	10	levelreq			2	2																																																																										0
+Crushed Gem + Any Weapon	1			0					2	weap	ggg						useitem			100	mana			10	10	levelreq			2	2																																																																										0
+Holy Symbol + Any Weapon	1			0					2	weap	hly						useitem			100	ac%			10	10	levelreq			2	2																																																																										0
+Tyranium Ore + Any Weapon	1			0					2	weap	ttt						useitem			100	hp			10	10	levelreq			2	2																																																																										0
+Spider's Silk + Any Armor	1			0					2	armo	sss						useitem			100	mag%			5	5	levelreq			3	3																																																																										0
+Dragon Stone + Any Armor	1			0					2	armo	ppp						useitem			100	dmg-min			2	2	levelreq			3	3																																																																										0
+Blackmoor + Any Armor	1			0					2	armo	eee						useitem			100	cast1			5	5	levelreq			3	3																																																																										0
+Forging Hammer + Any Armor	1			0					2	armo	hh2						useitem			100	ac%			10	10	levelreq			3	3																																																																										0
+Crushed Gem + Any Armor	1			0					2	armo	ggg						useitem			100	mana%			5	5	levelreq			3	3																																																																										0
+Holy Symbol + Any Armor	1			0					2	armo	hly						useitem			100	res-all			5	5	levelreq			3	3																																																																										0
+Tyranium Ore + Any Armor	1			0					2	armo	ttt						useitem			100	hp%			5	5	levelreq			3	3																																																																										0
+Spider's Silk + Any Amulet	1			0					2	amul	sss						useitem			100	att%			5	5	levelreq			4	4																																																																										0
+Dragon Stone + Any Amulet	1			0					2	amul	ppp						useitem			100	thorns%			5	5	levelreq			4	4																																																																										0
+Blackmoor + Any Amulet	1			0					2	amul	eee						useitem			100	mana-kill			2	2	levelreq			4	4																																																																										0
+Forging Hammer + Any Amulet	1			0					2	amul	hh2						useitem			100	heal-kill			2	2	levelreq			4	4																																																																										0
+Crushed Gem + Any Amulet	1			0					2	amul	ggg						useitem			100	mana%			5	5	levelreq			5	5																																																																										0
+Holy Symbol + Any Amulet	1			0					2	amul	hly						useitem			100	res-all			5	5	levelreq			4	4																																																																										0
+Tyranium Ore + Any Amulet	1			0					2	amul	ttt						useitem			100	hp%			5	5	levelreq			5	5																																																																										0
+Spider's Silk + Any Ring	1			0					2	ring	sss						useitem			100	att			30	30	levelreq			4	4																																																																										0
+Dragon Stone + Any Ring	1			0					2	ring	ppp						useitem			100	deadly			5	5	levelreq			4	4																																																																										0
+Blackmoor + Any Ring	1			0					2	ring	eee						useitem			100	crush			5	5	levelreq			4	4																																																																										0
+Forging Hammer + Any Ring	1			0					2	ring	hh2						useitem			100	lifesteal			1	1	levelreq			5	5																																																																										0
+Crushed Gem + Any Ring	1			0					2	ring	ggg						useitem			100	red-mag			2	2	levelreq			4	4																																																																										0
+Holy Symbol + Any Ring	1			0					2	ring	hly						useitem			100	manasteal			1	1	levelreq			5	5																																																																										0
+Tyranium Ore + Any Ring	1			0					2	ring	ttt						useitem			100	red-dmg			2	2	levelreq			4	4																																																																										0
+Knout + Heart + Eye + Brain -> Khalim Flail	1			1					4	9fl	hart	eyes	bran				"qf3,rar"			100																																																																																				0
+Dire Flail + Heart + Eye + Brain -> Super Khalim Flail	1			1					4	0fl	hart	eyes	bran				"qf4,rar"			100																																																																																				0
+Magic Weapon + 1 Perf Ruby + Yegg's Firedagger -> Adds socket to weapon	1			1					3	"weap,mag"	"grb,qty=1"	Yegg's Firedagger					useitem			100	sock		3	3																																																																																0
+Unique Weapon + 1 Perf Ruby + Yegg's Firedagger -> Adds socket to weapon	1			1					4	"weap,uni"	"grb,qty=1"	"Yegg's Firedagger,qty=2"					useitem			100	sock		1	1																																																																																0
+Set Weapon + 1 Perf Ruby + Yegg's Firedagger -> Adds socket to weapon	1			1					3	"weap,set"	"grb,qty=1"	Yegg's Firedagger					useitem			100	sock		1	1																																																																																0
+Rare Weapon + 1 Perf Ruby + Yegg's Firedagger -> Adds socket to weapon	1			1					3	"weap,rar"	"grb,qty=1"	Yegg's Firedagger					useitem			100	sock		2	2	2																																																																															0
+Magic Shield + 3 Perf Amethyst + Stormwynd's Mania -> Rare Shield With 2 Sockets	1			1					5	"shld,mag"	"gvb,qty=3"	Stormwynd's Mania					"usetype,rar"			100	sock			2	2																																																																															0
+1 rare energy blade + 6 Perfect sapphire -> Secret of Mana	1			1					7	"9mn,rar"	"gbb,qty=6"						The Secret of Mana	100																																																																																						0
+"Any weapon + 3 Perfect amethyst -> Blinding magic sword swing100, att%100, dmg -10/-20"	1			1					4	"weap,any"	"gvb,qty=3"						"usetype,mag"			100	swing3			100	100	dmg-norm			10	20	att%			25	25																																																																					0
+cook book + steak -> elixir	1			1					2	yyy	zzz						elx																																																																																							0
+Death Blade + 4 Perfect Emeralds + Forging Hammer -> Sarevok's Master	1			1					6	0gd	"ggb,qty=4"	hh2					Sarevok's Master	100																																																																																						0
+Armor + 2 Perf Topaz + Tyranium Ore -> SF Armor	1			1					4	tors	"gyb,qty=2"	ttt					"usetype,mag"			100	gethit-skill		51	15	20																																																																															0
+Arrow Quiver + Ruby = Burning Arrows	1			100					2	aq2	gsr						"aq2,mag"			100	dmg-fire			2	12																																																																															0
+Arrow Quiver + Flawless Ruby = Burning Arrows	1			1					2	aq2	glr						"aq2,mag"			100	dmg-fire			3	18																																																																															0
+Arrow Quiver + Blemished Ruby = Burning Arrows	1			1					2	aq2	gpr						"aq2,mag"			100	dmg-fire			4	24																																																																															0
+Bolt Quiver + Ruby = Burning Bolts	1			1					2	cq2	gsr						"cq2,mag"			100	dmg-fire			2	12																																																																															0
+Bolt Quiver + Flawless Ruby = Burning Bolts	1			1					2	cq2	glr						"cq2,mag"			100	dmg-fire			3	18																																																																															0
+Bolt Quiver + Blemished Ruby = Burning Bolts	1			1					2	cq2	gpr						"cq2,mag"			100	dmg-fire			4	24																																																																															0
+Socket Missiles	1			1					2	cq2	gem5						"useitem,sock=1"			100																																																																																				0
+Socket Missiles	1			1					2	"jave,any"	gem5						"useitem,sock=1"			100																																																																																				0
+Socket Missiles	1			1					3	cq2	"gem5,qty=2"						"useitem,sock=2"			100																																																																																				0
+Socket Missiles	1			1					3	"jave,any"	"gem5,qty=2"						"useitem,sock=2"			100																																																																																				0
+Socket Missiles	1			1					4	cq2	"gem5,qty=3"						"useitem,sock=3"			100																																																																																				0
+Socket Missiles	1			1					4	"jave,any"	"gem5,qty=3"						"useitem,sock=3"			100																																																																																				0
+Socket Missiles	1			1					5	"jave,any"	"gem5,qty=4"						"useitem,sock=4"			100																																																																																				0
+Socket Missiles	1			1					2	"taxe,any"	gem5						"useitem,sock=1"			100																																																																																				0
+Socket Missiles	1			1					2	"tkni,any"	gem5						"useitem,sock=1"			100																																																																																				0
+Socket Missiles	1			1					3	"taxe,any"	"gem5,qty=2"						"useitem,sock=2"			100																																																																																				0
+Socket Missiles	1			1					3	"tkni,any"	"gem5,qty=2"						"useitem,sock=2"			100																																																																																				0
+Socket Missiles	1			1					4	"taxe,any"	"gem5,qty=3"						"useitem,sock=3"			100																																																																																				0
+Socket Missiles	1			1					4	"tkni,any"	"gem5,qty=3"						"useitem,sock=3"			100																																																																																				0
+Socket Missiles	1			1					5	"taxe,any"	"gem5,qty=4"						"useitem,sock=4"			100																																																																																				0
+Socket Missiles	1			1					2	"aq2,any"	gem5						"useitem,sock=1"			100																																																																																				0
+Socket Missiles	1			1					3	"aq2,any"	"gem5,qty=2"						"useitem,sock=2"			100																																																																																				0
+Socket Missiles	1			1					4	"aq2,any"	"gem5,qty=3"						"useitem,sock=3"			100																																																																																				0
+Magic Bow + 1 Perf Emerald + Spider's Silk -> Bow with 125% dmg/25% ar boost	1			1					3	"miss,mag"	ggb	sss					"usetype,mag"		100		dmg%			125	125	att%			25	25																																																																										0
+Magic Dagger + 1 Perf Skull + Blackmoor -> Dagger 50% Cast Level 10 Teeth on Atk	1			1					3	"knif,mag,upg"	skb	eee					useitem		100		att-skill		67	50	10																																																																															0
+"Magic Claw + 1 Perf Ruby + 1 Perf Emerald + -> 15% ias, +claw mastery"	1			1					4	"h2h,upg"	grb	ggb	ppp				"usetype,mag"		100		swing1			25	25	skill		261	2	2	dmg%			50	100																																																																					0
+"Magic Scepter + Holy Symbol + 1 Perf Diamond -> +150% dmg vs undead, +200% dmg vs demon, +200 ar vs undead, +200 ar vs demon"	1			1					3	"scep,upg"	hly	gwb					"usetype,mag"		100		dmg-undead			150	150	dmg-demon			200	200	att-undead			200	200	att-demon			200	200																																																																0
+Magic Helm + Crushed Gem + Mana Potion -> 100% dmg to mana	1			1					3	"helm,upg"	ggg	mp5					"usetype,mag"		100		dmg-to-mana			50	50																																																																															0
+magic helm + jewel + spider's silk + perfect emerald -> amazon helm	1			1				ama	4	"helm,mag"	jew	sss	ggb				"usetype,crf"		100		dex			10	20	enr			5	15	att%			10	25	ac%			25	75																																																																0
+magic boots + jewel + spider's silk + perfect emerald -> amazon boots	1			1				ama	4	"boot,mag"	jew	sss	ggb				"usetype,crf"		100		move1			10	30	skill		16	1	3	stam			20	60	ac%			20	60																																																																0
+magic gloves + jewel + spider's silk + perfect emerald -> amazon gloves	1			1				ama	4	"glov,mag"	jew	sss	ggb				"usetype,crf"		100		skill		9	1	3	skill		34	1	3	dex			10	20	ac%			20	60																																																																0
+magic belt + jewel + spider's silk + perfect emerald -> amazon belt	1			1				ama	4	"belt,mag"	jew	sss	ggb				"usetype,crf"		100		regen			5	15	str			10	20	vit			5	15	ac%			20	60																																																																0
+magic shield + jewel + spider's silk + perfect emerald -> amazon shield	1			1				ama	4	"shld,mag"	jew	sss	ggb				"usetype,crf"		100		block2			10	30	vit			10	20	block			10	20	ac%			30	90																																																																0
+magic armor + jewel + spider's silk + perfect emerald -> amazon armor	1			1				ama	4	"tors,mag"	jew	sss	ggb				"usetype,crf"		100		skill		29	1	3	skilltab		1	1	2	ac%			75	150																																																																					0
+magic amulet + jewel + spider's silk + perfect emerald -> amazon amulet	1			1				ama	4	"amul,mag"	jew	sss	ggb				"usetype,crf"		100		ama			1	3	dex			10	20	mana			10	20	res-all			10	20																																																																0
+magic ring + jewel + spider's silk + perfect emerald -> amazon ring	1			1				ama	4	"ring,mag"	jew	sss	ggb				"usetype,crf"		100		ama			1	2	dex			10	15	mana			10	30	dmg-min			1	6																																																																0
+magic amazon weap + jewel + spider's silk + perfect emerald -> amazon weapon	1			1				ama	4	"miss,mag"	jew	sss	ggb				"usetype,crf"		100		dmg%			125	250	swing2			20	40	skilltab		0	1	2																																																																					0
+magic weap + jewel + spider's silk + perfect emerald -> amazon weapon	1			1				ama	4	"mele,mag"	jew	sss	ggb				"usetype,crf"		100		dmg%			100	200	swing1			20	40	skill		34	1	3	skill		35	1	3																																																																0
+magic helm + jewel + dragon stone + perfect ruby -> assassin helm	1			1				ass	4	"helm,mag"	jew	ppp	grb				"usetype,crf"		100		dex			10	20	deadly			10	30	att			60	180	ac%			20	60																																																																0
+magic boots + jewel + dragon stone + perfect ruby -> assassin boots	1			1				ass	4	"boot,mag"	jew	ppp	grb				"usetype,crf"		100		move1			15	30	stamdrain			20	40	skill		278	1	3																																																																					0
+magic gloves + jewel + dragon stone + perfect ruby -> assassin gloves	1			1				ass	4	"glov,mag"	jew	ppp	grb				"usetype,crf"		100		skill		253	2	4	skill		259	1	3	skill		274	1	3	ac%			20	60																																																																0
+magic belt + jewel + dragon stone + perfect ruby -> assassin belt	1			1				ass	4	"belt,mag"	jew	ppp	grb				"usetype,crf"		100		red-mag			2	6	red-dmg			3	9	dex			10	20	ac%			30	90																																																																0
+magic shield + jewel + dragon stone + perfect ruby -> assassin shield	1			1				ass	4	"shld,mag"	jew	ppp	grb				"usetype,crf"		100		block1			15	30	skill		257	1	3	ac%			30	90																																																																					0
+magic armor + jewel + dragon stone + perfect ruby -> assassin armor	1			1				ass	4	"tors,mag"	jew	ppp	grb				"usetype,crf"		100		skill		254	1	3	skilltab		19	1	2	ac%			75	150																																																																					0
+magic amulet + jewel + dragon stone + perfect ruby -> assassin amulet	1			1				ass	4	"amul,mag"	jew	ppp	grb				"usetype,crf"		100		ass			1	3	dex			15	30	res-all			15	25																																																																					0
+magic ring + jewel + dragon stone + perfect ruby -> assassin ring	1			1				ass	4	"ring,mag"	jew	ppp	grb				"usetype,crf"		100		ass			1	2	dex			10	20	dmg-min			2	8																																																																					0
+magic assassin weap + jewel + dragon stone + ruby -> assassin weapon	1			1				ass	4	"asns,mag"	jew	ppp	grb				"usetype,crf"		100		dmg%			125	250	swing3			30	60	ass			1	2																																																																					0
+magic weap + jewel + dragon stone + ruby -> assassin weapon	1			1				ass	4	"weap,mag"	jew	ppp	grb				"usetype,crf"		100		dmg%			100	200	swing3			30	60	skill		256	1	3																																																																					0
+magic helm + jewel + blackmoor + perfect skull -> necro helm	1			1				nec	4	"helm,mag"	jew	eee	skb				"usetype,crf"		100		mana%			10	20	cast1			5	15	skilltab		8	1	2	ac%			30	90																																																																0
+magic boots + jewel + blackmoor + perfect skull -> necro boots	1			1				nec	4	"boot,mag"	jew	eee	skb				"usetype,crf"		100		move1			10	30	stam			20	60	ac%			20	60																																																																					0
+magic gloves + jewel + blackmoor + perfect skull -> necro gloves	1			1				nec	4	"glov,mag"	jew	eee	skb				"usetype,crf"		100		cast1			10	20	skill		69	1	3	skill		76	2	6																																																																					0
+magic belt + jewel + blackmoor + perfect skull -> necro belt	1			1				nec	4	"belt,mag"	jew	eee	skb				"usetype,crf"		100		red-mag			3	9	str			10	20	ac%			20	60																																																																					0
+magic shield + jewel + blackmoor + perfect skull -> necro shield	1			1				nec	4	"shld,mag"	jew	eee	skb				"usetype,crf"		100		block1			10	20	skill		67	2	4	ac%			40	120																																																																					0
+magic armor + jewel + blackmoor + perfect skull -> necro armor	1			1				nec	4	"tors,mag"	jew	eee	skb				"usetype,crf"		100		skill		68	1	3	skilltab		67	1	2	ac%			75	150																																																																					0
+magic amulet + jewel + blackmoor + perfect skull -> necro amulet	1			1				nec	4	"amul,mag"	jew	eee	skb				"usetype,crf"		100		nec			1	3	enr			10	30	res-all			10	20	cast1			10	20																																																																0
+magic ring + jewel + blackmoor + perfect skull -> necro ring	1			1				nec	4	"ring,mag"	jew	eee	skb				"usetype,crf"		100		nec			1	2	enr			10	20	hp			25	75																																																																					0
+magic necro weap + jewel + blackmoor + perfect skull -> necro weapon	1			1				nec	4	"ndgr,mag"	jew	eee	skb				"usetype,crf"		100		dmg%			125	250	swing3			35	70	skill		69	2	6																																																																					0
+magic weap + jewel + blackmoor + perfect skull -> necro weapon	1			1				nec	4	"weap,mag"	jew	eee	skb				"usetype,crf"		100		dmg%			100	200	swing2			30	60	crush			15	45																																																																					0
+magic helm + jewel + forging hammer + perfect amethyst -> barb helm	1			1				bar	4	"helm,mag"	jew	hh2	gvb				"usetype,crf"		100		hp%			10	20	ac%			40	120	skilltab		14	1	2																																																																					0
+magic boots + jewel + forging hammer + perfect amethyst -> barb boots	1			1				bar	4	"boot,mag"	jew	hh2	gvb				"usetype,crf"		100		move2			10	30	crush			10	20	ac%			25	75																																																																					0
+magic gloves + jewel + forging hammer + perfect amethyst -> barb gloves	1			1				bar	4	"glov,mag"	jew	hh2	gvb				"usetype,crf"		100		swing1			10	20	dex			10	20	ac%			20	60																																																																					0
+magic belt + jewel + forging hammer + perfect amethyst -> barb belt	1			1				bar	4	"belt,mag"	jew	hh2	gvb				"usetype,crf"		100		str			15	30	ac%			20	60	mana			20	40																																																																					0
+magic shield + jewel + forging hammer + perfect amethyst -> barb shield	1			1				bar	4	"shld,mag"	jew	hh2	gvb				"usetype,crf"		100		block			10	20	ac%			40	120	sock		1	1	1																																																																					0
+magic armor + jewel + forging hammer + perfect amethyst -> barb armor	1			1				bar	4	"tors,mag"	jew	hh2	gvb				"usetype,crf"		100		skill		145	1	3	skilltab		12	1	2	ac%			75	150																																																																					0
+magic amulet + jewel + forging hammer + perfect amethyst -> barb amulet	1			1				bar	4	"amul,mag"	jew	hh2	gvb				"usetype,crf"		100		bar			1	3	str			15	30	res-all			10	20	dmg-min			2	8																																																																0
+magic ring + jewel + forging hammer + perfect amethyst -> barb ring	1			1				bar	4	"ring,mag"	jew	hh2	gvb				"usetype,crf"		100		bar			1	2	str			10	20	dmg-min			1	6																																																																					0
+magic barb weap + jewel + forging hammer + amethyst -> barb weapon	1			1				bar	4	"bjav,mag"	jew	hh2	gvb				"usetype,crf"		100		dmg%			125	250	swing3			35	70	skill		139	2	6	skill		134	2	6																																																																0
+magic weap + jewel + forging hammer + amethyst -> barb weapon	1			1				bar	4	"weap,mag"	jew	hh2	gvb				"usetype,crf"		100		dmg%			100	200	swing2			20	40	skilltab		13	1	2																																																																					0
+magic helm + jewel + crushed gem + perfect saphire -> sorceress helm	1			1				sor	4	"helm,mag"	jew	ggg	gbb				"usetype,crf"		100		mana%			10	20	cast1			10	20	sor			1	1	ac%			20	60																																																																0
+magic boots + jewel + crushed gem + perfect saphire -> sorceress boots	1			1				sor	4	"boot,mag"	jew	ggg	gbb				"usetype,crf"		100		move1			10	30	stam			30	90	ac%			30	90																																																																					0
+magic gloves + jewel + crushed gem + perfect saphire -> sorceress gloves	1			1				sor	4	"glov,mag"	jew	ggg	gbb				"usetype,crf"		100		cast1			10	20	skill		45	2	6	mana			30	90																																																																					0
+magic belt + jewel + crushed gem + perfect saphire -> sorceress belt	1			1				sor	4	"belt,mag"	jew	ggg	gbb				"usetype,crf"		100		dmg-to-mana			20	60	balance3			20	40	ac%			20	60																																																																					0
+magic shield + jewel + crushed gem + perfect saphire -> sorceress shield	1			1				sor	4	"shld,mag"	jew	ggg	gbb				"usetype,crf"		100		ac%			40	120	skill		56	2	4	skill		53	2	4	block			10	20																																																																0
+magic armor + jewel + crushed gem + perfect saphire -> sorceress armor	1			1				sor	4	"tors,mag"	jew	ggg	gbb				"usetype,crf"		100		ease			-40	-40	thorns			50	150	ac%			75	150																																																																					0
+magic amulet + jewel + crushed gem + perfect saphire -> sorceress amulet	1			1				sor	4	"amul,mag"	jew	ggg	gbb				"usetype,crf"		100		sor			1	3	enr			15	30	res-all			10	20	cast1			10	20																																																																0
+magic ring + jewel + crushed gem + perfect saphire -> sorceress ring	1			1				sor	4	"ring,mag"	jew	ggg	gbb				"usetype,crf"		100		sor			1	2	enr			10	20	hp			30	90																																																																					0
+magic sorceress weap + jewel + crushed gem + perfect saphire -> sorceress weapon	1			1				sor	4	"mana,mag"	jew	ggg	gbb				"usetype,crf"		100		res-all			10	20	cast1			10	20	mana			25	75																																																																					0
+magic weap + jewel + crushed gem + perfect saphire -> sorceress weapon	1			1				sor	4	"weap,mag"	jew	ggg	gbb				"usetype,crf"		100		res-all			10	15	cast1			10	20	mana			20	60																																																																					0
+magic helm + jewel + holy symbol + perfect diamond -> paladin helm	1			1				pal	4	"helm,mag"	jew	hly	gwb				"usetype,crf"		100		ac%			40	120	crush			10	20	light			1	3																																																																					0
+magic boots + jewel + holy symbol + perfect diamond -> paladin boots	1			1				pal	4	"boot,mag"	jew	hly	gwb				"usetype,crf"		100		move1			10	30	stamdrain			15	45	ac%			25	75																																																																					0
+magic gloves + jewel + holy symbol + perfect diamond -> paladin gloves	1			1				pal	4	"glov,mag"	jew	hly	gwb				"usetype,crf"		100		str			10	20	dex			10	20	swing1			10	20	sock		1	1	1																																																																0
+magic belt + jewel + holy symbol + perfect diamond -> paladin belt	1			1				pal	4	"belt,mag"	jew	hly	gwb				"usetype,crf"		100		str			10	20	balance1			10	20	hp%			10	20																																																																					0
+magic shield + jewel + holy symbol + perfect diamond -> paladin shield	1			1				pal	4	"shld,mag"	jew	hly	gwb				"usetype,crf"		100		res-all			20	30	block			10	20	skill		118	2	4																																																																					0
+magic armor + jewel + holy symbol + perfect diamond -> paladin armor	1			1				pal	4	"tors,mag"	jew	hly	gwb				"usetype,crf"		100		ac%			100	200	res-all			10	20																																																																										0
+magic amulet + jewel + holy symbol + perfect diamond -> paladin amulet	1			1				pal	4	"amul,mag"	jew	hly	gwb				"usetype,crf"		100		pal			1	3	dex			10	20	str			10	20	res-all			10	20																																																																0
+magic ring + jewel + holy symbol + perfect diamond -> paladin ring	1			1				pal	4	"ring,mag"	jew	hly	gwb				"usetype,crf"		100		pal			1	2	dex			5	15	str			5	15	regen			5	15																																																																0
+magic paladin weap + jewel + holy symbol + perfect diamond -> paladin weapon	1			1				pal	4	"bedg,mag"	jew	hly	gwb				"usetype,crf"		100		dmg%			125	250	swing1			20	40	att%			50	150																																																																					0
+magic weap + jewel + holy symbol + perfect diamond -> paladin weapon	1			1				pal	4	"weap,mag"	jew	hly	gwb				"usetype,crf"		100		dmg%			100	200	swing1			15	30	att%			25	75																																																																					0
+magic helm + jewel + ore + perfect topaz -> druid helm	1			1				dru	4	"helm,mag"	jew	ttt	gyb				"usetype,crf"		100		enr			10	20	vit			10	20	cast1			10	20	swing1			10	20																																																																0
+magic boots + jewel + ore + perfect topaz -> druid boots	1			1				dru	4	"boot,mag"	jew	ttt	gyb				"usetype,crf"		100		move1			10	30	gethit-skill		232	10	3	regen-stam			15	45																																																																					0
+magic gloves + jewel + ore + perfect topaz -> druid gloves	1			1				dru	4	"glov,mag"	jew	ttt	gyb				"usetype,crf"		100		skill		238	2	6	skill		235	2	4	skill		250	2	4	skill		225	2	6																																																																0
+magic belt + jewel + ore + perfect topaz -> druid belt	1			1				dru	4	"belt,mag"	jew	ttt	gyb				"usetype,crf"		100		balance1			10	20	str			10	20	ac%			30	90																																																																					0
+magic shield + jewel + ore + perfect topaz -> druid shield	1			1				dru	4	"shld,mag"	jew	ttt	gyb				"usetype,crf"		100		block1			10	20	vit			10	20	ac%			40	120																																																																					0
+magic armor + jewel + ore + perfect topaz -> druid armor	1			1				dru	4	"tors,mag"	jew	ttt	gyb				"usetype,crf"		100		skill		226	1	3	skilltab		16	1	2	ac%			75	150																																																																					0
+magic amulet + jewel + ore + perfect topaz -> druid amulet	1			1				dru	4	"amul,mag"	jew	ttt	gyb				"usetype,crf"		100		dru			1	3	hp			25	75	mana			25	75	res-all			10	20																																																																0
+magic ring + jewel + ore + perfect topaz -> druid ring	1			1				dru	4	"ring,mag"	jew	ttt	gyb				"usetype,crf"		100		dru			1	2	hp			20	60	mana			20	60	regen	50		1	20	regen-mana	50		1	20																																																											0
+magic druid weap + jewel + ore + perfect topaz -> druid weapon	1			1				dru	4	"dclb,mag"	jew	ttt	gyb				"usetype,crf"		100		dmg%			125	250	swing2			20	40	att%			20	40																																																																					0
+magic weap + jewel + ore + perfect topaz -> druid weapon	1			1				dru	4	"weap,mag"	jew	ttt	gyb				"usetype,crf"		100		dmg%			100	200	swing1			10	20	att%			15	30																																																																					0
+Spider's Silk + Any Weapon				1					2	"weap,eth"	sss						useitem			100	att			100	100	ease			15	15																																																																										0
+Dragon Stone + Any Weapon				1					2	"weap,eth"	ppp						useitem			100	swing1			20	20	ease			15	15																																																																										0
+Blackmoor + Any Weapon				1					2	"weap,eth"	eee						useitem			100	dmg-pois		50	256	512	ease			15	15																																																																										0
+Forging Hammer + Any Weapon				1					2	"weap,eth"	hh2						useitem			100	dmg%			50	50	ease			15	15																																																																										0
+Crushed Gem + Any Weapon				1					2	"weap,eth"	ggg						useitem			100	mana			30	30	ease			15	15																																																																										0
+Holy Symbol + Any Weapon				1					2	"weap,eth"	hly						useitem			100	dmg-demon			75	75	dmg-undead			75	75	ease			15	15																																																																					0
+Tyranium Ore + Any Weapon				1					2	"weap,eth"	ttt						useitem			100	hp			30	30	ease			15	15																																																																										0
+Tyranium Ore + Forging Hammer -> Helm with 1 socket	1			1					2	"ttt,qty=1"	hh2						"ylm,sock=1"	100			sock		1	1	1																																																																															0
+Tyranium Ore + Forging Hammer -> Helm with 2 sockets	1			1					3	"ttt,qty=2"	hh2						"ylm,sock=2"	100			sock		2	2	2																																																																															0
+Tyranium Ore + Forging Hammer -> Helm with 3 sockets	1			1					4	"ttt,qty=3"	hh2						"ylm,sock=3"	100			sock		3	3	3																																																																															0
+Blackmoor + Crushed Gem -> Rune 5	1			1					2	eee	ggg						r10																																																																																							0
+Dragon Stone + Holy Symbol -> Flawed Diamond	1			1					2	ppp	hly						gfw																																																																																							0
+Spider's Silk + 20 Player Ears + 5 Perfect Gems -> String Of Ears	1			1					26	sss	"ear,qty=20"	"gem5,qty=5"					String of Ears	100																																																																																						0
+Perfect Cell + Magic Cloak + Bakou's Sharpshooter -> Lothar's Cape	1			1					3	The Perfect Cell	"clk,mag,upg"	Bakou's Sharpshooter					Lothar's Cape	100																																																																																						0
+3 perfect gems + 1 magic item -> magic item	1			1					4	"any,mag"	"gem5,qty=3"						"usetype,mag"			100																																																																																				0
+6 Perfect skulls + 1 rare item -> 1 low level rare item				1					7	"any,rar"	"skz,qty=6"						"usetype,rar"		66	66																																																																																				0
+Scalp + Brain + Jawbone + Eye + Horn + Fang = Zombie Head (Necro Shield)	1			1					6	scz	brz	jaw	eyz	hrn	fng		"ne2,rar"	30																																																																																						0
+Scalp + Brain + Jawbone + Eye + Horn + Fang = Fetish Trophy (Necro Shield)	1			1					6	sc2	br2	ja2	eyz	hn2	fn2		"ne7,rar"	60																																																																																						0
+Scalp + Brain + Jawbone + Eye + Horn + Fang = Hellspawn Skull (Necro Shield)	1			1					6	sc3	br3	ja3	eyz	hn3	fn3		"nec,rar"	90																																																																																						0
+Full Helm + 2 Horns + Forging Hammer -> Great Helm	1			1					4	"fhl,any"	hh2	"horn,qty=2"					"ghm,rar"	30																																																																																						0
+Basinet + 2 Horns + Forging Hammer -> Winged Helm	1			1					4	"xhl,any"	hh2	"horn,qty=2"					"xhm,rar"	60																																																																																						0
+Gladiator Helm + 2 Horns + Forging Hammer -> Tusk Helm	1			1					4	"yhl,any"	hh2	"horn,qty=2"					"yhm,rar"	90																																																																																						0
+Necro Head + 2 Horns + Forging Hammer -> Bone Helm	1			1					4	head	"hrn,qty=2"	hh2					"bhm,mag"	30																																																																																						0
+Necro Head + 2 Horns + Forging Hammer -> Grim Helm	1			1					4	head	"hn2,qty=2"	hh2					"xh9,mag"	60																																																																																						0
+Necro Head + 2 Horns + Forging Hammer -> Demon Helm	1			1					4	head	"hn3,qty=2"	hh2					"yh9,mag"	90																																																																																						0
+Any Low Quality Weapon + 2 Fangs -> Normal Quality	1			1					3	"weap,low"	"fang,qty=2"						"usetype,nor"			100																																																																																				0
+Any Normal Weapon + 3 Fangs -> High Quality	1			1					4	"weap,nor"	"fang,qty=3"						"usetype,hiq"			100																																																																																				0
+"Any Normal Helm + 2 Eyes -> Magic Helm w/ +2 Light Radius, +50 Atk Rating"	1			1					3	"helm,nor"	"eyz,qty=2"						"usetype,mag"			100	light			2	2	att			50	50																																																																										0
+Any Armor + 5 Quills -> Thorns +5	1			1					6	"tors,any"	"quil,qty=5"						useitem			100	thorns			5	5																																																																															0
+3 Hearts + 3 Souls -> Full Rejuv	1			1					6	"hart,qty=3"	"soul,qty=3"						rvl																																																																																							0
+2 Hearts + 2 Souls -> Full Rejuv	1			1					4	"hart,qty=2"	"soul,qty=2"						"rvs,qty=2"																																																																																							0
+Heart + Soul -> Rejuv	1			1					2	hart	soul						rvs																																																																																							0
+Spleen + Any Potion -> Antidote	1			1					2	spln	hpot						yps																																																																																							0
+Heart + Any Potion -> Stamina Pot	1			1					2	hart	hpot						vps																																																																																							0
+Soul + Any Potion -> Thawing Pot	1			1					2	soul	hpot						wms																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=6"	hh2	ggg					"useitem,rem"																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=5"	hh2	ggg					"useitem,rem"																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=4"	hh2	ggg					"useitem,rem"																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=3"	hh2	ggg					"useitem,rem"																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=2"	hh2	ggg					"useitem,rem"																																																																																							0
+Forging Hammer + Crushed Gem + Socketed Item -> Remove Items in Sockets	1			1					3	"any,sock=1"	hh2	ggg					"useitem,rem"																																																																																							0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					2	"any,rar"	gem5						"usetype,rar"	50																																																																																						0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					3	"any,rar"	"gem5,qty=2"						"usetype,rar"	60																																																																																						0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					4	"any,rar"	"gem5,qty=3"						"usetype,rar"	70																																																																																						0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					5	"any,rar"	"gem5,qty=4"						"usetype,rar"	80																																																																																						0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					6	"any,rar"	"gem5,qty=5"						"usetype,rar"	90																																																																																						0
+Rare Item + Perf Gem -> Rerolled Rare	1			1					7	"any,rar"	"gem5,qty=6"						"usetype,rar"	100																																																																																						0
+Holy Symbol + Any Gem -> Amulet	1			1					2	hly	gem						"amu,mag"	30																																																																																						0
+Any Charm + 2 Blemished Gems of Each Type -> Crafted Charm	1			1					13	cm1	"gpv,qty=2"	"gpy,qty=2"	"gpb,qty=2"	"gpg,qty=2"	"gpr,qty=2"	"gpw,qty=2"	"cc1,crf"			100	dmg-min			1	1	mana			5	5	hp			5	5	cast1	5		5	5	swing1	15		5	5																																																											0
+Any Charm + 2 Blemished Gems of Each Type -> Crafted Charm	1			1					13	cm2	"gpv,qty=2"	"gpy,qty=2"	"gpb,qty=2"	"gpg,qty=2"	"gpr,qty=2"	"gpw,qty=2"	"cc2,crf"			100	dmg-min			1	1	mana			10	10	hp			10	10	cast1	10		7	7	swing1	20		7	7																																																											0
+Any Charm + 2 Blemished Gems of Each Type -> Crafted Charm	1			1					13	cm3	"gpv,qty=2"	"gpy,qty=2"	"gpb,qty=2"	"gpg,qty=2"	"gpr,qty=2"	"gpw,qty=2"	"cc3,crf"			100	dmg-min			1	1	mana			15	15	hp			15	15	cast1	25		9	9	swing1	25		9	9																																																											0
+Each of 7 Crafting Items -> Rare Jewel	1			1					7	eee	ggg	hh2	hly	ppp	sss	ttt	"jew,rar"			100																																																																																				0
+Magic Khalim's Flail + Dragon Stone + Forging Hammer -> Rare Khalim's Flail	1			1					3	"qf3,mag"	ppp	hh2					"usetype,rar"			100																																																																																				0
+Magic Super Khalim's Flail + Dragon Stone + Blackmoor + Forging Hammer -> Rare Khalim's Flail	1			1					4	"qf4,mag"	ppp	hh2	eee				"usetype,rar"			100																																																																																				0
+Normal Boot + Dragon Stone -> Magic Boots w/ 20% Faster Run/Walk	1			1					2	"boot,nor"	ppp						"usetype,mag"			100	move2			20	20																																																																															0
+2 Blemished Saph/Topaz/Ruby/Emerald + Charm -> Charm of Shielding	1			1					9	cm1	"gpb,qty=2"	"gpy,qty=2"	"gpg,qty=2"	"gpr,qty=2"			"useitem,suf=914"			100																																																																																				0
+2 Blemished Saph/Topaz/Ruby/Emerald + Charm -> Charm of Shielding	1			1					9	cm2	"gpb,qty=2"	"gpy,qty=2"	"gpg,qty=2"	"gpr,qty=2"			"useitem,mag,suf=913"			100																																																																																				0
+2 Blemished Saph/Topaz/Ruby/Emerald + Charm -> Charm of Shielding	1			1					9	cm3	"gpb,qty=2"	"gpy,qty=2"	"gpg,qty=2"	"gpr,qty=2"			"useitem,mag,suf=912"			100																																																																																				0
+Magic Gloves + 1 Perf Ruby + Forging Hammer -> Messerschmidt's Burning Palm	1			1					3	"glov,mag"	grb	hh2					Messerschmidt's Burning Palm			100																																																																																				0
+Unique + Blackmoor + 6 Perf Skulls -> +1 Necro Unique	1			100				nec	8	"any,uni"	eee	"skb,qty=6"					"usetype,uni"		100		nec			1	1																																																																															0
+Unique + Crushed Gem + 6 Perf Saphs -> +1 Sorc Unique	1			100				sor	8	"any,uni"	ggg	"gbb,qty=6"					"usetype,uni"		100		sor			1	1																																																																															0
+Unique + Forging Hammer + 6 Perf Amethysts  -> +1 Barb Unique	1			100				bar	8	"any,uni"	hh2	"gvb,qty=6"					"usetype,uni"		100		bar			1	1																																																																															0
+Unique + Holy Symbol + 6 Perf Diamonds -> +1 Pally Unique	1			100				pal	8	"any,uni"	hly	"gwb,qty=6"					"usetype,uni"		100		pal			1	1																																																																															0
+Unique + Dragon Stone + 6 Perf Rubies -> +1 Ass Unique	1			100				ass	8	"any,uni"	ppp	"grb,qty=6"					"usetype,uni"		100		ass			1	1																																																																															0
+Unique + Spider's Silk + 6 Perf Emerald -> +1 Zon Unique	1			100				ama	8	"any,uni"	sss	"ggb,qty=6"					"usetype,uni"		100		ama			1	1																																																																															0
+Unique + Tyranium Ore + 6 Perf Topazes -> +1 Druid Unique	1			100				dru	8	"any,uni"	ttt	"gyb,qty=6"					"usetype,uni"		100		dru			1	1																																																																															0
+Unique + 6 Blackmoor + Perf Skull -> 20% Cast Unique	1			100				nec	8	"any,uni"	"eee,qty=6"	skb					"usetype,uni"		100		cast2			20	20																																																																															0
+Unique + 6 Crushed Gem + Perf Saph -> 20% Mana Unique	1			100				sor	8	"any,uni"	"ggg,qty=6"	gbb					"usetype,uni"		100		mana%			20	20																																																																															0
+Unique + 6 Forging Hammer + Perf Amethyst  -> +15 Dmg Unique	1			100				bar	8	"any,uni"	"hh2,qty=6"	gvb					"usetype,uni"		100		dmg-norm			15	15																																																																															0
+Unique + 6 Holy Symbol + Perf Diamond -> +50 Def Unique	1			100				pal	8	"any,uni"	"hly,qty=6"	gwb					"usetype,uni"		100		ac			50	50																																																																															0
+Unique + 6 Dragon Stone + Perf Ruby -> 30% IAS Unique	1			100				ass	8	"any,uni"	"ppp,qty=6"	grb					"usetype,uni"		100		swing3			30	30																																																																															0
+Unique + 6 Spider's Silk + Perf Emerald -> 20% Bonus AR Unique	1			100				ama	8	"any,uni"	"sss,qty=6"	ggb					"usetype,uni"		100		att%			20	20																																																																															0
+Unique + 6 Tyranium Ore + Perf Topaz -> 20% Life Unique	1			100				dru	8	"any,uni"	"ttt,qty=6"	gyb					"usetype,uni"		100		hp%			20	20																																																																															0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				nec	6	"char,mag"	"char,uni"	eee	"skb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				sor	6	"char,mag"	"char,uni"	ggg	"gbb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				bar	6	"char,mag"	"char,uni"	hh2	"gvb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				pal	6	"char,mag"	"char,uni"	hly	"gwb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				ass	6	"char,mag"	"char,uni"	ppp	"grb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				ama	6	"char,mag"	"char,uni"	sss	"ggb,qty=3"				"cc3,crf"			100																																																																																				0
+Charm + Perf Charm + Crafting Item -> Crafted Charm	1			1				dru	6	"char,mag"	"char,uni"	ttt	"gyb,qty=3"				"cc3,crf"			100																																																																																				0
+Set + Blackmoor + 6 Perf Skulls -> +1 Necro Set	1			1				nec	8	"any,set"	eee	"skb,qty=6"					"useitem"	100	100	100	nec			1	1																																																																															0
+Set + Crushed Gem + 6 Perf Saphs -> +1 Sorc Set	1			1				sor	8	"any,set"	ggg	"gbb,qty=6"					"useitem"	100	100	100	sor			1	1																																																																															0
+Set + Forging Hammer + 6 Perf Amethysts  -> +1 Barb Set	1			1				bar	8	"any,set"	hh2	"gvb,qty=6"					"useitem"	100	100	100	bar			1	1																																																																															0
+Set + Holy Symbol + 6 Perf Diamonds -> +1 Pally Set	1			1				pal	8	"any,set"	hly	"gwb,qty=6"					"useitem"	100	100	100	pal			1	1																																																																															0
+Set + Dragon Stone + 6 Perf Rubies -> +1 Ass Set	1			1				ass	8	"any,set"	ppp	"grb,qty=6"					"useitem"	100	100	100	ass			1	1																																																																															0
+Set + Spider's Silk + 6 Perf Emerald -> +1 Zon Set	1			1				ama	8	"any,set"	sss	"ggb,qty=6"					"useitem"	100	100	100	ama			1	1																																																																															0
+Set + Tyranium Ore + 6 Perf Topazes -> +1 Druid Set	1			1				dru	8	"any,set"	ttt	"gyb,qty=6"					"useitem"	100	100	100	dru			1	1																																																																															0
+Set + 6 Blackmoor + Perf Skull -> 20% Cast Set	1			1				nec	8	"any,set"	"eee,qty=6"	skb					"useitem"	100	100	100	cast2			20	20																																																																															0
+Set + 6 Crushed Gem + Perf Saph -> 20% Mana Set	1			1				sor	8	"any,set"	"ggg,qty=6"	gbb					"useitem"	100	100	100	mana%			20	20																																																																															0
+Set + 6 Forging Hammer + Perf Amethyst  -> +15 Dmg Set	1			1				bar	8	"any,set"	"hh2,qty=6"	gvb					"useitem"	100	100	100	dmg-norm			15	15																																																																															0
+Set + 6 Holy Symbol + Perf Diamond -> +50 Def Set	1			1				pal	8	"any,set"	"hly,qty=6"	gwb					"useitem"	100	100	100	ac			50	50																																																																															0
+Set + 6 Dragon Stone + Perf Ruby -> 30% IAS Set	1			1				ass	8	"any,set"	"ppp,qty=6"	grb					"useitem"	100	100	100	swing3			30	30																																																																															0
+Set + 6 Spider's Silk + Perf Emerald -> 20% Bonus AR Set	1			1				ama	8	"any,set"	"sss,qty=6"	ggb					"useitem"	100	100	100	att%			20	20																																																																															0
+Set + 6 Tyranium Ore + Perf Topaz -> 20% Life Set	1			1				dru	8	"any,set"	"ttt,qty=6"	gyb					"useitem"	100	100	100	hp%			20	20																																																																															0
+Magic Freezing Item + Gloves + Forging Hammer -> Hands of Weir	1			1					3	"any,mag,suf=47"	"glov,any"	hh2					The Hands of Wier		100	100																																																																																				0
+Any Rare + 3 Perf Gems -> High Level Rare	1			1					4	"any,rar"	"gem5,qty=3"						"usetype,rar"	100																																																																																						0
+Any Crafted Weapon + 6 Perf Amethysts + Dragon Stone + Forging Hammer -> Unique Weapon	1			1					9	"weap,crf"	"gvb,qty=6"	hh2	ppp				"usetype,uni"	100																																																																																						0
+Any Crafted Armor + 6 Perf Diamonds + Holy Symbol + Forging Hammer -> Unique Armor	1			1					9	"armo,crf"	"gwb,qty=6"	hh2	hly				"usetype,uni"	100																																																																																						0
+Any Crafted Amulet + 6 Perf Saphires + Crushed Gem + Forging Hammer -> Unique Misc	1			1					9	"amul,crf"	"gbb,qty=6"	hh2	ggg				"usetype,uni"	100																																																																																						0
+Any Crafted Ring + 6 Perf Saphires + Crushed Gem + Forging Hammer -> Unique Misc	1			1					9	"ring,crf"	"gbb,qty=6"	hh2	ggg				"usetype,uni"	100																																																																																						0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					4	"weap,nor,nos"	hh2	ggg	gem5				"useitem"	100			sock		1	1	1																																																																															0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					5	"weap,nor,nos"	hh2	ggg	"gem5,qty=2"				"useitem"	100			sock		2	2	2																																																																															0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					6	"weap,nor,nos"	hh2	ggg	"gem5,qty=3"				"useitem"	100			sock		3	3	3																																																																															0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					7	"weap,nor,nos"	hh2	ggg	"gem5,qty=4"				"useitem"	100			sock		4	4	4																																																																															0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					8	"weap,nor,nos"	hh2	ggg	"gem5,qty=5"				"useitem"	100			sock		5	5	5																																																																															0
+Normal Weapon + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					9	"weap,nor,nos"	hh2	ggg	"gem5,qty=6"				"useitem"	100			sock		6	6	6																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					4	"armo,nor,nos"	hh2	ggg	gem5				"useitem"	100			sock		1	1	1																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					5	"armo,nor,nos"	hh2	ggg	"gem5,qty=2"				"useitem"	100			sock		2	2	2																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					6	"armo,nor,nos"	hh2	ggg	"gem5,qty=3"				"useitem"	100			sock		3	3	3																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					7	"armo,nor,nos"	hh2	ggg	"gem5,qty=4"				"useitem"	100			sock		4	4	4																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					8	"armo,nor,nos"	hh2	ggg	"gem5,qty=5"				"useitem"	100			sock		5	5	5																																																																															0
+Normal Armor + Forging Hammer + Crushed Gem + x Perf Gem -> Adds x Sockets	1			1					9	"armo,nor,nos"	hh2	ggg	"gem5,qty=6"				"useitem"	100			sock		6	6	6																																																																															0
+Spider's Silk + 3 Perf Gems + Rare Item	1			1					5	"weap,rar"	sss	"gem5,qty=3"					"useitem,mod"			100	att			100	100																																																																															0
+Dragon Stone + 3 Perf Gems + Rare Item	1			1					5	"weap,rar"	ppp	"gem5,qty=3"					"useitem,mod"			100	swing1			20	20																																																																															0
+Blackmoor + 3 Perf Gems + Rare Item	1			1					5	"weap,rar"	eee	"gem5,qty=3"					"useitem,mod"			100	dmg-pois		50	256	512																																																																															0
+Forging Hammer + 3 Perf Gems + Rare Item	1			1					5	"weap,rar"	hh2	"gem5,qty=3"					"useitem,mod"			100	dmg%			50	50																																																																															0
+Crushed Gem + 3 Perf Gems + Rare Item	1			1					5	"any,rar"	ggg	"gem5,qty=3"					"useitem,mod"			100	mana			30	30																																																																															0
+Holy Symbol + 3 Perf Gems + Rare Item	1			1					5	"any,rar"	hly	"gem5,qty=3"					"useitem,mod"			100	dmg-demon			75	75	dmg-undead			75	75																																																																										0
+Tyranium Ore + 3 Perf Gems + Rare Item	1			1					5	"any,rar"	ttt	"gem5,qty=3"					"useitem,mod"			100	hp			30	30																																																																															0
+Spider's Silk + 10 Perf Gems + Unique Item	1			1					12	"weap,uni"	sss	"gem5,qty=10"					"useitem,mod"			100	att			100	100																																																																															0
+Dragon Stone + 10 Perf Gems + Unique Item	1			1					12	"weap,uni"	ppp	"gem5,qty=10"					"useitem"			100	swing1			20	20																																																																															0
+Blackmoor + 10 Perf Gems + Unique Item	1			1					12	"weap,uni"	eee	"gem5,qty=10"					"useitem"			100	dmg-pois		50	256	512																																																																															0
+Forging Hammer + 10 Perf Gems + Unique Item	1			1					12	"weap,uni"	hh2	"gem5,qty=10"					"useitem"			100	dmg%			50	50																																																																															0
+Crushed Gem + 10 Perf Gems + Unique Item	1			1					12	"any,uni"	ggg	"gem5,qty=10"					"useitem"			100	mana			30	30																																																																															0
+Holy Symbol + 10 Perf Gems + Unique Item	1			1					12	"any,uni"	hly	"gem5,qty=10"					"useitem"			100	dmg-demon			75	75	dmg-undead			75	75																																																																										0
+Tyranium Ore + 10 Perf Gems + Unique Item	1			1					12	"any,uni"	ttt	"gem5,qty=10"					"useitem"			100	hp			30	30																																																																															0
+Small Charm + Elixir -> Charm with +1 str/dex/vit/enr	1			1					2	cm1	elx						cm1			100	str			1	1	dex			1	1	vit			1	1	enr			1	1																																																																0
+Large Charm + Elixir -> Charm with +2 str/dex/vit/enr	1			1					2	cm2	elx						cm2			100	str			2	2	dex			2	2	vit			2	2	enr			2	2																																																																0
+Grand Charm + Elixir -> Charm with +3 str/dex/vit/enr	1			1					2	cm3	elx						cm3			100	str			3	3	dex			3	3	vit			3	3	enr			3	3																																																																0
+Unique Jewel + Blackmoor + 6 Perf Skulls -> Rerolled Jewel	1			1				nec	8	jw2	eee	"skb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Crushed Gem + 6 Perf Saphs -> Rerolled Jewel	1			1				sor	8	jw2	ggg	"gbb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Forging Hammer + 6 Perf Amethysts  -> Rerolled Jewel	1			1				bar	8	jw2	hh2	"gvb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Holy Symbol + 6 Perf Diamonds -> Rerolled Jewel	1			1				pal	8	jw2	hly	"gwb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Dragon Stone + 6 Perf Rubies -> Rerolled Jewel	1			1				ass	8	jw2	ppp	"grb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Spider's Silk + 6 Perf Emerald -> Rerolled Jewel	1			1				ama	8	jw2	sss	"ggb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + Tyranium Ore + 6 Perf Topazes -> Rerolled Jewel	1			1				dru	8	jw2	ttt	"gyb,qty=6"					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Blackmoor + Perf Skull -> Rerolled Jewel	1			1				nec	8	jw2	"eee,qty=6"	skb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Crushed Gem + Perf Saph -> Rerolled Jewel	1			1				sor	8	jw2	"ggg,qty=6"	gbb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Forging Hammer + Perf Amethyst  -> Rerolled Jewel	1			1				bar	8	jw2	"hh2,qty=6"	gvb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Holy Symbol + Perf Diamond -> Rerolled Jewel	1			1				pal	8	jw2	"hly,qty=6"	gwb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Dragon Stone + Perf Ruby -> Rerolled Jewel	1			1				ass	8	jw2	"ppp,qty=6"	grb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Spider's Silk + Perf Emerald -> Rerolled Jewel	1			1				ama	8	jw2	"sss,qty=6"	ggb					"usetype,uni"	100	100	100																																																																																				0
+Unique Jewel + 6 Tyranium Ore + Perf Topaz -> Rerolled Jewel	1			1				dru	8	jw2	"ttt,qty=6"	gyb					"usetype,uni"	100	100	100																																																																																				0
+Unique Odd Charm + Any -> +random skill				1					2	any	dev						useitem				skill-rand		40	6	155	skill-rand		40	221	280	skill-rand	5	40	360	366																																																																					0
+Jawbone + Scalp + Eye -> Flawed Skull	1			1					3	jawb	sclp	eyes					skf																																																																																							0
+Any + Item +Light Radius -> Item +Full Set Aura	1			1					2	any	"any,mag,suf=1945"						useitem			100	state		fullsetgeneric	1	1																																																																															0
+Any + Item +Light Radius -> Item +Full Set Aura	1			1					2	any	"any,mag,suf=1946"						useitem			100	state		fullsetgeneric	1	1																																																																															0
+Any + Item +Light Radius -> Item +Full Set Aura	1			1					2	any	"any,mag,suf=1947"						useitem			100	state		fullsetgeneric	1	1																																																																															0
+Weapon + Tyranium Ore + Full Rejuv -> Replenish Dur Weapon	1			1					3	"weap,noe"	ttt	rvl					useitem			100	rep-dur		5																																																																																	0
+Armor + Tyranium Ore + Full Rejuv -> Replenish Dur Armor	1			1					3	"armo,noe"	ttt	rvl					useitem			100	rep-dur		5																																																																																	0
+Armor + Perf Diamond + Perf Topaz + Crushed Gem -> Armor -Vendor Prices 3%	1			1					4	armo	gwb	gyb	ggg				useitem			100	cheap			3	3	levelreq			1	1																																																																										0
+Weapon + Perf Saphire + Perf Ruby + Tyranium Ore -> Weapon -Vendor Prices 3%	1			1					4	weap	gbb	grb	ggg				useitem			100	cheap			3	3	levelreq			1	1																																																																										0
+Forging Hammer + Crushed Gem -> 3 Chipped Diamonds	1			1					2	hh2	ggg						gcw			100																										gcw																													gcw																													0
+Any Normal + Quill -> Thorns +1	1			1					2	"any,nor"	qll						useitem			100	thorns			1	1																																																																															0
+Any Normal + Quill + Fang + Chipped Topaz -> Lightning Thorns +1	1			1					4	"any,nor"	qll	fng	gcy				useitem			100	thorns			1	1																																																																															0
+Helm + Brain + Forging Hammer -> +1 Energy	1			1					3	"helm,nor"	hh2	bran					useitem			100	enr			1	1																																																																															0
+Jawbone Cap + Jawbone + Forging Hammer + Crushed Gem -> Damage Reduced by 2	1			1					4	ba1	jawb	hh2	ggg				useitem			100	red-dmg			2	2																																																																															0
+Jawbone Visor + Jawbone + Forging Hammer + Crushed Gem -> Damage Reduced by 2	1			1					4	ba6	jawb	hh2	ggg				useitem			100	red-dmg			2	2																																																																															0
+Carnage Helm + Jawbone + Forging Hammer + Crushed Gem -> Damage Reduced by 2	1			1					4	bab	jawb	hh2	ggg				useitem			100	red-dmg			2	2																																																																															0
+Boots + Tail + Forging Hammer -> +5% Faster Run/Walk	1			1					3	"boot,nor"	tail	hh2					useitem			100	move1			5	5																																																																															0
+Tyranium Ore + Blackmoor + Forging Hammer -> E Rune (r18)	1			1					3	ttt	eee	hh2					r18			100																																																																																				0
+Magic Weapon + 5 Chipped Obsidians + Tomb of Town Portal -> Normal Weapon	1			1					7	"weap,mag"	"gck,qty=5"	tbk					"usetype,nor"		100	100																																																																																				0
+Magic Armor + 5 Chipped Diamonds + Tomb of Identify -> Normal Armor	1			1					7	"armo,mag"	"gcw,qty=5"	ibk					"usetype,nor"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,nos"	hh2	ttt	ppp				"usetype,nor,sock=1"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,sock=1"	"hh2,qty=2"	ttt	ppp				"usetype,nor,sock=2"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,sock=2"	"hh2,qty=3"	ttt	ppp				"usetype,nor,sock=3"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,sock=3"	"hh2,qty=4"	ttt	ppp				"usetype,nor,sock=4"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,sock=4"	"hh2,qty=5"	ttt	ppp				"usetype,nor,sock=5"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon	1			1					4	"weap,nor,sock=5"	"hh2,qty=6"	ttt	ppp				"usetype,nor,sock=6"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon				1					4	"weap,nor,sock=6"	hh2	ttt	ppp				"usetype,nor,sock=7"		100	100																																																																																				0
+Normal Weapon + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Weapon				1					4	"weap,nor,sock=7"	hh2	ttt	ppp				"usetype,nor,sock=8"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					4	"armo,nor,nos"	hh2	ttt	ppp				"usetype,nor,sock=1"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					5	"armo,nor,sock=1"	"hh2,qty=2"	ttt	ppp				"usetype,nor,sock=2"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					6	"armo,nor,sock=2"	"hh2,qty=3"	ttt	ppp				"usetype,nor,sock=3"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					7	"armo,nor,sock=3"	"hh2,qty=4"	ttt	ppp				"usetype,nor,sock=4"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					8	"armo,nor,sock=4"	"hh2,qty=5"	ttt	ppp				"usetype,nor,sock=5"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor	1			1					9	"armo,nor,sock=5"	"hh2,qty=6"	ttt	ppp				"usetype,nor,sock=6"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor				1					10	"armo,nor,sock=6"	"hh2,qty=7"	ttt	ppp				"usetype,nor,sock=7"		100	100																																																																																				0
+Normal Armor + Forging Hammer + Tyranium Ore + Dragon Stone -> +1 Sockets Normal Armor				1					4	"armo,nor,sock=7"	hh2	ttt	ppp				"usetype,nor,sock=8"		100	100																																																																																				0
+Ring + Crushed Gem + Perf Saphire -> Sorcerer's Band +1 Random Skilltab	1			1					3	"ring,mag"	ggg	gbb					srn		100	100	skilltab	33	3	1	1	skilltab	33	4	1	1	skilltab	33	5	1	1																																																																					0
+Ring + Spider's Silk + Perf Emerald -> Amazonian Loop +1 Random Skilltab	1			1					3	"ring,mag"	sss	ggb					zrn		100	100	skilltab	33	0	1	1	skilltab	33	1	1	1	skilltab	33	2	1	1																																																																					0
+Ring + Tyranium Ore + Perf Topaz -> Druid's Seal +1 Random Skilltab	1			1					3	"ring,mag"	ttt	gyb					drn		100	100	skilltab	33	15	1	1	skilltab	33	16	1	1	skilltab	33	17	1	1																																																																					0
+Ring + Dragon Stone + Perf Ruby -> Assassin's Jewel +1 Random Skilltab	1			1					3	"ring,mag"	ppp	grb					arn		100	100	skilltab	33	18	1	1	skilltab	33	19	1	1	skilltab	33	20	1	1																																																																					0
+Ring + Holy Symbol + Perf Diamond -> Paladic Halo +1 Random Skilltab	1			1					3	"ring,mag"	hly	gwb					prn		100	100	skilltab	33	9	1	1	skilltab	33	10	1	1	skilltab	33	11	1	1																																																																					0
+Ring + Blackmoor + Perf Skull -> Necromancer's Stone +1 Random Skilltab	1			1					3	"ring,mag"	eee	skb					nrn		100	100	skilltab	33	6	1	1	skilltab	33	7	1	1	skilltab	33	8	1	1																																																																					0
+Ring + Forging Hammer + Perf Amethyst -> Barbaric Knuckle +1 Random Skilltab	1			1					3	"ring,mag"	hh2	gvb					brg		100	100	skilltab	33	12	1	1	skilltab	33	13	1	1	skilltab	33	14	1	1																																																																					0
+Amulet + Crushed Gem + Perf Saphire -> Socererer's Talisman +1 Sorc Skills	1			1					3	"amul,mag"	ggg	gbb					sam		100	100	sor			1	1																																																																															0
+Amulet + Spider's Silk + Perf Emerald -> Amazonian Pin +1 Amazon Skills	1			1					3	"amul,mag"	sss	ggb					zam		100	100	ama			1	1																																																																															0
+Amulet + Tyranium Ore + Perf Topaz -> Druidic Necklace +1 Druid Skills	1			1					3	"amul,mag"	ttt	gyb					dam		100	100	dru			1	1																																																																															0
+Amulet + Dragon Stone + Perf Ruby -> Assassin's Choker +1 Assassin Skills	1			1					3	"amul,mag"	ppp	grb					aam		100	100	ass			1	1																																																																															0
+Amulet + Holy Symbol + Perf Diamond -> Holy Pendant +1 Paladin Skills	1			1					3	"amul,mag"	hly	gwb					pam		100	100	pal			1	1																																																																															0
+Amulet + Blackmoor + Perf Skull -> Death's Locket +1 Necromancer Skills	1			1					3	"amul,mag"	eee	skb					nam		100	100	nec			1	1																																																																															0
+Amulet + Forging Hammer + Perf Amethyst -> Primal Charm +1 Barbarian Skills	1			1					3	"amul,mag"	hh2	gvb					bam		100	100	bar			1	1																																																																															0
+Jewel + Super Healing Potion + Cookbook -> Replenish Life +75 Jewel	1			1					3	jew	hp5	yyy					useitem			100	regen			76	76																																																																															0
+Jewel + Minor Mana Potion + Cookbook -> Regenerate Mana 20% Jewel	1			1					3	jew	mp1	yyy					useitem			100	regen-mana			20	20																																																																															0
+Jewel + Light Mana Potion + Cookbook -> Regenerate Mana 40% Jewel	1			1					3	jew	mp2	yyy					useitem			100	regen-mana			40	40																																																																															0
+Jewel + Mana Potion + Cookbook -> Regenerate Mana 60% Jewel	1			1					3	jew	mp3	yyy					useitem			100	regen-mana			60	60																																																																															0
+Jewel + Greater Mana Potion + Cookbook -> Regenerate Mana 80% Jewel	1			1					3	jew	mp4	yyy					useitem			100	regen-mana			80	80																																																																															0
+Jewel + Super Mana Potion + Cookbook -> Regenerate Mana 100% Jewel	1			1					3	jew	mp5	yyy					useitem			100	regen-mana			100	100																																																																															0
+"Weapon + 10 Player Ears + 10 Souls -> +10% to Experience Gained, Regen -10"	1			1					21	weap	"ear,qty=10"	"soul,qty=10"					useitem			100	addxp			5	5	drain		10	10																																																																											0
+"Weapon + 10 Player Ears + 10 Eyes -> +10% Better Chance of Getting Magic Items, Regen -3"	1			1					21	weap	"ear,qty=10"	"eyes,qty=10"					useitem			100	mag%			10	10	drain		5	5																																																																											0
+Magic Charm + Tail + 3 Dragon Stones -> Unique Charm	1			1					5	"cm1,mag"	tail	"ppp,qty=3"					"usetype,uni"			100																																																																																				0
+Magic Charm + Tail + 3 Dragon Stones -> Unique Charm	1			1					5	"cm2,mag"	tail	"ppp,qty=3"					"usetype,uni"			100																																																																																				0
+Magic Charm + Tail + 3 Dragon Stones -> Unique Charm	1			1					5	"cm3,mag"	tail	"ppp,qty=3"					"usetype,uni"			100																																																																																				0
+Unique Charm + Magic Charm + Jawbone -> Rare Charm	1			1					3	"char,uni"	cm1	jawb					"usetype,crf"			100																																																																																				0
+Unique Charm + Magic Charm + Jawbone -> Rare Charm	1			1					3	"char,uni"	cm2	jawb					"usetype,crf"			100																																																																																				0
+Unique Charm + Magic Charm + Jawbone -> Rare Charm	1			1					3	"char,uni"	cm3	jawb					"usetype,crf"			100																																																																																				0
+Rare Charm + 3 Blackmoor -> Rerolled Rare Charm	1			1					4	"char,crf"	"eee,qty=3"						"usetype,crf"			100																																																																																				0
+Malah's Scroll + Small Rare Charm -> Rerolled Rare Charm with All Resist +8%	1			1					2	"cm1,rar"	tr2						"usetype,rar"			100	res-all			8	8																																																																															0
+Malah's Scroll + Large Rare Charm -> Rerolled Rare Charm with All Resist +12%	1			1					2	"cm2,rar"	tr2						"usetype,rar"			100	res-all			12	12																																																																															0
+Malah's Scroll + Grand Rare Charm -> Rerolled Rare Charm with All Resist +16%	1			1					2	"cm3,rar"	tr2						"usetype,rar"			100	res-all			16	16																																																																															0
+QBook of Skill + Grand Rare Charm -> Rerolled Rare Charm with +1 Skills	1			1					2	"cm3,rar"	ass						"usetype,rar"			100	allskills			1	1																																																																															0
+Crafted Weapon + Perf Amethyst + 6 Drag Stone + Forg Hamm -> Set Weapon	1			1					9	"weap,crf"	gvb	"ppp,qty=6"	hh2				"usetype,set"	99																																																																																						0
+Crafted Armor + Perf Diamond + 6 Drag Stone + Forg Hamm -> Set Armor	1			1					9	"armo,crf"	gwb	"ppp,qty=6"	hh2				"usetype,set"	99																																																																																						0
+Crafted Ring + Perf Skull + 6 Drag Stone + Forg Hamm -> Set Ring	1			1					9	"ring,crf"	skb	"ppp,qty=6"	hh2				"usetype,set"	99																																																																																						0
+Crafted Amulet + Perf Ruby + 6 Drag Stone + Forg Hamm -> Set Amulet	1			1					9	"amul,crf"	grb	"ppp,qty=6"	hh2				"usetype,set"	99																																																																																						0
+Griswold's Hand + Forging Hammer + Axe -> Griswold's Revenge	1			1					3	00g	hh2	"axe,any"					"9ga,uni"	99																																																																																						0
+Treehead WoodFist's Arm + Forging Hammer + Club -> Woodfist's Arm	1			1					3	00t	hh2	"club,any"					"shc,uni"	99																																																																																						0
+Radament's Head + Forging Hammer + Shield -> Radament's Rotting Skull	1			1					3	00r	hh2	"shld,any"					"ne3,uni"	99																																																																																						0
+Hephasto's Hand + Forging Hammer + Throwing Axe -> Hephasto's Last Project	1			1					3	00h	hh2	taxe					"0b6,uni"	99																																																																																						0
+10 Dragon Stones + Cook Book -> Tome of Experience	1			1					11	"ppp,qty=10"	yyy						txp																																																																																							0
+4 Unique Charms + 10 Dragon Stones + Cook Book -> Book of Skill	1			1					15	"cm1,uni"	"cm2,uni"	"cm3,uni"	"dev,uni"	"ppp,qty=10"	yyy		tsk																																																																																							0
+Any Armor+ r15 -> Level Requirement -1	1			1	15	92	1		3	"any,armo"	r15	txp					useitem			100	levelreq			-1	-1																																																																															0
+Any Weapon + r15 -> Level Requirement -1	1			1	15	92	1		3	"any,weap"	r15	txp					useitem			100	levelreq			-1	-1																																																																															0
+Any Ring + r15 -> Level Requirement -1	1			1	15	92	1		3	"any,rin"	r15	txp					useitem			100	levelreq			-1	-1																																																																															0
+Any Amu + r15 -> Level Requirement -1	1			1	15	92	1		3	"any,amu"	r15	txp					useitem			100	levelreq			-1	-1																																																																															0
+Any Armor+ r15 -> Level Requirement -3	1			1	15	92	1		3	"any,armo"	r15	tsk					useitem			100	levelreq			-3	-3																																																																															0
+Any Weapon + r15 -> Level Requirement -3	1			1	15	92	1		3	"any,weap"	r15	tsk					useitem			100	levelreq			-3	-3																																																																															0
+Any Ring + r15 -> Level Requirement -3	1			1	15	92	1		3	"any,rin"	r15	tsk					useitem			100	levelreq			-3	-3																																																																															0
+Any Amu + r15 -> Level Requirement -3	1			1	15	92	1		3	"any,amu"	r15	tsk					useitem			100	levelreq			-3	-3																																																																															0
+Unique Ring + Unique Jewel + Elixir + Fang + Horn -> Socketed Ring	1			1					5	"ring,uni"	"jew,uni"	elx	fang	horn			"useitem,sock=1"			100																																																																																				0
+Unique Amul + Unique Jewel + Elixir + Spleen + Scalp -> Socketed Amulet	1			1					5	"amul,uni"	"jew,uni"	elx	spln	sclp			"useitem,sock=1"			100																																																																																				0
+Magic/rare/crafted Ring + any jewel + elixir + eye + brain -> socketed magic/rare/crafted ring	1			1					5	"rin,mag,rare,crf"	"jew"	elx	bran	eyes			"useitem,sock=1"			100																																																																																				0
+Magic/rare/crafted amulet + any jewel + elixir + heart + soul -> socketed magic/rare/crafted amulet	1			1					5	"amu,mag,rar,crf"	"jew"	elx	hart	soul			"useitem,sock=1"			100																																																																																				0
+Weapon + Blackmoor + Holy Symbol + Cookbook -> Weapon +RIP	1			1					4	"weap,any"	eee	hly	yyy				useitem			100	rip			1	1																																																																															0
+Weapon + Forging Hammer + Tyranium Ore + Cookbook -> Weapon +Lifesteal 3%	1			1					4	"weap,any"	hh2	ttt	yyy				useitem			100	lifesteal			3	3																																																																															0
+Weapon + Forging Hammer + Crushed Gem + Cookbook -> Weapon +Manasteal 3%	1			1					4	"weap,any"	hh2	ggg	yyy				useitem			100	manasteal			3	3																																																																															0
+Weapon + Forging Hammer + Perfect Cell + Cookbook -> Weapon +Manasteal 3% +Lifesteal 3%	1			1					4	"weap,any"	hh2	"cm1,uni"	yyy				useitem			100	lifesteal			3	3	manasteal			3	3																																																																										0
+Gloves + Forging Hammer + Tyranium Ore + Cookbook -> Gloves +Heal-Kill 3	1			1					4	"glov,any"	hh2	ttt	yyy				useitem			100	heal-kill			3	3																																																																															0
+Gloves + Forging Hammer + Crushed Gem + Cookbook -> Gloves +Mana-Kill 3	1			1					4	"glov,any"	hh2	ggg	yyy				useitem			100	mana-kill			3	3																																																																															0
+Gloves + Forging Hammer + Perfect Cell + Cookbook -> Gloves +Mana-Kill 3 +Heal-Kill 3	1			1					4	"glov,any"	hh2	"cm1,uni"	yyy				useitem			100	heal-kill			3	3	mana-kill			3	3																																																																										0
+Weapon + Forging Hammer + Dragon Stone + Cookbook -> Weapon +IAS 10%	1			1					4	"weap,any"	hh2	ppp	yyy				useitem			100	swing1			10	10																																																																															0
+Gloves + Forging Hammer + Blackmoor + Cookbook -> Gloves +FC 10%	1			1					4	"glov,any"	hh2	eee	yyy				useitem			100	cast1			10	10																																																																															0
+Socketed Ring + Socketed Amulet + Grand Charm -> Socketed Grand Charm (1)	1			1					3	"cm3,any,sock=2"	"rin,sock=1"	"amu,sock=1"					"useitem,sock=3"			100																																																																																				0
+2 Socketed Rings + 2 Socketed Amulets + Grand Charm -> Socketed Grand Charm (2)	1			1					3	"cm3,any,sock=1"	"rin,sock=1"	"amu,sock=1"					"useitem,sock=2"			100																																																																																				0
+3 Socketed Rings + 3 Socketed Amulets + Grand Charm -> Socketed Grand Charm (3)	1			1					3	"cm3,any,nos"	"rin,sock=1"	"amu,sock=1"					"useitem,sock=1"			100																																																																																				0
+2 Socketed Rings + 2 Socketed Amulets + Large Charm -> Socketed Large Charm (1)	1			1					4	"cm2,any"	"cm3,any,sock=2"	"rin,sock=1"	"amu,sock=1"				"useitem,sock=2"			100																																																																																				0
+3 Socketed Rings + 3 Socketed Amulets + Large Charm -> Socketed Large Charm (2)	1			1					4	"cm2,any"	"cm3,any,sock=1"	"rin,sock=1"	"amu,sock=1"				"useitem,sock=1"			100																																																																																				0
+3 Socketed Rings + 3 Socketed Amulets + Small Charm -> Socketed Small Charm (1)	1			1					4	"cm1,any"	"cm3,any,sock=2"	"rin,sock=1"	"amu,sock=1"				"useitem,sock=1"			100																																																																																				0
+Wirt's Leg + Scroll of Identify + 5 Dragon Stones -> Steak	1			1					7	leg	isc	"ppp,qty=5"					zzz																																																																																							0
+Wirt's Leg + Scroll of Town Portal + 5 Dragon Stones -> Cookbook	1			1					7	leg	tsc	"ppp,qty=5"					yyy																																																																																							0
+Sash set Cycle	1			1					1	"lbl,set"							"lbl,set"	100																																																																																						0
+Light Belt set Cycle	1			1					1	"vbl,set"							"vbl,set"	100																																																																																						0
+Chain Gloves set Cycle	1			1					1	"mgl,set"							"mgl,set"	100																																																																																						0
+Cloak set Cycle	1			1					1	"clk,set"							"clk,set"	100																																																																																						0
+Leather Armor set Cycle	1			1					1	"lea,set"							"lea,set"	100																																																																																						0
+Robe set Cycle	1			1					1	"rob,set"							"rob,set"	100																																																																																						0
+Hard Leather Gloves set Cycle	1			1					1	"vgl,set"							"vgl,set"	100																																																																																						0
+Cap set Cycle	1			1					1	"cap,set"							"cap,set"	100																																																																																						0
+Helm set Cycle	1			1					1	"hlm,set"							"hlm,set"	100																																																																																						0
+Full Helm set Cycle	1			1					1	"fhl,set"							"fhl,set"	100																																																																																						0
+Belt set Cycle	1			1					1	"mbl,set"							"mbl,set"	100																																																																																						0
+Kite Shield set Cycle	1			1					1	"kit,set"							"kit,set"	100																																																																																						0
+Demonhide Gloves set Cycle	1			1					1	"xlg,set"							"xlg,set"	100																																																																																						0
+Reroll Rare Eth Items	1			1					5	"weap,eth,rar"	"gem5,qty=3"	key					"usetype,eth,rar"			100																																																																																				0

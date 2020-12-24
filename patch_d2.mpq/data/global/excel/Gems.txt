@@ -1,0 +1,123 @@
+name	letter	transform	code	nummods	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
+Chipped Amethyst		18	gcv	3	att		40	40	swing1		2	2	ease		-2	-2	str		3	3	red-dmg		1	1					ac		10	10	block		1	1	block1		5	5
+Flawed Amethyst		18	gfv	3	att		60	60	swing1		3	3	ease		-4	-4	str		4	4	red-dmg		2	2					ac		15	15	block		2	2	block1		7	7
+Amethyst		18	gsv	3	att		80	80	swing1		5	5	ease		-6	-6	str		8	8	red-dmg		3	3	red-mag		1	1	ac		25	25	block		3	3	block1		9	9
+Flawless Amethyst		17	gzv	3	att		100	100	swing1		8	8	ease		-8	-8	str		15	15	red-dmg		4	4	red-mag		2	2	ac		40	40	block		5	5	block1		11	11
+Blemished Amethyst		17	gpv	3	att		150	150	swing2		10	10	ease		-10	-10	str		20	20	red-dmg		5	5	red-mag		3	3	ac		60	60	block		10	10	block2		15	15
+Chipped Saphire		5	gcb	3	dmg-cold	25	2	4	mana-kill		1	1	deadly		4	4	mana		15	15	cast1		5	5	mana%		5	5	res-cold		15	15								0
+Flawed Saphire		5	gfb	3	dmg-cold	50	4	5	mana-kill		2	2	deadly		8	8	mana		20	20	cast1		6	6	mana%		6	6	res-cold		20	20								0
+Saphire		5	gsb	3	dmg-cold	75	5	10	mana-kill		3	3	deadly		12	12	mana		25	25	cast1		7	7	mana%		7	7	res-cold		30	30	res-cold-max		3	3				0
+Flwless Saphire		6	glb	3	dmg-cold	100	11	17	mana-kill		4	4	deadly		16	16	mana		30	30	cast1		8	8	mana%		8	8	res-cold		45	45	res-cold-max		6	6	half-freeze		1	1
+Blemished Saphire		6	gpb	3	dmg-cold	150	18	24	mana-kill		5	5	deadly		20	20	mana		35	35	cast2		10	10	mana%		9	9	res-cold		60	60	res-cold-max		10	10	half-freeze		1	1
+Chipped Emerald		11	gcg	3	dmg-pois	25	64	64	noheal		1	1	openwounds		2	2	dex		3	3	att%		4	4	res-pois-len		5	5	res-pois		15	15					rep-dur	5		0
+Flawed Emerald		11	gfg	3	dmg-pois	25	128	128	noheal		1	1	openwounds		4	4	dex		4	4	att%		6	6	res-pois-len		10	10	res-pois		20	20					rep-dur	7		0
+Emerald		11	gsg	3	dmg-pois	25	192	192	noheal		1	1	openwounds		6	6	dex		8	8	att%		8	8	res-pois-len		15	15	res-pois		30	30	res-pois-max		3	3	rep-dur	9		0
+Flawless Emerald		12	glg	3	dmg-pois	25	256	256	noheal		1	1	openwounds		8	8	dex		15	15	att%		10	10	res-pois-len		25	25	res-pois		45	45	res-pois-max		6	6	rep-dur	11		0
+Blemished Emerald		12	gpg	3	dmg-pois	25	384	384	noheal		1	1	openwounds		10	10	dex		20	20	att%		12	12	res-pois-len		40	40	res-pois		60	60	res-pois-max		10	10	rep-dur	13		0
+Chipped Ruby		8	gcr	3	dmg-fire		3	4	heal-kill		1	1	dmg-demon		25	25	hp		10	10	deadly		4	4	balance1		5	5	res-fire		15	15					abs-fire%		1	1
+Flawed Ruby		8	gfr	3	dmg-fire		5	8	heal-kill		2	2	dmg-demon		35	35	hp		20	20	deadly		8	8	balance1		7	7	res-fire		20	20					abs-fire%		2	2
+Ruby		8	gsr	3	dmg-fire		9	12	heal-kill		3	3	dmg-demon		50	50	hp		30	30	deadly		12	12	balance1		9	9	res-fire		30	30	res-fire-max		3	3	abs-fire%		3	3
+Flawless Ruby		9	glr	3	dmg-fire		13	18	heal-kill		4	4	dmg-demon		70	70	hp		40	40	deadly		16	16	balance1		11	11	res-fire		45	45	res-fire-max		6	6	abs-fire%		4	4
+Blemished Ruby		9	gpr	3	dmg-fire		19	25	heal-kill		5	5	dmg-demon		95	95	hp		50	50	deadly		20	20	balance2		13	13	res-fire		60	60	res-fire-max		10	10	abs-fire%		5	5
+Chipped Diamond		0	gcw	3	dmg-min		2	2	dmg-mag		2	4	dmg-undead		25	25	ac		10	10	crush		2	2	dmg-ac		-2	-2	res-all		5	5	dmg-to-mana		10	10	red-dmg		1	1
+Flawed Diamond		0	gfw	3	dmg-min		4	4	dmg-mag		4	6	dmg-undead		50	50	ac		15	15	crush		4	4	dmg-ac		-4	-4	res-all		8	8	dmg-to-mana		15	15	red-dmg		2	2
+Diamond		0	gsw	3	dmg-min		8	8	dmg-mag		6	12	dmg-undead		75	75	ac		25	25	crush		6	6	dmg-ac		-6	-6	res-all		11	11	dmg-to-mana		25	25	red-dmg		3	3
+Flawless Diamond		20	glw	3	dmg-min		12	12	dmg-mag		12	18	dmg-undead		100	100	ac		40	40	crush		8	8	dmg-ac		-8	-8	res-all		14	14	dmg-to-mana		40	40	red-dmg		4	4
+Blemished Diamond		20	gpw	3	dmg-min		16	16	dmg-mag		18	24	dmg-undead		150	150	ac		60	60	crush		10	10	dmg-ac		-10	-10	res-all		18	18	dmg-to-mana		60	60	red-dmg		5	5
+Chipped Topaz		14	gcy	3	dmg-ltng		1	8	slow		5	5	light-thorns		5	5	mag%		10	10	gold%		10	10	att		10	10	res-ltng		15	15					ac-miss		10	10
+Flawed Topaz		14	gfy	3	dmg-ltng		2	16	slow		7	7	light-thorns		10	10	mag%		15	15	gold%		20	20	att		20	20	res-ltng		20	20					ac-miss		30	30
+Topaz		14	gsy	3	dmg-ltng		3	24	slow		9	9	light-thorns		20	20	mag%		20	20	gold%		30	30	att		30	30	res-ltng		30	30	res-ltng-max		3	3	ac-miss		60	60
+Flawless Topaz		13	gly	3	dmg-ltng		4	32	slow		11	11	light-thorns		40	40	mag%		25	25	gold%		45	45	att		40	40	res-ltng		45	45	res-ltng-max		6	6	ac-miss		100	100
+Blemished Topaz		13	gpy	3	dmg-ltng		5	40	slow		15	15	light-thorns		80	80	mag%		30	30	gold%		60	60	att		50	50	res-ltng		60	60	res-ltng-max		10	10	ac-miss		150	150
+Chipped Skull		2	skc	3	manasteal		1	1	lifesteal		1	1	dmg-max		2	2	regen		2	2	regen-mana		5	5	move1		5	5	thorns		10	10	ac-hth		10	10	dmg-pois	25	64	64
+Flawed Skull		2	skf	3	manasteal		2	2	lifesteal		2	2	dmg-max		4	4	regen		4	4	regen-mana		10	10	move1		7	7	thorns		20	20	ac-hth		30	30	dmg-pois	50	64	64
+Skull		2	sku	3	manasteal		3	3	lifesteal		3	3	dmg-max		6	6	regen		6	6	regen-mana		15	15	move1		9	9	thorns		40	40	ac-hth		60	60	dmg-pois	75	64	64
+Flawless Skull		3	skl	3	manasteal		4	4	lifesteal		4	4	dmg-max		8	8	regen		8	8	regen-mana		20	20	move1		11	11	thorns		80	80	ac-hth		100	100	dmg-pois	100	64	64
+Blemished Skull		3	skz	3	manasteal		5	5	lifesteal		5	5	dmg-max		10	10	regen		12	12	regen-mana		25	25	move2		13	13	thorns		120	120	ac-hth		150	150	dmg-pois	125	64	64
+Chipped Obsidian		3	gck	2	dmg%		10	10	deadly		5	5					swing1		5	5	res-all		3	3					red-dmg		2	2	ac%		10	10				0
+Flawed Obsidian		3	gfk	2	dmg%		20	20	deadly		6	6					swing1		6	6	res-all		4	4					red-dmg		3	3	ac%		15	15				0
+Obsidian		3	gsk	2	dmg%		30	30	deadly		7	7					swing1		7	7	res-all		5	5					red-dmg		4	4	ac%		20	20				0
+Flawless Obsidian		3	gzk	2	dmg%		40	40	deadly		8	8					swing1		8	8	res-all		6	6					red-dmg		5	5	ac%		25	25				0
+Blemished Obsidian		3	gpk	2	dmg%		50	50	deadly		9	9					swing1		9	9	res-all		7	7					red-dmg		6	6	ac%		30	30				0
+Perfect Obsidian		3	gbk	2	dmg%		60	60	deadly		10	10					swing1		10	10	res-all		8	8					red-dmg		7	7	ac%		35	35				0
+Perfect Amethyst		17	gvb	3	att		200	200	swing2		15	15	ease		-15	-15	str		25	25	red-dmg		6	6	red-mag		4	4	ac		80	80	block		15	15	block2		20	20
+Perfect Saphire		6	gbb	3	dmg-cold	150	25	30	mana-kill		6	6	deadly		24	24	mana		40	40	cast2		10	10	mana%		10	10	res-cold		75	75	res-cold-max		15	15	nofreeze		1	1
+Perfect Emerald		12	ggb	3	dmg-pois	25	512	512	noheal		1	1	openwounds		15	15	dex		25	25	att%		15	15	res-pois-len		40	40	res-pois		75	75	res-pois-max		15	15	rep-dur	15		0
+Perfect Ruby		9	grb	3	dmg-fire		25	30	heal-kill		6	6	dmg-demon		125	125	hp		60	60	deadly		24	24	balance1		15	15	res-fire		75	75	res-fire-max		15	15	abs-fire%		8	8
+Perfect Diamond		20	gwb	3	dmg-min		20	20	dmg-mag		24	32	dmg-undead		200	200	ac		75	75	crush		12	12	dmg-ac		-12	-12	res-all		20	20	dmg-to-mana		75	75	red-dmg		6	6
+Perfect Topaz		13	gyb	3	dmg-ltng		6	48	slow		19	19	light-thorns		120	120	mag%		35	35	gold%		75	75	att		60	60	res-ltng		75	75	res-ltng-max		15	15	ac-miss		200	200
+Perfect Skull		3	skb	3	manasteal		6	6	lifesteal		6	6	dmg-max		12	12	regen		16	16	regen-mana		25	25	move1		15	15	thorns		160	160	ac-hth		200	200	dmg-pois	150	64	64
+Expansion																																								
+I Rune	I	18	r01	2	dmg%		15	15									ac		15	15									ac		15	15								0
+U Rune	U	18	r02	1	att-undead		75	75	dmg-undead		75	75					move1		10	10									block		7	7								0
+Shi Rune	Shi	18	r03	1	mana-kill		3	3									mana-kill		3	3									mana-kill		3	3								0
+Ka Rune	Ka	18	r04	1	knock		1	1									ac-miss		30	30									ac-miss		45	45								0
+N Rune	N	18	r05	1	dmg-ac		-15	-15									regen-mana		15	15									regen-mana		20	20								0
+Ku Rune	Ku	18	r06	1	dmg-max		9	9									dmg-to-mana		15	15									dmg-to-mana		20	20								0
+Yo Rune	Yo	18	r07	1	dmg-pois	125	154	154									res-pois		30	30									res-pois		35	35								0
+Ki Rune	Ki	18	r08	1	dmg-fire		5	30									res-fire		30	30									res-fire		35	35								0
+Ri Rune	Ri	18	r09	1	dmg-ltng		1	50									res-ltng		30	30									res-ltng		35	35								0
+Mi Rune	Mi	18	r10	1	dmg-cold	75	4	20									res-cold		30	30									res-cold		35	35								0
+Ya Rune	Ya	18	r11	1	lifesteal		7	7									thorns		75	75									thorns		100	100								0
+A Rune	A	18	r12	1	dmg-min		9	9									red-dmg		4	4									red-dmg		6	6								0
+Tsu Rune	Tsu	18	r13	1	swing2		20	20									balance2		20	20									block2		20	20								0
+Chi Rune	Chi	18	r14	1	regen		8	8									regen		8	8									regen		10	10								0
+Sa Rune	Sa	18	r15	1	ease		-20	-20									ease		-15	-15									ease		-15	-15								0
+Yu Rune	Yu	18	r16	1	vit		10	10									vit		10	10									vit		10	10								0
+Ke Rune	Ke	18	r17	1	enr		10	10									enr		10	10									enr		10	10								0
+E Rune	E	18	r18	1	dex		10	10									dex		10	10									dex		10	10								0
+Ko Rune	Ko	18	r19	1	str		10	10									str		10	10									str		10	10								0
+Ra Rune	Ra	18	r20	1	gold%		75	75									gold%		50	50									gold%		50	50								0
+O Rune	O	18	r21	1	att-demon		100	100	dmg-demon		100	100					ac%		30	30									ac%		35	35								0
+Ho Rune	Ho	18	r22	1	openwounds		25	25									res-all		16	16									res-all		22	22								0
+Me Rune	Me	18	r23	1	noheal		1	1									red-mag		4	4									red-mag		6	6								0
+Ru Rune	Ru	18	r24	1	mag%		30	30									mag%		25	25									mag%		25	25								0
+Ta Rune	Ta	18	r25	1	att%		20	20									res-pois-max		5	5									res-pois-max		5	5								0
+To Rune	To	18	r26	1	manasteal		7	7									res-fire-max		5	5									res-fire-max		5	5								0
+Wa Rune	Wa	18	r27	1	dmg%		50	50									res-cold-max		5	5									res-cold-max		5	5								0
+Ha Rune	Ha	18	r28	1	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
+Na Rune	Na	18	r29	1	stupidity		1	1									mana%		10	10									mana		50	50								0
+Ni Rune	Ni	18	r30	1	crush		20	20									red-dmg%		8	8									red-dmg%		10	10								0
+Se Rune	Se	18	r31	1	ignore-ac		1	1									hp%		10	10									hp		50	50								0
+Fu Rune	Fu	18	r32	1	freeze		2	2									freeze		1	1									nofreeze		1	1								0
+Ma Rune	Ma	18	r33	1	hp/lvl	8											hp/lvl	10											hp/lvl	12										0
+Hi Rune	Hi	18	r34	1	mana/lvl	8											mana/lvl	10											mana/lvl	12										0
+Mo Rune	Mo	18	r35	1	str/lvl	2											str/lvl	2											str/lvl	2										0
+No Rune	No	18	r36	1	dex/lvl	2											dex/lvl	2											dex/lvl	2										0
+Te Rune	Te	18	r37	1	vit/lvl	2											vit/lvl	2											vit/lvl	2										0
+Ro Rune	Ro	18	r38	1	enr/lvl	2											enr/lvl	2											enr/lvl	2										0
+So Rune	So	18	r39	1	dmg-fire/lvl	20											res-fire/lvl	4											abs-fire/lvl	2										0
+Mu Rune	Mu	18	r40	1	dmg-cold/lvl	12											res-cold/lvl	4											abs-cold/lvl	2										0
+Ne Rune	Ne	18	r41	1	dmg-pois/lvl	16											res-pois/lvl	4											abs-pois/lvl	2										0
+Re Rune	Re	18	r42	1	dmg-ltng/lvl	24											res-ltng/lvl	4											abs-ltng/lvl	2										0
+Su Rune	Su	18	r43	1	att/lvl	8											ac/lvl	8											ac/lvl	16										0
+He Rune	He	18	r44	1	dmg/lvl	8											thorns/lvl	40											thorns/lvl	60										0
+Nu Rune	Nu	18	r45	1	str		15	15	dex		15	15	vit		15	15	vit		15	15	dex		15	15	enr		15	15	str		15	15	vit		15	15	dex		15	15
+Wo Rune	Wo	18	r46	1	indestruct		1	1									indestruct		1	1									indestruct		1	1								0
+Ji Rune	Ji	18	r47	1	mana-kill		3	3									mana-kill		3	3									mana-kill		3	3								0
+Ga Rune	Ga	18	r48	1	knock		1	1									ac-miss		30	30									ac-miss		45	45								0
+Gu Rune	Gu	18	r49	1	dmg-max		9	9									dmg-to-mana		15	15									dmg-to-mana		20	20								0
+yo Rune	yo	18	r50	1	dmg-pois	125	154	154									res-pois		30	30									res-pois		35	35								0
+Gi Rune	Gi	18	r51	1	dmg-fire		5	30									res-fire		30	30									res-fire		35	35								0
+ya Rune	ya	18	r52	1	lifesteal		7	7									thorns		75	75									thorns		100	100								0
+tsu Rune	tsu	18	r53	1	swing2		20	20									balance2		20	20									block2		20	20								0
+Za Rune	Za	18	r54	1	ease		-20	-20									ease		-15	-15									ease		-15	-15								0
+yu Rune	yu	18	r55	1	vit		10	10									vit		10	10									vit		10	10								0
+Ge Rune	Ge	18	r56	1	enr		10	10									enr		10	10									enr		10	10								0
+Go Rune	Go	18	r57	1	str		10	10									str		10	10									str		10	10								0
+Bo Rune	Bo	18	r58	1	openwounds		25	25									res-all		16	16									res-all		22	22								0
+Po Rune	Po	18	r59	1	openwounds		25	25									res-all		16	16									res-all		22	22								0
+Da Rune	Da	18	r60	1	att%		20	20									res-pois-max		5	5									res-pois-max		5	5								0
+Do Rune	Do	18	r61	1	manasteal		7	7									res-fire-max		5	5									res-fire-max		5	5								0
+Ba Rune	Ba	18	r62	1	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
+Pa Rune	Pa	18	r63	1	deadly		20	20									res-ltng-max		5	5									res-ltng-max		5	5								0
+Ze Rune	Ze	18	r64	1	ignore-ac		1	1									hp%		10	10									hp		50	50								0
+Bu Rune	Bu	18	r65	1	freeze		2	2									freeze		1	1									nofreeze		1	1								0
+Pu Rune	Pu	18	r66	1	freeze		2	2									freeze		1	1									nofreeze		1	1								0
+Bi Rune	Bi	18	r67	1	mana/lvl	8											mana/lvl	10											mana/lvl	12										0
+Pi Rune	Pi	18	r68	1	mana/lvl	8											mana/lvl	10											mana/lvl	12										0
+De Rune	De	18	r69	1	vit/lvl	2											vit/lvl	2											vit/lvl	2										0
+Zo Rune	Zo	18	r70	1	dmg-fire/lvl	20											res-fire/lvl	4											abs-fire/lvl	2										0
+Zu Rune	Zu	18	r71	1	att/lvl	8											ac/lvl	8											ac/lvl	16										0
+Be Rune	Be	18	r72	1	dmg/lvl	8											thorns/lvl	40											thorns/lvl	60										0
+Pe Rune	Pe	18	r73	1	dmg/lvl	8											thorns/lvl	40											thorns/lvl	60										0

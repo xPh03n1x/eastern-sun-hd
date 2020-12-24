@@ -1,0 +1,106 @@
+Name	version	spawnable	rare	level	maxlevel	levelreq	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transform	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	divide	multiply	add
+Fletcher's	0	1	1	1	50	15			3	300	skilltab	0	1	1									1	dgrn	armo	weap									0	0	0
+Bowyer's	0	1	1	40	75	30			2	300	skilltab	0	2	2									1	lgrn	armo	weap									0	0	0
+Archer's	0	1		60		45			1	300	skilltab	0	3	3									1	cgrn	armo	weap									0	0	0
+Acrobat's	0	1	1	1	50	15			3	301	skilltab	1	1	1									1	dred	armo	weap									0	0	0
+Gymnast's	0	1	1	40	75	30			2	301	skilltab	1	2	2									1	lred	armo	weap									0	0	0
+Athlete's	0	1		60		45			1	301	skilltab	1	3	3									1	cred	armo	weap									0	0	0
+Harpoonist's	0	1	1	1	50	15			3	302	skilltab	2	1	1									1	dblu	armo	weap									0	0	0
+Spearmaiden's	0	1	1	40	75	30			2	302	skilltab	2	2	2									1	lblu	armo	weap									0	0	0
+Lancer's	0	1		60		45			1	302	skilltab	2	3	3									1	cblu	armo	weap									0	0	0
+of the Jackal	0	1	1	1	20	3			6	303	hp		1	5									1	oran	armo	weap									0	0	0
+of the Fox	0	1	1	11	40	8			5	303	hp		6	10									1	oran	armo	weap									0	0	0
+of the Wolf	0	1	1	27	60	20			4	303	hp		11	20									1	dred	armo	weap									0	0	0
+of the Tiger	0	1	1	43		35			3	303	hp		21	30									1	dred	armo	weap									0	0	0
+of the Mammoth	0	1	1	59		51			2	303	hp		31	40									1	cred	armo	weap									0	0	0
+of the Colossus	0	1		75		67			1	303	hp		41	60									1	cred	armo	weap									0	0	0
+Lizard's	0	1	1	3	15	2			4	303	mana		1	5									1	dgrn	armo	weap									0	0	0
+Snake's	0	1	1	12	30	9			3	303	mana		5	10									1	dgrn	armo	weap									0	0	0
+Serpent's	0	1	1	23	45	16			2	303	mana		11	20									1	dblu	armo	weap									0	0	0
+Drake's	0	1	1	34	60	26			2	303	mana		21	30									1	dblu	armo	weap									0	0	0
+Dragon's	0	1	1	45		37			1	303	mana		31	40									1	cblu	armo	weap									0	0	0
+Wyrm's	0	1	1	56		48			1	303	mana		41	60									1	cblu	armo	weap									0	0	0
+Great Wyrm's	0	1		67		59			1	303	mana		61	80									1	cblu	armo	weap									0	0	0
+Shimmering	0	1	1	1	40	3			8	304	res-all		5	10									1	lpur	armo	weap									0	0	0
+Rainbow	0	1	1	18	60	13			7	304	res-all		8	15									1	lpur	armo	weap									0	0	0
+Scintillating	0	1	1	28		21			6	304	res-all		16	30									1	lpur	armo	weap									0	0	0
+Prismatic	0	1	1	39		31			5	304	res-all		25	35									1	lpur	armo	weap									0	0	0
+Chromatic	0	1		50		42			4	304	res-all		35	45									1	lpur	armo	weap									0	0	0
+Sharp	0	1	1	10		5			3	304	att		15	30	dmg%		10	20					1	dyel	weap										0	0	0
+Fine	0	1	1	18		13			3	304	att		31	60	dmg%		21	30					1	dyel	weap										0	0	0
+Warrior's	0	1	1	30		23			2	304	att		61	80	dmg%		31	40					1	dyel	weap										0	0	0
+Soldier's	0	1	1	42		34			2	304	att		81	100	dmg%		41	50					1	dyel	weap										0	0	0
+Knight's	0	1	1	50		42			2	304	att		101	121	dmg%		51	65					1	dgld	weap										0	0	0
+of Blight	0	1	1	1		3			3	305	pois-min		16	16	pois-max		24	24	pois-len		100	100	1	lgrn	armo	weap									0	0	0
+of Venom	0	1	1	15		11			2	305	pois-min		24	24	pois-max		48	48	pois-len		150	150	1	lgrn	armo	weap									0	0	0
+of Pestilence	0	1	1	25		18			2	305	pois-min		48	48	pois-max		72	72	pois-len		200	200	1	dgrn	armo	weap									0	0	0
+of Anthrax	0	1		33		25			2	305	pois-min		72	72	pois-max		128	128	pois-len		250	250	1	dgrn	armo	weap									0	0	0
+of Thorns	0	1	1	14	5	10			4	306	thorns		4	12									1	oran	tors	helm	shld	belt	circ						0	0	0
+of Spikes	0	1	1	21	10	15			4	306	thorns		16	24									1	oran	tors	helm	shld	belt	circ						0	0	0
+of Razors	0	1	1	34	15	26			4	306	thorns		28	36									1	oran	tors	shld	circ								0	0	0
+of Swords	0	1		47		39			4	306	thorns		40	80									1	oran	tors	shld	circ								0	0	0
+Mighty	0	1	1	11	40	10			1	307	str		1	3									1	lyel	armo	weap									0	0	0
+Energizing	0	1	1	18	60	16			1	307	str		4	6									1	oran	armo	weap									0	0	0
+Strengthening	0	1	0	23		20			2	307	str		7	9									1	dred	armo	weap									0	0	0
+Empowering	0	1	0	26		24			2	307	str		10	15									1	cred	armo	weap									0	0	0
+of the Jackal	0	1	1	1	20	3			6	308	hp		1	5									1	oran	armo	weap									0	0	0
+of the Fox	0	1	1	11	40	8			5	308	hp		6	10									1	oran	armo	weap									0	0	0
+of the Wolf	0	1	1	27	60	20			4	308	hp		11	20									1	dred	armo	weap									0	0	0
+of the Tiger	0	1	1	43		35			3	308	hp		21	30									1	dred	armo	weap									0	0	0
+of the Mammoth	0	1	1	59		51			2	308	hp		31	40									1	cred	armo	weap									0	0	0
+of the Colossus	0	1		75		67			1	308	hp		41	60									1	cred	armo	weap									0	0	0
+of the Apprentice	0	1	1	27		3			4	309	cast1		2	2									1	lblu	rod	ring	amul	orb	circ	boot					0	0	0
+of the Apprentice	0	1	1	43		3			4	309	cast1		4	4									1	dblu	rod	ring	amul	orb	circ	boot					0	0	0
+of the Magus	0	1	1	59		21			4	309	cast2		6	6									1	dblu	rod	orb	circ	boot							0	0	0
+of the Magus	0	1	1	75		21			4	309	cast2		8	8									1	cblu	rod	orb	circ	boot							0	0	0
+Lizard's	0	1	1	3	15	2			4	310	mana		1	5									1	dgrn	armo	weap									0	0	0
+Snake's	0	1	1	12	30	9			3	310	mana		5	10									1	dgrn	armo	weap									0	0	0
+Serpent's	0	1	1	23	45	16			2	310	mana		11	20									1	dblu	armo	weap									0	0	0
+Drake's	0	1	1	34	60	26			2	310	mana		21	30									1	dblu	armo	weap									0	0	0
+Dragon's	0	1	1	45		37			1	310	mana		31	40									1	cblu	armo	weap									0	0	0
+Wyrm's	0	1	1	56		48			1	310	mana		41	60									1	cblu	armo	weap									0	0	0
+Great Wyrm's	0	1		67		59			1	310	mana		61	80									1	cblu	armo	weap									0	0	0
+Compact	0	1	1	2	40	1			6	311	stack		20	20											thro										0	0	0
+Thin	0	1	1	17	60	12			5	311	stack		40	40											thro										0	0	0
+Dense	0	1	1	38		30			4	311	stack		60	60											thro										0	0	0
+of Replenishing	0	1	1	5	60	3			4	311	rep-quant	3											1	oran	thro										0	0	0
+of Propogation	0	1	1	24		18			4	311	rep-quant	5											1	oran	thro										0	0	0
+Mentalist's	100	1	1	20	50	15			1	312	skilltab	19	1	1									1	lgry	weap										0	0	0
+Psychic	100	1	1	40	75	30			1	312	skilltab	19	2	2									1	dgry	weap										0	0	0
+Shadow	100	1		60		45			1	312	skilltab	19	3	3									1	blac	weap										0	0	0
+Shogukusha's	100	1	1	20	50	15			1	312	skilltab	20	1	1									1	lgry	weap										0	0	0
+Sensei's	100	1	1	40	75	30			1	312	skilltab	20	2	2									1	dgry	weap										0	0	0
+Kenshi's	100	1		60		45			1	312	skilltab	20	3	3									1	blac	weap										0	0	0
+null	0	1	1	1		1			1	313	rep-quant	100													arrm	boqm									0	0	0
+Mentalist's	0	1	1	9	24	6			1	314	red-dmg		3	4	red-mag		3	4					1	lred	weap										0	0	0
+Psychic	0	1	1	19	32	14			1	314	red-dmg		5	7	red-mag		5	7					1	lred	weap										0	0	0
+Shadow	0	1	1	25	40	18			1	314	red-dmg		8	11	red-mag		8	11					1	dred	weap										0	0	0
+Shogukusha's	0	1	1	31		23			1	314	red-dmg		12	15	red-mag		12	15					1	dred	weap										0	0	0
+Sensei's	0	1	1	36		27			1	314	red-dmg		16	20	red-mag		16	20					1	cred	weap										0	0	0
+Kenshi's	0	1	1	45		38			1	314	red-dmg		21	30	red-mag		21	30					1	cred	weap										0	0	0
+Burning	0	1	1	1	50	15			1	315	skilltab	3	1	1									1	dred	staff										0	0	-4225
+Blazing	0	1	1	20	75	30			1	315	skilltab	3	2	2									1	lred	staff										0	0	-5625
+Volcanic	0	1		40		45			1	315	skilltab	3	3	3									1	cred	staff										0	0	-7500
+Volcanic	0	1		60		45			1	315	skilltab	3	4	4									1	cred	staff										0	0	-10000
+Sparking	0	1	1	1	50	15			1	315	skilltab	4	1	1									1	dyel	staff										0	0	-4225
+Charged	0	1	1	20	75	30			1	315	skilltab	4	2	2									1	dgld	staff										0	0	-5625
+Powered	0	1		40		45			1	315	skilltab	4	3	3									1	lgld	staff										0	0	-7500
+Powered	0	1		60		45			1	315	skilltab	4	4	4									1	lgld	staff										0	0	-10000
+Chilling	0	1	1	1	50	15			1	315	skilltab	5	1	1									1	dblu	staff										0	0	-4225
+Freezing	0	1	1	20	75	30			1	315	skilltab	5	2	2									1	lblu	staff										0	0	-5625
+Glacial	0	1		40		45			1	315	skilltab	5	3	3									1	cblu	staff										0	0	-7500
+Glacial	0	1		60		45			1	315	skilltab	5	4	4									1	cblu	staff										0	0	-10000
+Axe Bonus	0	1		1		1			1	316	dmg-demon		50	50											axe										0	0	0
+Faster Cast	0	1		1	20	1			1	317	cast1		3	3									1	lblu	glov										0	0	0
+Faster Cast	0	1		20	40	6			1	317	cast1		6	6									1	dblu	glov										0	0	0
+Faster Cast	0	1		40	60	14			1	317	cast1		9	9									1	dblu	glov										0	0	0
+Faster Cast	0	1		60		18			1	317	cast1		12	12									1	cblu	glov										0	0	0
+Lion Branded	0	1	1	1	50	15			3	318	skilltab	9	1	1									1	dred	weap										0	0	0
+Hawk Branded	0	1	1	40	75	30			2	318	skilltab	9	2	2									1	lred	weap										0	0	0
+Rose Branded	0	1		60		45			1	318	skilltab	9	3	3									1	cred	weap										0	0	0
+Captain's	0	1	1	1	50	15			3	318	skilltab	10	1	1									1	dgrn	weap										0	0	0
+Commander's	0	1	1	40	75	30			2	318	skilltab	10	2	2									1	lgrn	weap										0	0	0
+Marshal's	0	1		60		45			1	318	skilltab	10	3	3									1	cgrn	weap										0	0	0
+Preserver's	0	1	1	1	50	15			3	318	skilltab	11	1	1									1	dblu	weap										0	0	0
+Warder's	0	1	1	40	75	30			2	318	skilltab	11	2	2									1	lblu	weap										0	0	0
+Guardian's	0	1		60		45			1	318	skilltab	11	3	3									1	cblu	weap										0	0	0

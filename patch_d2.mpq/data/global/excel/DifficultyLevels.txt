@@ -1,0 +1,4 @@
+Name	ResistPenalty	DeathExpPenalty	UberCodeOddsNormal	UberCodeOddsGood	UltraCodeOddsNormal	UltraCodeOddsGood	MonsterSkillBonus	MonsterFreezeDivisor	MonsterColdDivisor	AiCurseDivisor	LifeStealDivisor	ManaStealDivisor	UniqueDamageBonus	ChampionDamageBonus	HireableBossDamagePercent	MonsterCEDamagePercent	StaticFieldMin	GambleRare	GambleSet	GambleUnique	GambleUber	GambleUltra
+Normal	0	12	0	0	0	0	0	1	1	1	1	1	90	90	50	50	10	130000	10000	5000	25000	15000
+Nightmare	-40	6	10	20	0	0	3	2	2	2	2	2	75	75	35	35	20	160000	20000	10000	50000	30000
+Hell	-100	3	20	40	30	40	7	4	4	4	4	4	66	66	25	20	40	190000	30000	15000	150	2500

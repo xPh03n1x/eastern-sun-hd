@@ -1,0 +1,21 @@
+Amazon	0	Bow & Crossbow
+	1	Passive & Magic
+	2	Spear & Javelin 
+Sorceress	3	Fire
+	4	Lightning
+	5	Cold 
+Necromancer	6	Curses
+	7	Poison & Bone
+	8	Summoning 
+Paladin	9	Offensive Auras
+	10	Combat Skills
+	11	Defensive Auras 
+Barbarian	12	Masteries
+	13	Combat Skills
+	14	Warcries 
+Druid	15	Summoning
+	16	Shapeshifting
+	17	Elemental 
+Assassin	18	Traps
+	19	Shadow Disciplines
+	20	Martial Arts
